@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="graph" attr.name="play_type" attr.type="string"/>
+<key id="d2" for="graph" attr.name="play_id" attr.type="string"/>
+<key id="d1" for="graph" attr.name="play_name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source_url" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">http://shakespeare.mit.edu/lear/index.html</data>
+<data key="d1">King Lear</data>
+<data key="d2">lear</data>
+<data key="d3">tragedy</data>
+<node id="Gentleman"/>
+<node id="EDGAR"/>
+<node id="OSWALD"/>
+<node id="KENT"/>
+<node id="ALBANY"/>
+<node id="EDMUND"/>
+<node id="GONERIL"/>
+<node id="CORDELIA"/>
+<node id="GLOUCESTER"/>
+<node id="CORNWALL"/>
+<node id="Fool"/>
+<node id="LEAR"/>
+<node id="Herald"/>
+<node id="Doctor"/>
+<node id="KING LEAR"/>
+<node id="REGAN"/>
+<node id="KING OF FRANCE"/>
+<node id="Messenger"/>
+<node id="Third Servant"/>
+<node id="Knight"/>
+<node id="CURAN"/>
+<node id="Old Man"/>
+<node id="Captain"/>
+<node id="First Servant"/>
+<node id="BURGUNDY"/>
+<node id="Second Servant"/>
+<edge source="Gentleman" target="CORDELIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="Gentleman" target="GONERIL">
+  <data key="d4">2</data>
+</edge>
+<edge source="Gentleman" target="Fool">
+  <data key="d4">2</data>
+</edge>
+<edge source="Gentleman" target="EDMUND">
+  <data key="d4">1</data>
+</edge>
+<edge source="Gentleman" target="REGAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="Gentleman" target="ALBANY">
+  <data key="d4">1</data>
+</edge>
+<edge source="Gentleman" target="CORNWALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="Gentleman" target="KENT">
+  <data key="d4">6</data>
+</edge>
+<edge source="Gentleman" target="GLOUCESTER">
+  <data key="d4">2</data>
+</edge>
+<edge source="Gentleman" target="Doctor">
+  <data key="d4">1</data>
+</edge>
+<edge source="Gentleman" target="Captain">
+  <data key="d4">1</data>
+</edge>
+<edge source="Gentleman" target="EDGAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="Gentleman" target="Herald">
+  <data key="d4">1</data>
+</edge>
+<edge source="Gentleman" target="OSWALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="Gentleman" target="KING LEAR">
+  <data key="d4">5</data>
+</edge>
+<edge source="EDGAR" target="CORDELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDGAR" target="GONERIL">
+  <data key="d4">2</data>
+</edge>
+<edge source="EDGAR" target="Fool">
+  <data key="d4">2</data>
+</edge>
+<edge source="EDGAR" target="EDMUND">
+  <data key="d4">4</data>
+</edge>
+<edge source="EDGAR" target="REGAN">
+  <data key="d4">3</data>
+</edge>
+<edge source="EDGAR" target="ALBANY">
+  <data key="d4">2</data>
+</edge>
+<edge source="EDGAR" target="Old Man">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDGAR" target="CORNWALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDGAR" target="KENT">
+  <data key="d4">3</data>
+</edge>
+<edge source="EDGAR" target="GLOUCESTER">
+  <data key="d4">7</data>
+</edge>
+<edge source="EDGAR" target="Captain">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDGAR" target="Herald">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDGAR" target="CURAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDGAR" target="OSWALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDGAR" target="KING LEAR">
+  <data key="d4">4</data>
+</edge>
+<edge source="OSWALD" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="OSWALD" target="GONERIL">
+  <data key="d4">4</data>
+</edge>
+<edge source="OSWALD" target="Fool">
+  <data key="d4">1</data>
+</edge>
+<edge source="OSWALD" target="EDMUND">
+  <data key="d4">2</data>
+</edge>
+<edge source="OSWALD" target="REGAN">
+  <data key="d4">3</data>
+</edge>
+<edge source="OSWALD" target="ALBANY">
+  <data key="d4">2</data>
+</edge>
+<edge source="OSWALD" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="OSWALD" target="Third Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="OSWALD" target="KENT">
+  <data key="d4">2</data>
+</edge>
+<edge source="OSWALD" target="CORNWALL">
+  <data key="d4">2</data>
+</edge>
+<edge source="OSWALD" target="GLOUCESTER">
+  <data key="d4">3</data>
+</edge>
+<edge source="OSWALD" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="OSWALD" target="Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="OSWALD" target="KING LEAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="KENT" target="CORDELIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="KENT" target="GONERIL">
+  <data key="d4">4</data>
+</edge>
+<edge source="KENT" target="Fool">
+  <data key="d4">6</data>
+</edge>
+<edge source="KENT" target="EDMUND">
+  <data key="d4">3</data>
+</edge>
+<edge source="KENT" target="REGAN">
+  <data key="d4">4</data>
+</edge>
+<edge source="KENT" target="ALBANY">
+  <data key="d4">3</data>
+</edge>
+<edge source="KENT" target="KING OF FRANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="KENT" target="CORNWALL">
+  <data key="d4">3</data>
+</edge>
+<edge source="KENT" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="KENT" target="GLOUCESTER">
+  <data key="d4">5</data>
+</edge>
+<edge source="KENT" target="Doctor">
+  <data key="d4">1</data>
+</edge>
+<edge source="KENT" target="Captain">
+  <data key="d4">1</data>
+</edge>
+<edge source="KENT" target="Herald">
+  <data key="d4">1</data>
+</edge>
+<edge source="KENT" target="LEAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="KENT" target="Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="KENT" target="KING LEAR">
+  <data key="d4">9</data>
+</edge>
+<edge source="ALBANY" target="CORDELIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALBANY" target="GONERIL">
+  <data key="d4">5</data>
+</edge>
+<edge source="ALBANY" target="Fool">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALBANY" target="EDMUND">
+  <data key="d4">4</data>
+</edge>
+<edge source="ALBANY" target="REGAN">
+  <data key="d4">3</data>
+</edge>
+<edge source="ALBANY" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALBANY" target="KING OF FRANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALBANY" target="CORNWALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALBANY" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALBANY" target="GLOUCESTER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALBANY" target="Captain">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALBANY" target="Herald">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALBANY" target="LEAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALBANY" target="Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALBANY" target="KING LEAR">
+  <data key="d4">3</data>
+</edge>
+<edge source="EDMUND" target="CORDELIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="EDMUND" target="GONERIL">
+  <data key="d4">4</data>
+</edge>
+<edge source="EDMUND" target="REGAN">
+  <data key="d4">5</data>
+</edge>
+<edge source="EDMUND" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDMUND" target="KING OF FRANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDMUND" target="CORNWALL">
+  <data key="d4">4</data>
+</edge>
+<edge source="EDMUND" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDMUND" target="GLOUCESTER">
+  <data key="d4">5</data>
+</edge>
+<edge source="EDMUND" target="Captain">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDMUND" target="Herald">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDMUND" target="LEAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDMUND" target="CURAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="EDMUND" target="KING LEAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="GONERIL" target="CORDELIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="GONERIL" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONERIL" target="Fool">
+  <data key="d4">2</data>
+</edge>
+<edge source="GONERIL" target="REGAN">
+  <data key="d4">5</data>
+</edge>
+<edge source="GONERIL" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONERIL" target="Third Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONERIL" target="KING OF FRANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONERIL" target="CORNWALL">
+  <data key="d4">3</data>
+</edge>
+<edge source="GONERIL" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONERIL" target="GLOUCESTER">
+  <data key="d4">3</data>
+</edge>
+<edge source="GONERIL" target="Captain">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONERIL" target="Herald">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONERIL" target="LEAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONERIL" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONERIL" target="Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONERIL" target="KING LEAR">
+  <data key="d4">4</data>
+</edge>
+<edge source="CORDELIA" target="REGAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="CORDELIA" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORDELIA" target="KING OF FRANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORDELIA" target="CORNWALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORDELIA" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORDELIA" target="GLOUCESTER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORDELIA" target="Doctor">
+  <data key="d4">2</data>
+</edge>
+<edge source="CORDELIA" target="Captain">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORDELIA" target="LEAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORDELIA" target="Herald">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORDELIA" target="KING LEAR">
+  <data key="d4">3</data>
+</edge>
+<edge source="GLOUCESTER" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="GLOUCESTER" target="Fool">
+  <data key="d4">3</data>
+</edge>
+<edge source="GLOUCESTER" target="REGAN">
+  <data key="d4">5</data>
+</edge>
+<edge source="GLOUCESTER" target="Third Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="GLOUCESTER" target="KING OF FRANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="GLOUCESTER" target="Old Man">
+  <data key="d4">1</data>
+</edge>
+<edge source="GLOUCESTER" target="CORNWALL">
+  <data key="d4">5</data>
+</edge>
+<edge source="GLOUCESTER" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="GLOUCESTER" target="LEAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="GLOUCESTER" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="GLOUCESTER" target="CURAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="GLOUCESTER" target="KING LEAR">
+  <data key="d4">5</data>
+</edge>
+<edge source="CORNWALL" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORNWALL" target="Fool">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORNWALL" target="REGAN">
+  <data key="d4">5</data>
+</edge>
+<edge source="CORNWALL" target="Third Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORNWALL" target="KING OF FRANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORNWALL" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORNWALL" target="LEAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORNWALL" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORNWALL" target="CURAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORNWALL" target="KING LEAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="Fool" target="REGAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="Fool" target="Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="Fool" target="KING LEAR">
+  <data key="d4">6</data>
+</edge>
+<edge source="LEAR" target="REGAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEAR" target="KING OF FRANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEAR" target="KING LEAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEAR" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="Herald" target="Captain">
+  <data key="d4">1</data>
+</edge>
+<edge source="Herald" target="REGAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="Herald" target="KING LEAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="Doctor" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="Doctor" target="KING LEAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="KING LEAR" target="REGAN">
+  <data key="d4">3</data>
+</edge>
+<edge source="KING LEAR" target="KING OF FRANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="KING LEAR" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="KING LEAR" target="Captain">
+  <data key="d4">1</data>
+</edge>
+<edge source="KING LEAR" target="Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="REGAN" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="REGAN" target="Third Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="REGAN" target="KING OF FRANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="REGAN" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="REGAN" target="Captain">
+  <data key="d4">1</data>
+</edge>
+<edge source="REGAN" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="REGAN" target="CURAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="KING OF FRANCE" target="BURGUNDY">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Servant" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Servant" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,700 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="graph" attr.name="play_type" attr.type="string"/>
+<key id="d2" for="graph" attr.name="play_id" attr.type="string"/>
+<key id="d1" for="graph" attr.name="play_name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source_url" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">http://shakespeare.mit.edu/pericles/index.html</data>
+<data key="d1">Pericles, Prince of Tyre</data>
+<data key="d2">pericles</data>
+<data key="d3">comedy</data>
+<node id="THALIARD"/>
+<node id="BOULT"/>
+<node id="MARINA"/>
+<node id="CERIMON"/>
+<node id="First Knight"/>
+<node id="HELICANUS"/>
+<node id="First Servant"/>
+<node id="Knights"/>
+<node id="First Fisherman"/>
+<node id="Third Fisherman"/>
+<node id="First Gentleman"/>
+<node id="Servant"/>
+<node id="Second Knight"/>
+<node id="THAISA"/>
+<node id="Pandar"/>
+<node id="GOWER"/>
+<node id="SIMONIDES"/>
+<node id="All"/>
+<node id="First Lord"/>
+<node id="ESCANES"/>
+<node id="PERICLES"/>
+<node id="Second Lord"/>
+<node id="CLEON"/>
+<node id="PHILEMON"/>
+<node id="Third Pirate"/>
+<node id="Bawd"/>
+<node id="Marshal"/>
+<node id="Daughter"/>
+<node id="Third Knight"/>
+<node id="Messenger"/>
+<node id="DIONYZA"/>
+<node id="LYSIMACHUS"/>
+<node id="LYCHORIDA"/>
+<node id="Second Fisherman"/>
+<node id="Second Sailor"/>
+<node id="BOTH"/>
+<node id="Third Lord"/>
+<node id="Second Pirate"/>
+<node id="Tyrian Sailor"/>
+<node id="First Pirate"/>
+<node id="DIANA"/>
+<node id="KNIGHTS"/>
+<node id="Lord"/>
+<node id="Second Gentleman"/>
+<node id="LEONINE"/>
+<node id="First Sailor"/>
+<node id="ANTIOCHUS"/>
+<edge source="THALIARD" target="Daughter">
+  <data key="d4">1</data>
+</edge>
+<edge source="THALIARD" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="THALIARD" target="ANTIOCHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="THALIARD" target="PERICLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="THALIARD" target="HELICANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOULT" target="MARINA">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOULT" target="Pandar">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOULT" target="GOWER">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOULT" target="LYSIMACHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOULT" target="Bawd">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOULT" target="First Pirate">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="DIONYZA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="DIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="Pandar">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARINA" target="Third Pirate">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="First Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="LEONINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="Bawd">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARINA" target="First Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="HELICANUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARINA" target="CERIMON">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="GOWER">
+  <data key="d4">3</data>
+</edge>
+<edge source="MARINA" target="LYSIMACHUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARINA" target="Tyrian Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="PERICLES">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARINA" target="THAISA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="Second Pirate">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARINA" target="First Pirate">
+  <data key="d4">2</data>
+</edge>
+<edge source="CERIMON" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="CERIMON" target="PHILEMON">
+  <data key="d4">1</data>
+</edge>
+<edge source="CERIMON" target="GOWER">
+  <data key="d4">2</data>
+</edge>
+<edge source="CERIMON" target="First Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="CERIMON" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="CERIMON" target="HELICANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CERIMON" target="PERICLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="CERIMON" target="THAISA">
+  <data key="d4">3</data>
+</edge>
+<edge source="CERIMON" target="Second Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Knight" target="Second Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Knight" target="SIMONIDES">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Knight" target="Third Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Knight" target="LYCHORIDA">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Knight" target="Knights">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Knight" target="Second Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Knight" target="GOWER">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Knight" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Knight" target="PERICLES">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Knight" target="THAISA">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Knight" target="KNIGHTS">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Knight" target="First Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Knight" target="Marshal">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELICANUS" target="DIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELICANUS" target="Third Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELICANUS" target="First Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELICANUS" target="First Lord">
+  <data key="d4">3</data>
+</edge>
+<edge source="HELICANUS" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELICANUS" target="GOWER">
+  <data key="d4">2</data>
+</edge>
+<edge source="HELICANUS" target="ESCANES">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELICANUS" target="LYSIMACHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELICANUS" target="Second Lord">
+  <data key="d4">2</data>
+</edge>
+<edge source="HELICANUS" target="Tyrian Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELICANUS" target="PERICLES">
+  <data key="d4">3</data>
+</edge>
+<edge source="HELICANUS" target="THAISA">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="PHILEMON">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="First Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="THAISA">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="Second Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Knights" target="SIMONIDES">
+  <data key="d4">1</data>
+</edge>
+<edge source="Knights" target="KNIGHTS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Knights" target="PERICLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="Knights" target="THAISA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Knights" target="Marshal">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Fisherman" target="PERICLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Fisherman" target="Second Fisherman">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Fisherman" target="Third Fisherman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Fisherman" target="PERICLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Fisherman" target="Second Fisherman">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Gentleman" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Gentleman" target="DIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Gentleman" target="PHILEMON">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Gentleman" target="GOWER">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Gentleman" target="LYSIMACHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Gentleman" target="Tyrian Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Gentleman" target="PERICLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Gentleman" target="THAISA">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Gentleman" target="Second Gentleman">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Gentleman" target="First Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="PHILEMON">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="THAISA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="Second Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Knight" target="SIMONIDES">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Knight" target="Third Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Knight" target="LYCHORIDA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Knight" target="Second Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Knight" target="GOWER">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Knight" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Knight" target="PERICLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Knight" target="THAISA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Knight" target="First Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="Third Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="PHILEMON">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="Second Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="Second Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="First Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="Marshal">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="SIMONIDES">
+  <data key="d4">3</data>
+</edge>
+<edge source="THAISA" target="Third Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="LYCHORIDA">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="GOWER">
+  <data key="d4">3</data>
+</edge>
+<edge source="THAISA" target="Second Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="PERICLES">
+  <data key="d4">3</data>
+</edge>
+<edge source="THAISA" target="KNIGHTS">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="THAISA" target="First Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="Pandar" target="GOWER">
+  <data key="d4">1</data>
+</edge>
+<edge source="Pandar" target="LYSIMACHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Pandar" target="Bawd">
+  <data key="d4">2</data>
+</edge>
+<edge source="Pandar" target="First Pirate">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="DIONYZA">
+  <data key="d4">2</data>
+</edge>
+<edge source="GOWER" target="DIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="CLEON">
+  <data key="d4">2</data>
+</edge>
+<edge source="GOWER" target="Second Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="Bawd">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="First Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="SIMONIDES">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="Third Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="LYCHORIDA">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="LYSIMACHUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="GOWER" target="Tyrian Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="PERICLES">
+  <data key="d4">4</data>
+</edge>
+<edge source="GOWER" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOWER" target="First Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIMONIDES" target="Third Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIMONIDES" target="Second Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIMONIDES" target="First Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIMONIDES" target="Marshal">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIMONIDES" target="Third Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIMONIDES" target="LYCHORIDA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIMONIDES" target="Second Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIMONIDES" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIMONIDES" target="PERICLES">
+  <data key="d4">2</data>
+</edge>
+<edge source="SIMONIDES" target="KNIGHTS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIMONIDES" target="First Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="DIONYZA">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="Third Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="CLEON">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="ESCANES">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="Second Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="PERICLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="First Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="DIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="Third Lord">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Lord" target="ESCANES">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="LYSIMACHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="Second Lord">
+  <data key="d4">3</data>
+</edge>
+<edge source="First Lord" target="Tyrian Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="PERICLES">
+  <data key="d4">2</data>
+</edge>
+<edge source="ESCANES" target="Third Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="ESCANES" target="Second Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="DIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="ANTIOCHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="Second Fisherman">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="Third Knight">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="Daughter">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="Second Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="Tyrian Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="KNIGHTS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="DIONYZA">
+  <data key="d4">2</data>
+</edge>
+<edge source="PERICLES" target="Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="CLEON">
+  <data key="d4">2</data>
+</edge>
+<edge source="PERICLES" target="Second Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="Marshal">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="LYCHORIDA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="LYSIMACHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERICLES" target="First Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Lord" target="Third Lord">
+  <data key="d4">2</data>
+</edge>
+<edge source="CLEON" target="DIONYZA">
+  <data key="d4">3</data>
+</edge>
+<edge source="CLEON" target="Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILEMON" target="Second Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Pirate" target="DIONYZA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Pirate" target="LEONINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Pirate" target="Second Pirate">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Pirate" target="First Pirate">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bawd" target="LYSIMACHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bawd" target="First Pirate">
+  <data key="d4">1</data>
+</edge>
+<edge source="Marshal" target="KNIGHTS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Daughter" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="Daughter" target="ANTIOCHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Knight" target="LYCHORIDA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Knight" target="Second Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Knight" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Knight" target="First Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="Messenger" target="ANTIOCHUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIONYZA" target="Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIONYZA" target="LEONINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIONYZA" target="Second Pirate">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIONYZA" target="First Pirate">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSIMACHUS" target="DIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSIMACHUS" target="Tyrian Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYCHORIDA" target="Second Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYCHORIDA" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYCHORIDA" target="First Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Sailor" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Sailor" target="First Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTH" target="First Sailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Pirate" target="LEONINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Pirate" target="First Pirate">
+  <data key="d4">1</data>
+</edge>
+<edge source="Tyrian Sailor" target="DIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Pirate" target="LEONINE">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,367 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="graph" attr.name="play_type" attr.type="string"/>
+<key id="d2" for="graph" attr.name="play_id" attr.type="string"/>
+<key id="d1" for="graph" attr.name="play_name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source_url" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">http://shakespeare.mit.edu/merchant/index.html</data>
+<data key="d1">The Merchant of Venice</data>
+<data key="d2">merchant</data>
+<data key="d3">comedy</data>
+<node id="PORTIA"/>
+<node id="GRATIANO"/>
+<node id="JESSICA"/>
+<node id="LORENZO"/>
+<node id="BASSANIO"/>
+<node id="NERISSA"/>
+<node id="SHYLOCK"/>
+<node id="STEPHANO"/>
+<node id="ANTONIO"/>
+<node id="SALANIO"/>
+<node id="SALARINO"/>
+<node id="TUBAL"/>
+<node id="BALTHASAR"/>
+<node id="MOROCCO"/>
+<node id="ALL"/>
+<node id="Servant"/>
+<node id="DUKE"/>
+<node id="LAUNCELOT"/>
+<node id="SALERIO"/>
+<node id="ARRAGON"/>
+<node id="GOBBO"/>
+<node id="LEONARDO"/>
+<node id="Clerk"/>
+<edge source="PORTIA" target="Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="PORTIA" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="DUKE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="LAUNCELOT">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="PORTIA" target="MOROCCO">
+  <data key="d4">2</data>
+</edge>
+<edge source="PORTIA" target="ARRAGON">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="LORENZO">
+  <data key="d4">3</data>
+</edge>
+<edge source="PORTIA" target="BASSANIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="PORTIA" target="JESSICA">
+  <data key="d4">3</data>
+</edge>
+<edge source="PORTIA" target="SHYLOCK">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="NERISSA">
+  <data key="d4">7</data>
+</edge>
+<edge source="PORTIA" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="SALERIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="PORTIA" target="Clerk">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="GRATIANO">
+  <data key="d4">4</data>
+</edge>
+<edge source="GRATIANO" target="LEONARDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRATIANO" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRATIANO" target="DUKE">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRATIANO" target="LAUNCELOT">
+  <data key="d4">3</data>
+</edge>
+<edge source="GRATIANO" target="ANTONIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="GRATIANO" target="LORENZO">
+  <data key="d4">5</data>
+</edge>
+<edge source="GRATIANO" target="BASSANIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="GRATIANO" target="JESSICA">
+  <data key="d4">3</data>
+</edge>
+<edge source="GRATIANO" target="SHYLOCK">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRATIANO" target="GOBBO">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRATIANO" target="NERISSA">
+  <data key="d4">4</data>
+</edge>
+<edge source="GRATIANO" target="SALARINO">
+  <data key="d4">3</data>
+</edge>
+<edge source="GRATIANO" target="SALANIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="GRATIANO" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRATIANO" target="SALERIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="GRATIANO" target="Clerk">
+  <data key="d4">1</data>
+</edge>
+<edge source="JESSICA" target="SHYLOCK">
+  <data key="d4">1</data>
+</edge>
+<edge source="JESSICA" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="JESSICA" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="JESSICA" target="LAUNCELOT">
+  <data key="d4">4</data>
+</edge>
+<edge source="JESSICA" target="NERISSA">
+  <data key="d4">3</data>
+</edge>
+<edge source="JESSICA" target="SALARINO">
+  <data key="d4">1</data>
+</edge>
+<edge source="JESSICA" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="JESSICA" target="SALERIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="JESSICA" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="JESSICA" target="LORENZO">
+  <data key="d4">5</data>
+</edge>
+<edge source="JESSICA" target="BASSANIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="LORENZO" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORENZO" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORENZO" target="LAUNCELOT">
+  <data key="d4">3</data>
+</edge>
+<edge source="LORENZO" target="NERISSA">
+  <data key="d4">3</data>
+</edge>
+<edge source="LORENZO" target="SALARINO">
+  <data key="d4">3</data>
+</edge>
+<edge source="LORENZO" target="SALANIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="LORENZO" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORENZO" target="SALERIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORENZO" target="ANTONIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="LORENZO" target="BASSANIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="BASSANIO" target="LEONARDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BASSANIO" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BASSANIO" target="DUKE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BASSANIO" target="LAUNCELOT">
+  <data key="d4">2</data>
+</edge>
+<edge source="BASSANIO" target="ANTONIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="BASSANIO" target="SHYLOCK">
+  <data key="d4">2</data>
+</edge>
+<edge source="BASSANIO" target="GOBBO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BASSANIO" target="NERISSA">
+  <data key="d4">3</data>
+</edge>
+<edge source="BASSANIO" target="SALARINO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BASSANIO" target="SALANIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BASSANIO" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="BASSANIO" target="SALERIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="BASSANIO" target="Clerk">
+  <data key="d4">1</data>
+</edge>
+<edge source="NERISSA" target="Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="NERISSA" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="NERISSA" target="DUKE">
+  <data key="d4">1</data>
+</edge>
+<edge source="NERISSA" target="LAUNCELOT">
+  <data key="d4">1</data>
+</edge>
+<edge source="NERISSA" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="NERISSA" target="ARRAGON">
+  <data key="d4">1</data>
+</edge>
+<edge source="NERISSA" target="SHYLOCK">
+  <data key="d4">1</data>
+</edge>
+<edge source="NERISSA" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="NERISSA" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="NERISSA" target="SALERIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="NERISSA" target="Clerk">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHYLOCK" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHYLOCK" target="DUKE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHYLOCK" target="LAUNCELOT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHYLOCK" target="SALARINO">
+  <data key="d4">2</data>
+</edge>
+<edge source="SHYLOCK" target="SALANIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHYLOCK" target="ANTONIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="SHYLOCK" target="SALERIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHYLOCK" target="Clerk">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHYLOCK" target="TUBAL">
+  <data key="d4">1</data>
+</edge>
+<edge source="STEPHANO" target="LAUNCELOT">
+  <data key="d4">1</data>
+</edge>
+<edge source="STEPHANO" target="ANTONIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="DUKE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="LAUNCELOT">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="SALARINO">
+  <data key="d4">3</data>
+</edge>
+<edge source="ANTONIO" target="SALANIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="SALERIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="Clerk">
+  <data key="d4">1</data>
+</edge>
+<edge source="SALANIO" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="SALANIO" target="LAUNCELOT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SALANIO" target="SALARINO">
+  <data key="d4">4</data>
+</edge>
+<edge source="SALANIO" target="TUBAL">
+  <data key="d4">1</data>
+</edge>
+<edge source="SALARINO" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="SALARINO" target="LAUNCELOT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SALARINO" target="TUBAL">
+  <data key="d4">1</data>
+</edge>
+<edge source="TUBAL" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SALERIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="ARRAGON">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE" target="SALERIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE" target="Clerk">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAUNCELOT" target="LEONARDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAUNCELOT" target="GOBBO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SALERIO" target="Clerk">
+  <data key="d4">1</data>
+</edge>
+<edge source="GOBBO" target="LEONARDO">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>

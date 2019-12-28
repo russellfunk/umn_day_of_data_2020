@@ -1,0 +1,962 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="graph" attr.name="play_type" attr.type="string"/>
+<key id="d2" for="graph" attr.name="play_id" attr.type="string"/>
+<key id="d1" for="graph" attr.name="play_name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source_url" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">http://shakespeare.mit.edu/julius_caesar/index.html</data>
+<data key="d1">Julius Caesar</data>
+<data key="d2">julius_caesar</data>
+<data key="d3">tragedy</data>
+<node id="CINNA"/>
+<node id="CASCA"/>
+<node id="PORTIA"/>
+<node id="BRUTUS"/>
+<node id="PINDARUS"/>
+<node id="Third Citizen"/>
+<node id="GHOST"/>
+<node id="CALPURNIA"/>
+<node id="LIGARIUS"/>
+<node id="DECIUS BRUTUS"/>
+<node id="LUCILIUS"/>
+<node id="Servant"/>
+<node id="DARDANIUS"/>
+<node id="OCTAVIUS"/>
+<node id="FLAVIUS"/>
+<node id="CAESAR"/>
+<node id="Second Citizen"/>
+<node id="CICERO"/>
+<node id="ANTONY"/>
+<node id="CLAUDIUS"/>
+<node id="Poet"/>
+<node id="CASSIUS"/>
+<node id="Soothsayer"/>
+<node id="Second Commoner"/>
+<node id="First Citizen"/>
+<node id="CATO"/>
+<node id="LEPIDUS"/>
+<node id="POPILIUS"/>
+<node id="CINNA THE POET"/>
+<node id="CLITUS"/>
+<node id="ARTEMIDORUS"/>
+<node id="First Soldier"/>
+<node id="PUBLIUS"/>
+<node id="LUCIUS"/>
+<node id="This way will I"/>
+<node id="TITINIUS"/>
+<node id="TREBONIUS"/>
+<node id="MESSALA"/>
+<node id="Citizens"/>
+<node id="MARULLUS"/>
+<node id="Fourth Citizen"/>
+<node id="Several Citizens"/>
+<node id="Messenger"/>
+<node id="All"/>
+<node id="Third Soldier"/>
+<node id="METELLUS CIMBER"/>
+<node id="Second Soldier"/>
+<node id="VARRO"/>
+<node id="First Commoner"/>
+<node id="STRATO"/>
+<node id="VOLUMNIUS"/>
+<edge source="CINNA" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA" target="CAESAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA" target="METELLUS CIMBER">
+  <data key="d4">2</data>
+</edge>
+<edge source="CINNA" target="ARTEMIDORUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA" target="CASCA">
+  <data key="d4">3</data>
+</edge>
+<edge source="CINNA" target="PORTIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA" target="BRUTUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CINNA" target="DECIUS BRUTUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CINNA" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA" target="PUBLIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA" target="CASSIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="CINNA" target="POPILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA" target="ANTONY">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA" target="CICERO">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA" target="TREBONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CINNA" target="Soothsayer">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA" target="LIGARIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASCA" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASCA" target="CAESAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASCA" target="METELLUS CIMBER">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASCA" target="ARTEMIDORUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASCA" target="PORTIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASCA" target="BRUTUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="CASCA" target="CALPURNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASCA" target="DECIUS BRUTUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASCA" target="PUBLIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASCA" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASCA" target="CASSIUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="CASCA" target="POPILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASCA" target="ANTONY">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASCA" target="CICERO">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASCA" target="TREBONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASCA" target="Soothsayer">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASCA" target="LIGARIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="METELLUS CIMBER">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="TREBONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="Soothsayer">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="LIGARIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="BRUTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="DECIUS BRUTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PORTIA" target="LUCIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="PORTIA" target="CASSIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="LUCILIUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="BRUTUS" target="Servant">
+  <data key="d4">3</data>
+</edge>
+<edge source="BRUTUS" target="PINDARUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="CAESAR">
+  <data key="d4">3</data>
+</edge>
+<edge source="BRUTUS" target="METELLUS CIMBER">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="ARTEMIDORUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="CLITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="Third Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="PUBLIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="Several Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="STRATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="POPILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="ANTONY">
+  <data key="d4">7</data>
+</edge>
+<edge source="BRUTUS" target="OCTAVIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="TREBONIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="BRUTUS" target="TITINIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="Second Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="DARDANIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="Second Soldier">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="Poet">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="First Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="CATO">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="CLAUDIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="MESSALA">
+  <data key="d4">4</data>
+</edge>
+<edge source="BRUTUS" target="GHOST">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="CALPURNIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="DECIUS BRUTUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="BRUTUS" target="LUCIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="Fourth Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="Third Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="CASSIUS">
+  <data key="d4">7</data>
+</edge>
+<edge source="BRUTUS" target="VARRO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="VOLUMNIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="First Soldier">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="Soothsayer">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="LIGARIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINDARUS" target="LUCILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINDARUS" target="First Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINDARUS" target="CATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINDARUS" target="MESSALA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINDARUS" target="TITINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINDARUS" target="Second Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINDARUS" target="Third Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINDARUS" target="CASSIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="Third Citizen" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Citizen" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Citizen" target="ANTONY">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Citizen" target="First Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="Third Citizen" target="CINNA THE POET">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Citizen" target="Second Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="Third Citizen" target="Several Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Citizen" target="Fourth Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="Third Citizen" target="Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="GHOST" target="Poet">
+  <data key="d4">1</data>
+</edge>
+<edge source="GHOST" target="LUCILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="GHOST" target="VARRO">
+  <data key="d4">1</data>
+</edge>
+<edge source="GHOST" target="CLAUDIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="GHOST" target="MESSALA">
+  <data key="d4">1</data>
+</edge>
+<edge source="GHOST" target="TITINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="GHOST" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="GHOST" target="CASSIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CALPURNIA" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="CALPURNIA" target="ANTONY">
+  <data key="d4">2</data>
+</edge>
+<edge source="CALPURNIA" target="CAESAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="CALPURNIA" target="TREBONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CALPURNIA" target="Soothsayer">
+  <data key="d4">1</data>
+</edge>
+<edge source="CALPURNIA" target="DECIUS BRUTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CALPURNIA" target="PUBLIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CALPURNIA" target="CASSIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LIGARIUS" target="METELLUS CIMBER">
+  <data key="d4">1</data>
+</edge>
+<edge source="LIGARIUS" target="TREBONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LIGARIUS" target="DECIUS BRUTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LIGARIUS" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LIGARIUS" target="CASSIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="CAESAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="METELLUS CIMBER">
+  <data key="d4">2</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="ARTEMIDORUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="PUBLIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="CASSIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="POPILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="ANTONY">
+  <data key="d4">2</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="TREBONIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="DECIUS BRUTUS" target="Soothsayer">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="Poet">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="CLAUDIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="CATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="CLITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="MESSALA">
+  <data key="d4">3</data>
+</edge>
+<edge source="LUCILIUS" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="Third Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="STRATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="CASSIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="LUCILIUS" target="VARRO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="VOLUMNIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="First Soldier">
+  <data key="d4">2</data>
+</edge>
+<edge source="LUCILIUS" target="ANTONY">
+  <data key="d4">3</data>
+</edge>
+<edge source="LUCILIUS" target="OCTAVIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="LUCILIUS" target="TITINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="DARDANIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCILIUS" target="Second Soldier">
+  <data key="d4">2</data>
+</edge>
+<edge source="Servant" target="CAESAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="Servant" target="First Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="METELLUS CIMBER">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="ARTEMIDORUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="PUBLIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="Servant" target="Several Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="Fourth Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="CASSIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="POPILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="ANTONY">
+  <data key="d4">3</data>
+</edge>
+<edge source="Servant" target="TREBONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="Servant" target="Soothsayer">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="Second Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="DARDANIUS" target="VOLUMNIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DARDANIUS" target="ANTONY">
+  <data key="d4">1</data>
+</edge>
+<edge source="DARDANIUS" target="OCTAVIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DARDANIUS" target="MESSALA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DARDANIUS" target="CLITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DARDANIUS" target="STRATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIUS" target="VOLUMNIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIUS" target="ANTONY">
+  <data key="d4">3</data>
+</edge>
+<edge source="OCTAVIUS" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIUS" target="LEPIDUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIUS" target="CLITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIUS" target="MESSALA">
+  <data key="d4">2</data>
+</edge>
+<edge source="OCTAVIUS" target="CASSIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIUS" target="STRATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FLAVIUS" target="First Commoner">
+  <data key="d4">1</data>
+</edge>
+<edge source="FLAVIUS" target="This way will I">
+  <data key="d4">1</data>
+</edge>
+<edge source="FLAVIUS" target="Second Commoner">
+  <data key="d4">1</data>
+</edge>
+<edge source="FLAVIUS" target="MARULLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAESAR" target="POPILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAESAR" target="ANTONY">
+  <data key="d4">3</data>
+</edge>
+<edge source="CAESAR" target="METELLUS CIMBER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAESAR" target="ARTEMIDORUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAESAR" target="TREBONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAESAR" target="Soothsayer">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAESAR" target="PUBLIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAESAR" target="CASSIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="Second Citizen" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Citizen" target="ANTONY">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Citizen" target="First Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="Second Citizen" target="CINNA THE POET">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Citizen" target="Several Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Citizen" target="Fourth Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="Second Citizen" target="Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="CICERO" target="CASSIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="METELLUS CIMBER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="ARTEMIDORUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="CLITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="PUBLIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANTONY" target="Several Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="STRATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="POPILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="TREBONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANTONY" target="Second Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="First Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="CATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="MESSALA">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANTONY" target="Fourth Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="CASSIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="ANTONY" target="VOLUMNIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="First Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="LEPIDUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONY" target="Soothsayer">
+  <data key="d4">2</data>
+</edge>
+<edge source="CLAUDIUS" target="Poet">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLAUDIUS" target="VARRO">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLAUDIUS" target="MESSALA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLAUDIUS" target="TITINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLAUDIUS" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLAUDIUS" target="CASSIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Poet" target="VARRO">
+  <data key="d4">1</data>
+</edge>
+<edge source="Poet" target="MESSALA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Poet" target="TITINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Poet" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Poet" target="CASSIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIUS" target="METELLUS CIMBER">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASSIUS" target="ARTEMIDORUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIUS" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIUS" target="PUBLIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIUS" target="POPILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIUS" target="TREBONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASSIUS" target="TITINIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASSIUS" target="Second Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIUS" target="CATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIUS" target="MESSALA">
+  <data key="d4">3</data>
+</edge>
+<edge source="CASSIUS" target="LUCIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASSIUS" target="Third Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIUS" target="VARRO">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIUS" target="First Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIUS" target="Soothsayer">
+  <data key="d4">2</data>
+</edge>
+<edge source="Soothsayer" target="METELLUS CIMBER">
+  <data key="d4">1</data>
+</edge>
+<edge source="Soothsayer" target="ARTEMIDORUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Soothsayer" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Soothsayer" target="PUBLIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Soothsayer" target="POPILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Soothsayer" target="TREBONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Commoner" target="First Commoner">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Commoner" target="This way will I">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Commoner" target="MARULLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Citizen" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Citizen" target="CINNA THE POET">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Citizen" target="Several Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Citizen" target="Fourth Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Citizen" target="Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="CATO" target="First Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="CATO" target="MESSALA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CATO" target="TITINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CATO" target="Second Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="POPILIUS" target="METELLUS CIMBER">
+  <data key="d4">1</data>
+</edge>
+<edge source="POPILIUS" target="ARTEMIDORUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="POPILIUS" target="TREBONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="POPILIUS" target="PUBLIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CINNA THE POET" target="Fourth Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLITUS" target="VOLUMNIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLITUS" target="MESSALA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLITUS" target="STRATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ARTEMIDORUS" target="METELLUS CIMBER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ARTEMIDORUS" target="TREBONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ARTEMIDORUS" target="PUBLIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Soldier" target="Second Soldier">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Soldier" target="Third Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUBLIUS" target="METELLUS CIMBER">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUBLIUS" target="TREBONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="LUCIUS" target="METELLUS CIMBER">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIUS" target="MESSALA">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIUS" target="VARRO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIUS" target="TREBONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIUS" target="TITINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="This way will I" target="First Commoner">
+  <data key="d4">1</data>
+</edge>
+<edge source="This way will I" target="MARULLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITINIUS" target="VARRO">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITINIUS" target="MESSALA">
+  <data key="d4">2</data>
+</edge>
+<edge source="TREBONIUS" target="METELLUS CIMBER">
+  <data key="d4">2</data>
+</edge>
+<edge source="MESSALA" target="Messenger">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSALA" target="STRATO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSALA" target="VARRO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSALA" target="VOLUMNIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Citizens" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="Citizens" target="Several Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="Citizens" target="Fourth Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARULLUS" target="First Commoner">
+  <data key="d4">1</data>
+</edge>
+<edge source="Fourth Citizen" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="Fourth Citizen" target="Several Citizens">
+  <data key="d4">1</data>
+</edge>
+<edge source="Several Citizens" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Soldier" target="Second Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="STRATO" target="VOLUMNIUS">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>

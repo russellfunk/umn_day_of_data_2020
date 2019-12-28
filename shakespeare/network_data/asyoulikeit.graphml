@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="graph" attr.name="play_type" attr.type="string"/>
+<key id="d2" for="graph" attr.name="play_id" attr.type="string"/>
+<key id="d1" for="graph" attr.name="play_name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source_url" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">http://shakespeare.mit.edu/asyoulikeit/index.html</data>
+<data key="d1">As You Like It</data>
+<data key="d2">asyoulikeit</data>
+<data key="d3">comedy</data>
+<node id="First Lord"/>
+<node id="AUDREY"/>
+<node id="OLIVER"/>
+<node id="ROSALIND"/>
+<node id="JAQUES"/>
+<node id="ORLANDO"/>
+<node id="Forester"/>
+<node id="AMIENS"/>
+<node id="ADAM"/>
+<node id="CHARLES"/>
+<node id="Second Page"/>
+<node id="CELIA"/>
+<node id="DUKE FREDERICK"/>
+<node id="SILVIUS"/>
+<node id="TOUCHSTONE"/>
+<node id="PHEBE"/>
+<node id="WILLIAM"/>
+<node id="LE BEAU"/>
+<node id="CORIN"/>
+<node id="DUKE SENIOR"/>
+<node id="HYMEN"/>
+<node id="DENNIS"/>
+<node id="A Lord"/>
+<node id="Second Lord"/>
+<node id="JAQUES DE BOYS"/>
+<node id="First Page"/>
+<node id="SIR OLIVER MARTEXT"/>
+<edge source="First Lord" target="DUKE FREDERICK">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="ORLANDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="Second Lord">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Lord" target="JAQUES">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="AMIENS">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Lord" target="ADAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="DUKE SENIOR">
+  <data key="d4">2</data>
+</edge>
+<edge source="AUDREY" target="TOUCHSTONE">
+  <data key="d4">3</data>
+</edge>
+<edge source="AUDREY" target="Second Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUDREY" target="SIR OLIVER MARTEXT">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUDREY" target="CORIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUDREY" target="First Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUDREY" target="JAQUES">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUDREY" target="WILLIAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="OLIVER" target="SILVIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="OLIVER" target="PHEBE">
+  <data key="d4">1</data>
+</edge>
+<edge source="OLIVER" target="DUKE FREDERICK">
+  <data key="d4">1</data>
+</edge>
+<edge source="OLIVER" target="ORLANDO">
+  <data key="d4">2</data>
+</edge>
+<edge source="OLIVER" target="CHARLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="OLIVER" target="ROSALIND">
+  <data key="d4">2</data>
+</edge>
+<edge source="OLIVER" target="CELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="OLIVER" target="ADAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="OLIVER" target="DENNIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSALIND" target="SILVIUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="ROSALIND" target="TOUCHSTONE">
+  <data key="d4">4</data>
+</edge>
+<edge source="ROSALIND" target="PHEBE">
+  <data key="d4">3</data>
+</edge>
+<edge source="ROSALIND" target="LE BEAU">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSALIND" target="HYMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSALIND" target="DUKE FREDERICK">
+  <data key="d4">2</data>
+</edge>
+<edge source="ROSALIND" target="CORIN">
+  <data key="d4">3</data>
+</edge>
+<edge source="ROSALIND" target="ORLANDO">
+  <data key="d4">5</data>
+</edge>
+<edge source="ROSALIND" target="JAQUES">
+  <data key="d4">3</data>
+</edge>
+<edge source="ROSALIND" target="CHARLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSALIND" target="CELIA">
+  <data key="d4">7</data>
+</edge>
+<edge source="ROSALIND" target="JAQUES DE BOYS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSALIND" target="DUKE SENIOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="JAQUES" target="SILVIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="JAQUES" target="TOUCHSTONE">
+  <data key="d4">3</data>
+</edge>
+<edge source="JAQUES" target="PHEBE">
+  <data key="d4">1</data>
+</edge>
+<edge source="JAQUES" target="SIR OLIVER MARTEXT">
+  <data key="d4">1</data>
+</edge>
+<edge source="JAQUES" target="ORLANDO">
+  <data key="d4">4</data>
+</edge>
+<edge source="JAQUES" target="CELIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="JAQUES" target="Forester">
+  <data key="d4">1</data>
+</edge>
+<edge source="JAQUES" target="DUKE SENIOR">
+  <data key="d4">2</data>
+</edge>
+<edge source="JAQUES" target="HYMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="JAQUES" target="A Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="JAQUES" target="CORIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="JAQUES" target="AMIENS">
+  <data key="d4">2</data>
+</edge>
+<edge source="JAQUES" target="JAQUES DE BOYS">
+  <data key="d4">1</data>
+</edge>
+<edge source="JAQUES" target="ADAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="ORLANDO" target="SILVIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="ORLANDO" target="TOUCHSTONE">
+  <data key="d4">3</data>
+</edge>
+<edge source="ORLANDO" target="PHEBE">
+  <data key="d4">2</data>
+</edge>
+<edge source="ORLANDO" target="LE BEAU">
+  <data key="d4">1</data>
+</edge>
+<edge source="ORLANDO" target="DUKE FREDERICK">
+  <data key="d4">1</data>
+</edge>
+<edge source="ORLANDO" target="CELIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="ORLANDO" target="DENNIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ORLANDO" target="DUKE SENIOR">
+  <data key="d4">2</data>
+</edge>
+<edge source="ORLANDO" target="HYMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ORLANDO" target="CORIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ORLANDO" target="CHARLES">
+  <data key="d4">2</data>
+</edge>
+<edge source="ORLANDO" target="AMIENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ORLANDO" target="JAQUES DE BOYS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ORLANDO" target="ADAM">
+  <data key="d4">4</data>
+</edge>
+<edge source="Forester" target="A Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="AMIENS" target="Second Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="AMIENS" target="ADAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="AMIENS" target="DUKE SENIOR">
+  <data key="d4">2</data>
+</edge>
+<edge source="ADAM" target="CHARLES">
+  <data key="d4">1</data>
+</edge>
+<edge source="ADAM" target="DENNIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ADAM" target="DUKE SENIOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARLES" target="TOUCHSTONE">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARLES" target="LE BEAU">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARLES" target="DUKE FREDERICK">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARLES" target="CELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARLES" target="DENNIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Page" target="TOUCHSTONE">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Page" target="First Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="CELIA" target="SILVIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CELIA" target="TOUCHSTONE">
+  <data key="d4">3</data>
+</edge>
+<edge source="CELIA" target="LE BEAU">
+  <data key="d4">1</data>
+</edge>
+<edge source="CELIA" target="DUKE FREDERICK">
+  <data key="d4">2</data>
+</edge>
+<edge source="CELIA" target="CORIN">
+  <data key="d4">3</data>
+</edge>
+<edge source="DUKE FREDERICK" target="TOUCHSTONE">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE FREDERICK" target="LE BEAU">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE FREDERICK" target="Second Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="SILVIUS" target="TOUCHSTONE">
+  <data key="d4">2</data>
+</edge>
+<edge source="SILVIUS" target="PHEBE">
+  <data key="d4">3</data>
+</edge>
+<edge source="SILVIUS" target="HYMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SILVIUS" target="CORIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SILVIUS" target="JAQUES DE BOYS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SILVIUS" target="DUKE SENIOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="TOUCHSTONE" target="PHEBE">
+  <data key="d4">1</data>
+</edge>
+<edge source="TOUCHSTONE" target="LE BEAU">
+  <data key="d4">1</data>
+</edge>
+<edge source="TOUCHSTONE" target="SIR OLIVER MARTEXT">
+  <data key="d4">1</data>
+</edge>
+<edge source="TOUCHSTONE" target="WILLIAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="TOUCHSTONE" target="DUKE SENIOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="TOUCHSTONE" target="HYMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="TOUCHSTONE" target="CORIN">
+  <data key="d4">3</data>
+</edge>
+<edge source="TOUCHSTONE" target="First Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="TOUCHSTONE" target="JAQUES DE BOYS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHEBE" target="HYMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHEBE" target="JAQUES DE BOYS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHEBE" target="DUKE SENIOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="WILLIAM" target="CORIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE SENIOR" target="HYMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE SENIOR" target="Second Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE SENIOR" target="JAQUES DE BOYS">
+  <data key="d4">1</data>
+</edge>
+<edge source="HYMEN" target="JAQUES DE BOYS">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>

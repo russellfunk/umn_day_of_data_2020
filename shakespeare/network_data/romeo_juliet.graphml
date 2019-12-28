@@ -1,0 +1,761 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="graph" attr.name="play_type" attr.type="string"/>
+<key id="d2" for="graph" attr.name="play_id" attr.type="string"/>
+<key id="d1" for="graph" attr.name="play_name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source_url" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">http://shakespeare.mit.edu/romeo_juliet/index.html</data>
+<data key="d1">Romeo and Juliet</data>
+<data key="d2">romeo_juliet</data>
+<data key="d3">tragedy</data>
+<node id="FRIAR LAURENCE"/>
+<node id="JULIET"/>
+<node id="Nurse"/>
+<node id="ROMEO"/>
+<node id="BENVOLIO"/>
+<node id="MERCUTIO"/>
+<node id="PETER"/>
+<node id="Second Musician"/>
+<node id="PARIS"/>
+<node id="First Watchman"/>
+<node id="PRINCE"/>
+<node id="SAMPSON"/>
+<node id="Third Watchman"/>
+<node id="CAPULET"/>
+<node id="BALTHASAR"/>
+<node id="TYBALT"/>
+<node id="Second Watchman"/>
+<node id="First Musician"/>
+<node id="MONTAGUE"/>
+<node id="LADY MONTAGUE"/>
+<node id="LADY CAPULET"/>
+<node id="NURSE"/>
+<node id="Third Musician"/>
+<node id="First Servant"/>
+<node id="LADY  CAPULET"/>
+<node id="First Citizen"/>
+<node id="Servant"/>
+<node id="GREGORY"/>
+<node id="Second Servant"/>
+<node id="ABRAHAM"/>
+<node id="PAGE"/>
+<node id="Chorus"/>
+<node id="Second Capulet"/>
+<node id="Apothecary"/>
+<node id="Musician"/>
+<node id="FRIAR JOHN"/>
+<edge source="FRIAR LAURENCE" target="LADY CAPULET">
+  <data key="d4">2</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="CAPULET">
+  <data key="d4">2</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="Third Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="PARIS">
+  <data key="d4">3</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="Second Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="First Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="ROMEO">
+  <data key="d4">4</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="FRIAR JOHN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="JULIET">
+  <data key="d4">3</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="Third Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="PRINCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="Second Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="First Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRIAR LAURENCE" target="Nurse">
+  <data key="d4">2</data>
+</edge>
+<edge source="JULIET" target="Second Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="JULIET" target="Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="JULIET" target="Second Capulet">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="LADY CAPULET">
+  <data key="d4">5</data>
+</edge>
+<edge source="JULIET" target="CAPULET">
+  <data key="d4">4</data>
+</edge>
+<edge source="JULIET" target="Third Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="PARIS">
+  <data key="d4">2</data>
+</edge>
+<edge source="JULIET" target="Second Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="First Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="ROMEO">
+  <data key="d4">5</data>
+</edge>
+<edge source="JULIET" target="BENVOLIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="PRINCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="TYBALT">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIET" target="Nurse">
+  <data key="d4">7</data>
+</edge>
+<edge source="JULIET" target="LADY  CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nurse" target="Second Servant">
+  <data key="d4">3</data>
+</edge>
+<edge source="Nurse" target="Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="Nurse" target="Second Capulet">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nurse" target="LADY CAPULET">
+  <data key="d4">5</data>
+</edge>
+<edge source="Nurse" target="CAPULET">
+  <data key="d4">5</data>
+</edge>
+<edge source="Nurse" target="PARIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nurse" target="ROMEO">
+  <data key="d4">5</data>
+</edge>
+<edge source="Nurse" target="Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nurse" target="BENVOLIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="Nurse" target="NURSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nurse" target="Third Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nurse" target="PETER">
+  <data key="d4">2</data>
+</edge>
+<edge source="Nurse" target="Second Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nurse" target="First Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="Nurse" target="TYBALT">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nurse" target="First Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nurse" target="LADY  CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nurse" target="MERCUTIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="ROMEO" target="Second Capulet">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="First Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="ROMEO" target="LADY CAPULET">
+  <data key="d4">4</data>
+</edge>
+<edge source="ROMEO" target="CAPULET">
+  <data key="d4">5</data>
+</edge>
+<edge source="ROMEO" target="Third Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="PARIS">
+  <data key="d4">2</data>
+</edge>
+<edge source="ROMEO" target="Second Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="First Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="BENVOLIO">
+  <data key="d4">7</data>
+</edge>
+<edge source="ROMEO" target="NURSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="MONTAGUE">
+  <data key="d4">3</data>
+</edge>
+<edge source="ROMEO" target="SAMPSON">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="BALTHASAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="ROMEO" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="GREGORY">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="PRINCE">
+  <data key="d4">3</data>
+</edge>
+<edge source="ROMEO" target="Apothecary">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="TYBALT">
+  <data key="d4">3</data>
+</edge>
+<edge source="ROMEO" target="LADY MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROMEO" target="MERCUTIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="BENVOLIO" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENVOLIO" target="Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENVOLIO" target="Second Capulet">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENVOLIO" target="First Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENVOLIO" target="LADY CAPULET">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENVOLIO" target="CAPULET">
+  <data key="d4">3</data>
+</edge>
+<edge source="BENVOLIO" target="PARIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENVOLIO" target="NURSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENVOLIO" target="MONTAGUE">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENVOLIO" target="SAMPSON">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENVOLIO" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENVOLIO" target="GREGORY">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENVOLIO" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENVOLIO" target="PRINCE">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENVOLIO" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENVOLIO" target="TYBALT">
+  <data key="d4">3</data>
+</edge>
+<edge source="BENVOLIO" target="LADY MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENVOLIO" target="MERCUTIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="MERCUTIO" target="MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="MERCUTIO" target="First Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="MERCUTIO" target="LADY CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="MERCUTIO" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MERCUTIO" target="PRINCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="MERCUTIO" target="TYBALT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MERCUTIO" target="NURSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETER" target="Third Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETER" target="LADY CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETER" target="CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETER" target="Second Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETER" target="First Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETER" target="PARIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETER" target="Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETER" target="NURSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Musician" target="Third Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Musician" target="LADY CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Musician" target="CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Musician" target="First Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Musician" target="PARIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Musician" target="Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="LADY CAPULET">
+  <data key="d4">3</data>
+</edge>
+<edge source="PARIS" target="CAPULET">
+  <data key="d4">4</data>
+</edge>
+<edge source="PARIS" target="Third Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="Second Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="First Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="Third Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="PRINCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="First Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="PARIS" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Watchman" target="MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Watchman" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Watchman" target="LADY CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Watchman" target="CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Watchman" target="PRINCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Watchman" target="Third Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Watchman" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Watchman" target="Second Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="PRINCE" target="First Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="PRINCE" target="LADY CAPULET">
+  <data key="d4">3</data>
+</edge>
+<edge source="PRINCE" target="CAPULET">
+  <data key="d4">2</data>
+</edge>
+<edge source="PRINCE" target="Third Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="PRINCE" target="Second Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="PRINCE" target="MONTAGUE">
+  <data key="d4">3</data>
+</edge>
+<edge source="PRINCE" target="SAMPSON">
+  <data key="d4">1</data>
+</edge>
+<edge source="PRINCE" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="PRINCE" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="PRINCE" target="GREGORY">
+  <data key="d4">1</data>
+</edge>
+<edge source="PRINCE" target="LADY MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PRINCE" target="TYBALT">
+  <data key="d4">2</data>
+</edge>
+<edge source="PRINCE" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SAMPSON" target="MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SAMPSON" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="SAMPSON" target="GREGORY">
+  <data key="d4">1</data>
+</edge>
+<edge source="SAMPSON" target="First Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="SAMPSON" target="LADY CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="SAMPSON" target="CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="SAMPSON" target="LADY MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SAMPSON" target="TYBALT">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Watchman" target="MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Watchman" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Watchman" target="LADY CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Watchman" target="CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Watchman" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Watchman" target="Second Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="Second Servant">
+  <data key="d4">3</data>
+</edge>
+<edge source="CAPULET" target="Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAPULET" target="Second Capulet">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="First Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="LADY CAPULET">
+  <data key="d4">7</data>
+</edge>
+<edge source="CAPULET" target="Second Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="MONTAGUE">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAPULET" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="Third Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="GREGORY">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="First Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAPULET" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="TYBALT">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAPULET" target="First Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="LADY MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAPULET" target="LADY  CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="BALTHASAR" target="MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BALTHASAR" target="LADY CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="BALTHASAR" target="Apothecary">
+  <data key="d4">1</data>
+</edge>
+<edge source="BALTHASAR" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BALTHASAR" target="Second Watchman">
+  <data key="d4">1</data>
+</edge>
+<edge source="TYBALT" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="TYBALT" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="TYBALT" target="First Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="TYBALT" target="Second Capulet">
+  <data key="d4">1</data>
+</edge>
+<edge source="TYBALT" target="LADY CAPULET">
+  <data key="d4">2</data>
+</edge>
+<edge source="TYBALT" target="MONTAGUE">
+  <data key="d4">2</data>
+</edge>
+<edge source="TYBALT" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="TYBALT" target="GREGORY">
+  <data key="d4">1</data>
+</edge>
+<edge source="TYBALT" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="TYBALT" target="LADY MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Watchman" target="MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Watchman" target="LADY CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Watchman" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Musician" target="Third Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Musician" target="LADY CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Musician" target="Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="MONTAGUE" target="First Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="MONTAGUE" target="LADY CAPULET">
+  <data key="d4">3</data>
+</edge>
+<edge source="MONTAGUE" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="MONTAGUE" target="GREGORY">
+  <data key="d4">1</data>
+</edge>
+<edge source="MONTAGUE" target="LADY MONTAGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="MONTAGUE" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY MONTAGUE" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY MONTAGUE" target="GREGORY">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY MONTAGUE" target="First Citizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY MONTAGUE" target="LADY CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY CAPULET" target="Second Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="LADY CAPULET" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY CAPULET" target="First Citizen">
+  <data key="d4">2</data>
+</edge>
+<edge source="LADY CAPULET" target="Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY CAPULET" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY CAPULET" target="Third Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY CAPULET" target="GREGORY">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY CAPULET" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY CAPULET" target="PAGE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY CAPULET" target="LADY  CAPULET">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Musician" target="Musician">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="Second Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Servant" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="Second Capulet">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY  CAPULET" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Citizen" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Citizen" target="GREGORY">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="Second Capulet">
+  <data key="d4">1</data>
+</edge>
+<edge source="GREGORY" target="ABRAHAM">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Servant" target="Second Capulet">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>

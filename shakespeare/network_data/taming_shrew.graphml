@@ -1,0 +1,726 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="graph" attr.name="play_type" attr.type="string"/>
+<key id="d2" for="graph" attr.name="play_id" attr.type="string"/>
+<key id="d1" for="graph" attr.name="play_name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source_url" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">http://shakespeare.mit.edu/taming_shrew/index.html</data>
+<data key="d1">Taming of the Shrew</data>
+<data key="d2">taming_shrew</data>
+<data key="d3">comedy</data>
+<node id="BIANCA"/>
+<node id="KATHARINA"/>
+<node id="HORTENSIO"/>
+<node id="Messenger"/>
+<node id="PETRUCHIO"/>
+<node id="TRANIO"/>
+<node id="PHILIP"/>
+<node id="Third Servant"/>
+<node id="Pedant"/>
+<node id="First Servant"/>
+<node id="A Player"/>
+<node id="BIONDELLO"/>
+<node id="VINCENTIO"/>
+<node id="GREMIO"/>
+<node id="Page"/>
+<node id="LUCENTIO"/>
+<node id="HORTENSIA"/>
+<node id="BAPTISTA"/>
+<node id="Haberdasher"/>
+<node id="JOSEPH"/>
+<node id="GRUMIO"/>
+<node id="Lord"/>
+<node id="KATARINA"/>
+<node id="ALL"/>
+<node id="Tailor"/>
+<node id="Players"/>
+<node id="Widow"/>
+<node id="Second Huntsman"/>
+<node id="SLY"/>
+<node id="Hostess"/>
+<node id="NICHOLAS"/>
+<node id="First Huntsman"/>
+<node id="Servant"/>
+<node id="Second Servant"/>
+<node id="CURTIS"/>
+<node id="PETER"/>
+<node id="NATHANIEL"/>
+<edge source="BIANCA" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIANCA" target="TRANIO">
+  <data key="d4">6</data>
+</edge>
+<edge source="BIANCA" target="VINCENTIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="BIANCA" target="GRUMIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIANCA" target="GREMIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="BIANCA" target="BIONDELLO">
+  <data key="d4">5</data>
+</edge>
+<edge source="BIANCA" target="BAPTISTA">
+  <data key="d4">5</data>
+</edge>
+<edge source="BIANCA" target="HORTENSIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="BIANCA" target="KATHARINA">
+  <data key="d4">5</data>
+</edge>
+<edge source="BIANCA" target="PETRUCHIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="BIANCA" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIANCA" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIANCA" target="HORTENSIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIANCA" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIANCA" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIANCA" target="Pedant">
+  <data key="d4">2</data>
+</edge>
+<edge source="BIANCA" target="KATARINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIANCA" target="LUCENTIO">
+  <data key="d4">6</data>
+</edge>
+<edge source="KATHARINA" target="TRANIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="KATHARINA" target="VINCENTIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="KATHARINA" target="GRUMIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="KATHARINA" target="GREMIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="KATHARINA" target="Haberdasher">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="CURTIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="BIONDELLO">
+  <data key="d4">4</data>
+</edge>
+<edge source="KATHARINA" target="PHILIP">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="Tailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="BAPTISTA">
+  <data key="d4">5</data>
+</edge>
+<edge source="KATHARINA" target="HORTENSIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="KATHARINA" target="NICHOLAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="JOSEPH">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="PETRUCHIO">
+  <data key="d4">7</data>
+</edge>
+<edge source="KATHARINA" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="First Servant">
+  <data key="d4">2</data>
+</edge>
+<edge source="KATHARINA" target="HORTENSIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="Pedant">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="KATARINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="KATHARINA" target="LUCENTIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="KATHARINA" target="NATHANIEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIO" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIO" target="TRANIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="HORTENSIO" target="VINCENTIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="HORTENSIO" target="GRUMIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="HORTENSIO" target="GREMIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="HORTENSIO" target="Haberdasher">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIO" target="BIONDELLO">
+  <data key="d4">4</data>
+</edge>
+<edge source="HORTENSIO" target="Tailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIO" target="BAPTISTA">
+  <data key="d4">3</data>
+</edge>
+<edge source="HORTENSIO" target="PETRUCHIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="HORTENSIO" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIO" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIO" target="HORTENSIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIO" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIO" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIO" target="Pedant">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIO" target="LUCENTIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="Messenger" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Messenger" target="Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="Messenger" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="Messenger" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Messenger" target="Third Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Messenger" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="Messenger" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="TRANIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="PETRUCHIO" target="VINCENTIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="PETRUCHIO" target="GRUMIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="PETRUCHIO" target="GREMIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="PETRUCHIO" target="Haberdasher">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="CURTIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="BIONDELLO">
+  <data key="d4">4</data>
+</edge>
+<edge source="PETRUCHIO" target="PHILIP">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="Tailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="BAPTISTA">
+  <data key="d4">4</data>
+</edge>
+<edge source="PETRUCHIO" target="NICHOLAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="JOSEPH">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="Pedant">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="KATARINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETRUCHIO" target="LUCENTIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="PETRUCHIO" target="NATHANIEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRANIO" target="VINCENTIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="TRANIO" target="GRUMIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="TRANIO" target="GREMIO">
+  <data key="d4">6</data>
+</edge>
+<edge source="TRANIO" target="BIONDELLO">
+  <data key="d4">7</data>
+</edge>
+<edge source="TRANIO" target="BAPTISTA">
+  <data key="d4">6</data>
+</edge>
+<edge source="TRANIO" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRANIO" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRANIO" target="HORTENSIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRANIO" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRANIO" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRANIO" target="Pedant">
+  <data key="d4">3</data>
+</edge>
+<edge source="TRANIO" target="KATARINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRANIO" target="LUCENTIO">
+  <data key="d4">7</data>
+</edge>
+<edge source="PHILIP" target="NICHOLAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILIP" target="JOSEPH">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILIP" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILIP" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILIP" target="GRUMIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILIP" target="CURTIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILIP" target="NATHANIEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Servant" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Servant" target="Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Servant" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Servant" target="First Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Servant" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="Third Servant" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="Pedant" target="VINCENTIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="Pedant" target="GREMIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="Pedant" target="BIONDELLO">
+  <data key="d4">3</data>
+</edge>
+<edge source="Pedant" target="LUCENTIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="Pedant" target="BAPTISTA">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Servant" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="GRUMIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="GREMIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="CURTIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="BIONDELLO">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="BAPTISTA">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="NICHOLAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="JOSEPH">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="HORTENSIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="Page">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Servant" target="SLY">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Servant" target="LUCENTIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Servant" target="NATHANIEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="A Player" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="A Player" target="Second Huntsman">
+  <data key="d4">1</data>
+</edge>
+<edge source="A Player" target="Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="A Player" target="Players">
+  <data key="d4">1</data>
+</edge>
+<edge source="A Player" target="Hostess">
+  <data key="d4">1</data>
+</edge>
+<edge source="A Player" target="First Huntsman">
+  <data key="d4">1</data>
+</edge>
+<edge source="A Player" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIONDELLO" target="VINCENTIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="BIONDELLO" target="GRUMIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="BIONDELLO" target="GREMIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="BIONDELLO" target="BAPTISTA">
+  <data key="d4">5</data>
+</edge>
+<edge source="BIONDELLO" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIONDELLO" target="HORTENSIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIONDELLO" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIONDELLO" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIONDELLO" target="KATARINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="BIONDELLO" target="LUCENTIO">
+  <data key="d4">7</data>
+</edge>
+<edge source="VINCENTIO" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="VINCENTIO" target="GREMIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="VINCENTIO" target="LUCENTIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="VINCENTIO" target="BAPTISTA">
+  <data key="d4">2</data>
+</edge>
+<edge source="GREMIO" target="GRUMIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="GREMIO" target="BAPTISTA">
+  <data key="d4">5</data>
+</edge>
+<edge source="GREMIO" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="GREMIO" target="HORTENSIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="GREMIO" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="GREMIO" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="GREMIO" target="KATARINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="GREMIO" target="LUCENTIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="Page" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Page" target="Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="Page" target="BAPTISTA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Page" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="Page" target="HORTENSIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Page" target="SLY">
+  <data key="d4">2</data>
+</edge>
+<edge source="Page" target="LUCENTIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCENTIO" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCENTIO" target="GRUMIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="LUCENTIO" target="BAPTISTA">
+  <data key="d4">5</data>
+</edge>
+<edge source="LUCENTIO" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCENTIO" target="HORTENSIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCENTIO" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCENTIO" target="KATARINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIA" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORTENSIA" target="BAPTISTA">
+  <data key="d4">1</data>
+</edge>
+<edge source="BAPTISTA" target="GRUMIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BAPTISTA" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="BAPTISTA" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="BAPTISTA" target="KATARINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Haberdasher" target="GRUMIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="Haberdasher" target="Tailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="JOSEPH" target="NICHOLAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="JOSEPH" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="JOSEPH" target="GRUMIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="JOSEPH" target="CURTIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="JOSEPH" target="NATHANIEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRUMIO" target="CURTIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRUMIO" target="Tailor">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRUMIO" target="NICHOLAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRUMIO" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRUMIO" target="KATARINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="GRUMIO" target="NATHANIEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lord" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lord" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lord" target="Second Huntsman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lord" target="Players">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lord" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lord" target="Hostess">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lord" target="First Huntsman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lord" target="SLY">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="Players" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Players" target="Second Huntsman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Players" target="Hostess">
+  <data key="d4">1</data>
+</edge>
+<edge source="Players" target="First Huntsman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Players" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Huntsman" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Huntsman" target="Hostess">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Huntsman" target="First Huntsman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Huntsman" target="SLY">
+  <data key="d4">1</data>
+</edge>
+<edge source="SLY" target="Second Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="SLY" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="SLY" target="First Huntsman">
+  <data key="d4">1</data>
+</edge>
+<edge source="SLY" target="Hostess">
+  <data key="d4">1</data>
+</edge>
+<edge source="Hostess" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Hostess" target="First Huntsman">
+  <data key="d4">1</data>
+</edge>
+<edge source="NICHOLAS" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="NICHOLAS" target="CURTIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="NICHOLAS" target="NATHANIEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Huntsman" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="CURTIS" target="PETER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CURTIS" target="NATHANIEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="PETER" target="NATHANIEL">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>

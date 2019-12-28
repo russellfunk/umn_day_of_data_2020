@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="graph" attr.name="play_type" attr.type="string"/>
+<key id="d2" for="graph" attr.name="play_id" attr.type="string"/>
+<key id="d1" for="graph" attr.name="play_name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source_url" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">http://shakespeare.mit.edu/allswell/index.html</data>
+<data key="d1">All's Well That Ends Well</data>
+<data key="d2">allswell</data>
+<data key="d3">comedy</data>
+<node id="Clown"/>
+<node id="Second Lord"/>
+<node id="PAROLLES"/>
+<node id="BERTRAM"/>
+<node id="Widow"/>
+<node id="DIANA"/>
+<node id="First Lord"/>
+<node id="LAFEU"/>
+<node id="COUNTESS"/>
+<node id="HELENA"/>
+<node id="Page"/>
+<node id="MARIANA"/>
+<node id="Steward"/>
+<node id="All"/>
+<node id="KING"/>
+<node id="Gentleman"/>
+<node id="Both"/>
+<node id="Second Soldier"/>
+<node id="DUKE"/>
+<node id="Servant"/>
+<node id="BOTH"/>
+<node id="First Soldier"/>
+<node id="First Gentleman"/>
+<node id="Second Gentleman"/>
+<node id="Fourth Lord"/>
+<edge source="Clown" target="HELENA">
+  <data key="d4">3</data>
+</edge>
+<edge source="Clown" target="Steward">
+  <data key="d4">1</data>
+</edge>
+<edge source="Clown" target="COUNTESS">
+  <data key="d4">4</data>
+</edge>
+<edge source="Clown" target="First Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Clown" target="Second Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Clown" target="PAROLLES">
+  <data key="d4">2</data>
+</edge>
+<edge source="Clown" target="LAFEU">
+  <data key="d4">2</data>
+</edge>
+<edge source="Second Lord" target="Both">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Lord" target="HELENA">
+  <data key="d4">2</data>
+</edge>
+<edge source="Second Lord" target="BERTRAM">
+  <data key="d4">5</data>
+</edge>
+<edge source="Second Lord" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Lord" target="First Soldier">
+  <data key="d4">2</data>
+</edge>
+<edge source="Second Lord" target="All">
+  <data key="d4">2</data>
+</edge>
+<edge source="Second Lord" target="KING">
+  <data key="d4">3</data>
+</edge>
+<edge source="Second Lord" target="DUKE">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Lord" target="Fourth Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Lord" target="Second Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Lord" target="First Lord">
+  <data key="d4">6</data>
+</edge>
+<edge source="Second Lord" target="PAROLLES">
+  <data key="d4">5</data>
+</edge>
+<edge source="Second Lord" target="LAFEU">
+  <data key="d4">2</data>
+</edge>
+<edge source="PAROLLES" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="PAROLLES" target="HELENA">
+  <data key="d4">7</data>
+</edge>
+<edge source="PAROLLES" target="DIANA">
+  <data key="d4">2</data>
+</edge>
+<edge source="PAROLLES" target="BERTRAM">
+  <data key="d4">7</data>
+</edge>
+<edge source="PAROLLES" target="Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="PAROLLES" target="KING">
+  <data key="d4">3</data>
+</edge>
+<edge source="PAROLLES" target="First Lord">
+  <data key="d4">4</data>
+</edge>
+<edge source="PAROLLES" target="MARIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PAROLLES" target="LAFEU">
+  <data key="d4">6</data>
+</edge>
+<edge source="PAROLLES" target="Both">
+  <data key="d4">1</data>
+</edge>
+<edge source="PAROLLES" target="All">
+  <data key="d4">2</data>
+</edge>
+<edge source="PAROLLES" target="First Soldier">
+  <data key="d4">2</data>
+</edge>
+<edge source="PAROLLES" target="COUNTESS">
+  <data key="d4">2</data>
+</edge>
+<edge source="PAROLLES" target="Widow">
+  <data key="d4">2</data>
+</edge>
+<edge source="PAROLLES" target="Fourth Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="PAROLLES" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="PAROLLES" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="PAROLLES" target="Second Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="BERTRAM" target="HELENA">
+  <data key="d4">5</data>
+</edge>
+<edge source="BERTRAM" target="DIANA">
+  <data key="d4">2</data>
+</edge>
+<edge source="BERTRAM" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="BERTRAM" target="KING">
+  <data key="d4">4</data>
+</edge>
+<edge source="BERTRAM" target="Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="BERTRAM" target="DUKE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BERTRAM" target="First Lord">
+  <data key="d4">5</data>
+</edge>
+<edge source="BERTRAM" target="LAFEU">
+  <data key="d4">5</data>
+</edge>
+<edge source="BERTRAM" target="Both">
+  <data key="d4">1</data>
+</edge>
+<edge source="BERTRAM" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="BERTRAM" target="First Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="BERTRAM" target="COUNTESS">
+  <data key="d4">2</data>
+</edge>
+<edge source="BERTRAM" target="Widow">
+  <data key="d4">1</data>
+</edge>
+<edge source="BERTRAM" target="Fourth Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="BERTRAM" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="Widow" target="HELENA">
+  <data key="d4">5</data>
+</edge>
+<edge source="Widow" target="DIANA">
+  <data key="d4">3</data>
+</edge>
+<edge source="Widow" target="KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="Widow" target="Gentleman">
+  <data key="d4">2</data>
+</edge>
+<edge source="Widow" target="COUNTESS">
+  <data key="d4">1</data>
+</edge>
+<edge source="Widow" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="Widow" target="MARIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="Widow" target="LAFEU">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIANA" target="HELENA">
+  <data key="d4">3</data>
+</edge>
+<edge source="DIANA" target="KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIANA" target="Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIANA" target="COUNTESS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIANA" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIANA" target="MARIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIANA" target="LAFEU">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="Both">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="HELENA">
+  <data key="d4">2</data>
+</edge>
+<edge source="First Lord" target="Servant">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="KING">
+  <data key="d4">3</data>
+</edge>
+<edge source="First Lord" target="DUKE">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="First Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="Fourth Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Lord" target="LAFEU">
+  <data key="d4">2</data>
+</edge>
+<edge source="LAFEU" target="HELENA">
+  <data key="d4">5</data>
+</edge>
+<edge source="LAFEU" target="KING">
+  <data key="d4">3</data>
+</edge>
+<edge source="LAFEU" target="Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAFEU" target="Both">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAFEU" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAFEU" target="COUNTESS">
+  <data key="d4">3</data>
+</edge>
+<edge source="LAFEU" target="Fourth Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAFEU" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="COUNTESS" target="HELENA">
+  <data key="d4">4</data>
+</edge>
+<edge source="COUNTESS" target="KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="COUNTESS" target="Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="COUNTESS" target="Steward">
+  <data key="d4">2</data>
+</edge>
+<edge source="COUNTESS" target="First Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="COUNTESS" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="COUNTESS" target="Second Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELENA" target="Gentleman">
+  <data key="d4">2</data>
+</edge>
+<edge source="HELENA" target="KING">
+  <data key="d4">3</data>
+</edge>
+<edge source="HELENA" target="Steward">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELENA" target="First Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELENA" target="Second Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELENA" target="MARIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELENA" target="Both">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELENA" target="All">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELENA" target="Fourth Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELENA" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELENA" target="Page">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARIANA" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="First Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="Fourth Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="All" target="Second Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="KING" target="Both">
+  <data key="d4">1</data>
+</edge>
+<edge source="KING" target="Gentleman">
+  <data key="d4">1</data>
+</edge>
+<edge source="KING" target="Fourth Lord">
+  <data key="d4">1</data>
+</edge>
+<edge source="Second Soldier" target="First Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="Servant" target="First Soldier">
+  <data key="d4">1</data>
+</edge>
+<edge source="First Gentleman" target="Second Gentleman">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>
