@@ -8,291 +8,84 @@
 <data key="d1">Winter's Tale</data>
 <data key="d2">winters_tale</data>
 <data key="d3">comedy</data>
-<node id="Mariner"/>
-<node id="LEONTES"/>
-<node id="POLIXENES"/>
 <node id="AUTOLYCUS"/>
-<node id="MAMILLIUS"/>
-<node id="DION"/>
-<node id="Shepherd"/>
 <node id="CAMILLO"/>
-<node id="Gaoler"/>
-<node id="CLEOMENES"/>
-<node id="ARCHIDAMUS"/>
-<node id="ANTIGONUS"/>
-<node id="Clown"/>
-<node id="PAULINA"/>
-<node id="First Servant"/>
-<node id="First Lady"/>
-<node id="First Lord"/>
-<node id="PERDITA"/>
-<node id="Shepard"/>
 <node id="EMILIA"/>
-<node id="FLORIZEL"/>
-<node id="Second Gentleman"/>
-<node id="DORCAS"/>
-<node id="First Gentleman"/>
-<node id="Lords"/>
+<node id="CLOWN"/>
+<node id="LEONTES"/>
 <node id="HERMIONE"/>
-<node id="Servant"/>
-<node id="Lord"/>
-<node id="Third Gentleman"/>
-<node id="Gentleman"/>
+<node id="TIME"/>
+<node id="DORCAS"/>
+<node id="SHEPHERD"/>
+<node id="ARCHIDAMUS"/>
+<node id="POLIXENES"/>
+<node id="SECOND LADY"/>
+<node id="FIRST GENTLEMAN"/>
+<node id="MAMILLIUS"/>
+<node id="CLEOMENES"/>
+<node id="FIRST LORD"/>
+<node id="SECOND SERVANT"/>
+<node id="FIRST SERVANT"/>
+<node id="ANTIGONUS"/>
+<node id="SERVANT"/>
+<node id="SECOND GENTLEMAN"/>
+<node id="GAOLER"/>
+<node id="THIRD GENTLEMAN"/>
+<node id="LORDS"/>
 <node id="MOPSA"/>
-<node id="Second Servant"/>
-<node id="Officer"/>
-<node id="Second Lady"/>
-<node id="Time"/>
-<edge source="Mariner" target="Time">
-  <data key="d4">1</data>
-</edge>
-<edge source="Mariner" target="ANTIGONUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Mariner" target="Shepherd">
-  <data key="d4">1</data>
-</edge>
-<edge source="Mariner" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="LEONTES" target="Second Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="LEONTES" target="DION">
+<node id="FLORIZEL"/>
+<node id="MARINER"/>
+<node id="PAULINA"/>
+<node id="DION"/>
+<node id="PERDITA"/>
+<node id="LORD"/>
+<node id="FIRST LADY"/>
+<node id="GENTLEMAN"/>
+<node id="OFFICER"/>
+<node id="SHEPARD"/>
+<edge source="AUTOLYCUS" target="SHEPHERD">
   <data key="d4">2</data>
 </edge>
-<edge source="LEONTES" target="Servant">
-  <data key="d4">2</data>
-</edge>
-<edge source="LEONTES" target="CLEOMENES">
-  <data key="d4">2</data>
-</edge>
-<edge source="LEONTES" target="Lord">
+<edge source="AUTOLYCUS" target="SHEPARD">
   <data key="d4">1</data>
 </edge>
-<edge source="LEONTES" target="Gentleman">
+<edge source="AUTOLYCUS" target="SECOND GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="LEONTES" target="PERDITA">
-  <data key="d4">2</data>
-</edge>
-<edge source="LEONTES" target="CAMILLO">
-  <data key="d4">2</data>
-</edge>
-<edge source="LEONTES" target="POLIXENES">
-  <data key="d4">2</data>
-</edge>
-<edge source="LEONTES" target="First Lady">
+<edge source="AUTOLYCUS" target="FLORIZEL">
   <data key="d4">1</data>
 </edge>
-<edge source="LEONTES" target="First Lord">
-  <data key="d4">3</data>
-</edge>
-<edge source="LEONTES" target="Second Lady">
+<edge source="AUTOLYCUS" target="FIRST GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="LEONTES" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="LEONTES" target="PAULINA">
-  <data key="d4">4</data>
-</edge>
-<edge source="LEONTES" target="First Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="LEONTES" target="HERMIONE">
-  <data key="d4">4</data>
-</edge>
-<edge source="LEONTES" target="ANTIGONUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="LEONTES" target="Lords">
-  <data key="d4">2</data>
-</edge>
-<edge source="LEONTES" target="MAMILLIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="LEONTES" target="FLORIZEL">
-  <data key="d4">1</data>
-</edge>
-<edge source="POLIXENES" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="POLIXENES" target="MOPSA">
-  <data key="d4">1</data>
-</edge>
-<edge source="POLIXENES" target="Shepard">
-  <data key="d4">1</data>
-</edge>
-<edge source="POLIXENES" target="PERDITA">
-  <data key="d4">2</data>
-</edge>
-<edge source="POLIXENES" target="CAMILLO">
-  <data key="d4">4</data>
-</edge>
-<edge source="POLIXENES" target="DORCAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="POLIXENES" target="PAULINA">
-  <data key="d4">1</data>
-</edge>
-<edge source="POLIXENES" target="HERMIONE">
-  <data key="d4">2</data>
-</edge>
-<edge source="POLIXENES" target="AUTOLYCUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="POLIXENES" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="POLIXENES" target="FLORIZEL">
-  <data key="d4">1</data>
-</edge>
-<edge source="POLIXENES" target="MAMILLIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="POLIXENES" target="Shepherd">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUTOLYCUS" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUTOLYCUS" target="MOPSA">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUTOLYCUS" target="Shepard">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUTOLYCUS" target="PERDITA">
+<edge source="AUTOLYCUS" target="THIRD GENTLEMAN">
   <data key="d4">1</data>
 </edge>
 <edge source="AUTOLYCUS" target="CAMILLO">
   <data key="d4">1</data>
 </edge>
+<edge source="AUTOLYCUS" target="CLOWN">
+  <data key="d4">3</data>
+</edge>
+<edge source="AUTOLYCUS" target="MOPSA">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUTOLYCUS" target="POLIXENES">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUTOLYCUS" target="PERDITA">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUTOLYCUS" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
 <edge source="AUTOLYCUS" target="DORCAS">
   <data key="d4">1</data>
 </edge>
-<edge source="AUTOLYCUS" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUTOLYCUS" target="Clown">
-  <data key="d4">3</data>
-</edge>
-<edge source="AUTOLYCUS" target="Second Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUTOLYCUS" target="Shepherd">
+<edge source="CAMILLO" target="LEONTES">
   <data key="d4">2</data>
 </edge>
-<edge source="AUTOLYCUS" target="FLORIZEL">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUTOLYCUS" target="Third Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="MAMILLIUS" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="MAMILLIUS" target="CAMILLO">
-  <data key="d4">1</data>
-</edge>
-<edge source="MAMILLIUS" target="HERMIONE">
-  <data key="d4">2</data>
-</edge>
-<edge source="MAMILLIUS" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="MAMILLIUS" target="ANTIGONUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MAMILLIUS" target="Second Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="DION" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="DION" target="CLEOMENES">
-  <data key="d4">3</data>
-</edge>
-<edge source="DION" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="DION" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="DION" target="Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="DION" target="PERDITA">
-  <data key="d4">1</data>
-</edge>
-<edge source="DION" target="PAULINA">
-  <data key="d4">2</data>
-</edge>
-<edge source="DION" target="HERMIONE">
-  <data key="d4">1</data>
-</edge>
-<edge source="DION" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="DION" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="DION" target="FLORIZEL">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="PERDITA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="CAMILLO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="Second Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="DORCAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="MOPSA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="Shepard">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="Time">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="ANTIGONUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="Clown">
-  <data key="d4">3</data>
-</edge>
-<edge source="Shepherd" target="FLORIZEL">
-  <data key="d4">1</data>
-</edge>
-<edge source="Shepherd" target="Third Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAMILLO" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAMILLO" target="PERDITA">
-  <data key="d4">2</data>
-</edge>
-<edge source="CAMILLO" target="DORCAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAMILLO" target="MOPSA">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAMILLO" target="Shepard">
+<edge source="CAMILLO" target="SHEPARD">
   <data key="d4">1</data>
 </edge>
 <edge source="CAMILLO" target="PAULINA">
@@ -301,286 +94,493 @@
 <edge source="CAMILLO" target="ARCHIDAMUS">
   <data key="d4">1</data>
 </edge>
-<edge source="CAMILLO" target="HERMIONE">
+<edge source="CAMILLO" target="CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAMILLO" target="MOPSA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAMILLO" target="POLIXENES">
+  <data key="d4">4</data>
+</edge>
+<edge source="CAMILLO" target="PERDITA">
   <data key="d4">2</data>
 </edge>
-<edge source="CAMILLO" target="Clown">
+<edge source="CAMILLO" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAMILLO" target="DORCAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAMILLO" target="MAMILLIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAMILLO" target="SHEPHERD">
   <data key="d4">1</data>
 </edge>
 <edge source="CAMILLO" target="FLORIZEL">
   <data key="d4">1</data>
 </edge>
-<edge source="Gaoler" target="PAULINA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Gaoler" target="EMILIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOMENES" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOMENES" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOMENES" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOMENES" target="Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOMENES" target="PERDITA">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOMENES" target="PAULINA">
+<edge source="CAMILLO" target="HERMIONE">
   <data key="d4">2</data>
 </edge>
-<edge source="CLEOMENES" target="HERMIONE">
+<edge source="EMILIA" target="GAOLER">
   <data key="d4">1</data>
 </edge>
-<edge source="CLEOMENES" target="Lords">
+<edge source="EMILIA" target="PAULINA">
   <data key="d4">1</data>
 </edge>
-<edge source="CLEOMENES" target="First Lord">
+<edge source="CLOWN" target="MARINER">
   <data key="d4">1</data>
 </edge>
-<edge source="CLEOMENES" target="FLORIZEL">
+<edge source="CLOWN" target="TIME">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIGONUS" target="Second Servant">
+<edge source="CLOWN" target="SHEPARD">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIGONUS" target="Servant">
+<edge source="CLOWN" target="THIRD GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIGONUS" target="First Lady">
+<edge source="CLOWN" target="FIRST GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIGONUS" target="First Lord">
+<edge source="CLOWN" target="MOPSA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="POLIXENES">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="PERDITA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="DORCAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="ANTIGONUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="SHEPHERD">
+  <data key="d4">3</data>
+</edge>
+<edge source="CLOWN" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="FLORIZEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEONTES" target="SECOND LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEONTES" target="DION">
   <data key="d4">2</data>
 </edge>
-<edge source="ANTIGONUS" target="Second Lady">
+<edge source="LEONTES" target="SECOND SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIGONUS" target="Time">
+<edge source="LEONTES" target="PAULINA">
+  <data key="d4">4</data>
+</edge>
+<edge source="LEONTES" target="GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIGONUS" target="First Servant">
+<edge source="LEONTES" target="FIRST SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIGONUS" target="PAULINA">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTIGONUS" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTIGONUS" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTIGONUS" target="HERMIONE">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="PERDITA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="Second Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="DORCAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="MOPSA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="Shepard">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="Time">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="FLORIZEL">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="Third Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="PAULINA" target="Second Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="PAULINA" target="Servant">
+<edge source="LEONTES" target="CLEOMENES">
   <data key="d4">2</data>
 </edge>
-<edge source="PAULINA" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="PAULINA" target="Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="PAULINA" target="PERDITA">
+<edge source="LEONTES" target="POLIXENES">
   <data key="d4">2</data>
 </edge>
-<edge source="PAULINA" target="EMILIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="PAULINA" target="First Lord">
+<edge source="LEONTES" target="PERDITA">
   <data key="d4">2</data>
 </edge>
-<edge source="PAULINA" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="PAULINA" target="First Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="PAULINA" target="HERMIONE">
+<edge source="LEONTES" target="LORDS">
   <data key="d4">2</data>
 </edge>
-<edge source="PAULINA" target="Lords">
+<edge source="LEONTES" target="SERVANT">
   <data key="d4">2</data>
 </edge>
-<edge source="PAULINA" target="FLORIZEL">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Servant" target="Second Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Servant" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Servant" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Servant" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Lady" target="HERMIONE">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Lady" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Lady" target="Second Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Lord" target="Second Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Lord" target="Servant">
+<edge source="LEONTES" target="MAMILLIUS">
   <data key="d4">2</data>
 </edge>
-<edge source="First Lord" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Lord" target="HERMIONE">
+<edge source="LEONTES" target="ANTIGONUS">
   <data key="d4">2</data>
 </edge>
-<edge source="First Lord" target="Lords">
+<edge source="LEONTES" target="FIRST LORD">
+  <data key="d4">3</data>
+</edge>
+<edge source="LEONTES" target="LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEONTES" target="FLORIZEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEONTES" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEONTES" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEONTES" target="HERMIONE">
+  <data key="d4">4</data>
+</edge>
+<edge source="HERMIONE" target="SECOND LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="HERMIONE" target="DION">
+  <data key="d4">1</data>
+</edge>
+<edge source="HERMIONE" target="PAULINA">
   <data key="d4">2</data>
 </edge>
-<edge source="First Lord" target="Second Lady">
+<edge source="HERMIONE" target="CLEOMENES">
   <data key="d4">1</data>
 </edge>
-<edge source="PERDITA" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="PERDITA" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="PERDITA" target="Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="PERDITA" target="DORCAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="PERDITA" target="MOPSA">
-  <data key="d4">1</data>
-</edge>
-<edge source="PERDITA" target="Shepard">
-  <data key="d4">1</data>
-</edge>
-<edge source="PERDITA" target="HERMIONE">
-  <data key="d4">1</data>
-</edge>
-<edge source="PERDITA" target="FLORIZEL">
+<edge source="HERMIONE" target="POLIXENES">
   <data key="d4">2</data>
 </edge>
-<edge source="Shepard" target="Servant">
+<edge source="HERMIONE" target="PERDITA">
   <data key="d4">1</data>
 </edge>
-<edge source="Shepard" target="MOPSA">
+<edge source="HERMIONE" target="LORDS">
   <data key="d4">1</data>
 </edge>
-<edge source="Shepard" target="DORCAS">
+<edge source="HERMIONE" target="SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="Shepard" target="FLORIZEL">
+<edge source="HERMIONE" target="MAMILLIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="HERMIONE" target="ANTIGONUS">
   <data key="d4">1</data>
 </edge>
-<edge source="FLORIZEL" target="Servant">
+<edge source="HERMIONE" target="FIRST LORD">
+  <data key="d4">2</data>
+</edge>
+<edge source="HERMIONE" target="FIRST LADY">
   <data key="d4">1</data>
 </edge>
-<edge source="FLORIZEL" target="Lord">
+<edge source="HERMIONE" target="OFFICER">
   <data key="d4">1</data>
 </edge>
-<edge source="FLORIZEL" target="Gentleman">
+<edge source="TIME" target="SHEPHERD">
   <data key="d4">1</data>
 </edge>
-<edge source="FLORIZEL" target="DORCAS">
+<edge source="TIME" target="ANTIGONUS">
   <data key="d4">1</data>
 </edge>
-<edge source="FLORIZEL" target="MOPSA">
+<edge source="TIME" target="MARINER">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Gentleman" target="First Gentleman">
+<edge source="DORCAS" target="SHEPHERD">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Gentleman" target="Third Gentleman">
+<edge source="DORCAS" target="SHEPARD">
   <data key="d4">1</data>
 </edge>
-<edge source="DORCAS" target="Servant">
+<edge source="DORCAS" target="FLORIZEL">
   <data key="d4">1</data>
 </edge>
 <edge source="DORCAS" target="MOPSA">
   <data key="d4">1</data>
 </edge>
-<edge source="First Gentleman" target="Third Gentleman">
+<edge source="DORCAS" target="POLIXENES">
   <data key="d4">1</data>
 </edge>
-<edge source="Lords" target="Second Servant">
+<edge source="DORCAS" target="PERDITA">
   <data key="d4">1</data>
 </edge>
-<edge source="Lords" target="Servant">
+<edge source="DORCAS" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="MARINER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="THIRD GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="SHEPARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="FIRST GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="MOPSA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="POLIXENES">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="PERDITA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="ANTIGONUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SHEPHERD" target="FLORIZEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="POLIXENES" target="SHEPARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="POLIXENES" target="PAULINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="POLIXENES" target="FLORIZEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="POLIXENES" target="MOPSA">
+  <data key="d4">1</data>
+</edge>
+<edge source="POLIXENES" target="PERDITA">
   <data key="d4">2</data>
 </edge>
-<edge source="Lords" target="Officer">
+<edge source="POLIXENES" target="SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="Lords" target="HERMIONE">
+<edge source="POLIXENES" target="MAMILLIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="HERMIONE" target="Servant">
+<edge source="SECOND LADY" target="ANTIGONUS">
   <data key="d4">1</data>
 </edge>
-<edge source="HERMIONE" target="Second Lady">
+<edge source="SECOND LADY" target="FIRST LORD">
   <data key="d4">1</data>
 </edge>
-<edge source="HERMIONE" target="Officer">
+<edge source="SECOND LADY" target="FIRST LADY">
   <data key="d4">1</data>
 </edge>
-<edge source="Servant" target="Second Servant">
+<edge source="SECOND LADY" target="MAMILLIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="Servant" target="MOPSA">
+<edge source="FIRST GENTLEMAN" target="THIRD GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Servant" target="Officer">
+<edge source="FIRST GENTLEMAN" target="SECOND GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Lord" target="Gentleman">
+<edge source="MAMILLIUS" target="ANTIGONUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MAMILLIUS" target="FIRST LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MAMILLIUS" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOMENES" target="DION">
+  <data key="d4">3</data>
+</edge>
+<edge source="CLEOMENES" target="LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOMENES" target="FIRST LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOMENES" target="PAULINA">
+  <data key="d4">2</data>
+</edge>
+<edge source="CLEOMENES" target="FLORIZEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOMENES" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOMENES" target="GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOMENES" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOMENES" target="PERDITA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOMENES" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="DION">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="ANTIGONUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST LORD" target="SECOND SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="PAULINA">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST LORD" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="FIRST SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="LORDS">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST LORD" target="SERVANT">
+  <data key="d4">2</data>
+</edge>
+<edge source="SECOND SERVANT" target="ANTIGONUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SERVANT" target="PAULINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SERVANT" target="FIRST SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SERVANT" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SERVANT" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SERVANT" target="ANTIGONUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SERVANT" target="PAULINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SERVANT" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SERVANT" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTIGONUS" target="MARINER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTIGONUS" target="PAULINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTIGONUS" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTIGONUS" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTIGONUS" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="SERVANT" target="DION">
+  <data key="d4">1</data>
+</edge>
+<edge source="SERVANT" target="SHEPARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="SERVANT" target="PAULINA">
+  <data key="d4">2</data>
+</edge>
+<edge source="SERVANT" target="MOPSA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SERVANT" target="LORDS">
+  <data key="d4">2</data>
+</edge>
+<edge source="SERVANT" target="PERDITA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SERVANT" target="FLORIZEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="SERVANT" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GENTLEMAN" target="THIRD GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="GAOLER" target="PAULINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORDS" target="DION">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORDS" target="PAULINA">
+  <data key="d4">2</data>
+</edge>
+<edge source="LORDS" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MOPSA" target="SHEPARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MOPSA" target="FLORIZEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="MOPSA" target="PERDITA">
+  <data key="d4">1</data>
+</edge>
+<edge source="FLORIZEL" target="DION">
+  <data key="d4">1</data>
+</edge>
+<edge source="FLORIZEL" target="SHEPARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="FLORIZEL" target="PAULINA">
+  <data key="d4">1</data>
+</edge>
+<edge source="FLORIZEL" target="GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FLORIZEL" target="PERDITA">
+  <data key="d4">2</data>
+</edge>
+<edge source="FLORIZEL" target="LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="PAULINA" target="DION">
+  <data key="d4">2</data>
+</edge>
+<edge source="PAULINA" target="GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="PAULINA" target="PERDITA">
+  <data key="d4">2</data>
+</edge>
+<edge source="PAULINA" target="LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="PAULINA" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="DION" target="LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="DION" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="DION" target="GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="DION" target="PERDITA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERDITA" target="SHEPARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERDITA" target="GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="PERDITA" target="LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD" target="GENTLEMAN">
   <data key="d4">1</data>
 </edge>
 </graph></graphml>

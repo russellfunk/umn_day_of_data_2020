@@ -8,186 +8,186 @@
 <data key="d1">Two Gentlemen of Verona</data>
 <data key="d2">two_gentlemen</data>
 <data key="d3">comedy</data>
-<node id="SILVIA"/>
-<node id="JULIA"/>
-<node id="PROTEUS"/>
-<node id="Host"/>
-<node id="LAUNCE"/>
+<node id="ANTONIO"/>
 <node id="VALENTINE"/>
 <node id="THURIO"/>
-<node id="PANTHINO"/>
-<node id="Third Outlaw"/>
-<node id="LUCETTA"/>
-<node id="First Outlaw"/>
 <node id="SPEED"/>
-<node id="Outlaws"/>
 <node id="DUKE"/>
+<node id="LAUNCE"/>
+<node id="OUTLAWS"/>
+<node id="SILVIA"/>
+<node id="FIRST OUTLAW"/>
+<node id="JULIA"/>
+<node id="LUCETTA"/>
+<node id="SECOND OUTLAW"/>
+<node id="PROTEUS"/>
 <node id="EGLAMOUR"/>
-<node id="Second Outlaw"/>
-<node id="ANTONIO"/>
-<edge source="SILVIA" target="PROTEUS">
+<node id="PANTHINO"/>
+<node id="THIRD OUTLAW"/>
+<node id="HOST"/>
+<edge source="ANTONIO" target="PROTEUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="PANTHINO">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALENTINE" target="OUTLAWS">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALENTINE" target="SECOND OUTLAW">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALENTINE" target="JULIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALENTINE" target="PROTEUS">
   <data key="d4">4</data>
 </edge>
-<edge source="SILVIA" target="Host">
+<edge source="VALENTINE" target="LAUNCE">
   <data key="d4">1</data>
 </edge>
-<edge source="SILVIA" target="DUKE">
-  <data key="d4">2</data>
+<edge source="VALENTINE" target="FIRST OUTLAW">
+  <data key="d4">1</data>
 </edge>
-<edge source="SILVIA" target="THURIO">
+<edge source="VALENTINE" target="THIRD OUTLAW">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALENTINE" target="SILVIA">
   <data key="d4">3</data>
-</edge>
-<edge source="SILVIA" target="Outlaws">
-  <data key="d4">1</data>
-</edge>
-<edge source="SILVIA" target="First Outlaw">
-  <data key="d4">1</data>
-</edge>
-<edge source="SILVIA" target="EGLAMOUR">
-  <data key="d4">2</data>
-</edge>
-<edge source="SILVIA" target="SPEED">
-  <data key="d4">2</data>
-</edge>
-<edge source="SILVIA" target="Third Outlaw">
-  <data key="d4">1</data>
-</edge>
-<edge source="SILVIA" target="VALENTINE">
-  <data key="d4">3</data>
-</edge>
-<edge source="SILVIA" target="LAUNCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="SILVIA" target="Second Outlaw">
-  <data key="d4">1</data>
-</edge>
-<edge source="SILVIA" target="JULIA">
-  <data key="d4">3</data>
-</edge>
-<edge source="JULIA" target="PROTEUS">
-  <data key="d4">5</data>
-</edge>
-<edge source="JULIA" target="Host">
-  <data key="d4">1</data>
-</edge>
-<edge source="JULIA" target="DUKE">
-  <data key="d4">2</data>
-</edge>
-<edge source="JULIA" target="THURIO">
-  <data key="d4">3</data>
-</edge>
-<edge source="JULIA" target="LUCETTA">
-  <data key="d4">2</data>
-</edge>
-<edge source="JULIA" target="Outlaws">
-  <data key="d4">1</data>
-</edge>
-<edge source="JULIA" target="VALENTINE">
-  <data key="d4">1</data>
-</edge>
-<edge source="JULIA" target="LAUNCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="JULIA" target="PANTHINO">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROTEUS" target="Host">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROTEUS" target="DUKE">
-  <data key="d4">5</data>
-</edge>
-<edge source="PROTEUS" target="THURIO">
-  <data key="d4">5</data>
-</edge>
-<edge source="PROTEUS" target="Outlaws">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROTEUS" target="ANTONIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROTEUS" target="SPEED">
-  <data key="d4">3</data>
-</edge>
-<edge source="PROTEUS" target="VALENTINE">
-  <data key="d4">4</data>
-</edge>
-<edge source="PROTEUS" target="LAUNCE">
-  <data key="d4">2</data>
-</edge>
-<edge source="PROTEUS" target="PANTHINO">
-  <data key="d4">2</data>
-</edge>
-<edge source="Host" target="THURIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAUNCE" target="DUKE">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAUNCE" target="SPEED">
-  <data key="d4">2</data>
-</edge>
-<edge source="LAUNCE" target="VALENTINE">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAUNCE" target="PANTHINO">
-  <data key="d4">1</data>
-</edge>
-<edge source="VALENTINE" target="DUKE">
-  <data key="d4">3</data>
-</edge>
-<edge source="VALENTINE" target="THURIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="VALENTINE" target="Outlaws">
-  <data key="d4">1</data>
-</edge>
-<edge source="VALENTINE" target="First Outlaw">
-  <data key="d4">1</data>
 </edge>
 <edge source="VALENTINE" target="SPEED">
   <data key="d4">5</data>
 </edge>
-<edge source="VALENTINE" target="Third Outlaw">
+<edge source="VALENTINE" target="THURIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="VALENTINE" target="DUKE">
+  <data key="d4">3</data>
+</edge>
+<edge source="THURIO" target="OUTLAWS">
   <data key="d4">1</data>
 </edge>
-<edge source="VALENTINE" target="Second Outlaw">
+<edge source="THURIO" target="HOST">
+  <data key="d4">1</data>
+</edge>
+<edge source="THURIO" target="JULIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="THURIO" target="PROTEUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="THURIO" target="SILVIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="THURIO" target="SPEED">
   <data key="d4">1</data>
 </edge>
 <edge source="THURIO" target="DUKE">
   <data key="d4">4</data>
 </edge>
-<edge source="THURIO" target="Outlaws">
+<edge source="SPEED" target="SECOND OUTLAW">
   <data key="d4">1</data>
 </edge>
-<edge source="THURIO" target="SPEED">
-  <data key="d4">1</data>
-</edge>
-<edge source="PANTHINO" target="ANTONIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Outlaw" target="First Outlaw">
+<edge source="SPEED" target="LAUNCE">
   <data key="d4">2</data>
 </edge>
-<edge source="Third Outlaw" target="SPEED">
+<edge source="SPEED" target="PROTEUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="SPEED" target="FIRST OUTLAW">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Outlaw" target="Second Outlaw">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Outlaw" target="SPEED">
+<edge source="SPEED" target="THIRD OUTLAW">
   <data key="d4">1</data>
 </edge>
-<edge source="First Outlaw" target="Second Outlaw">
+<edge source="SPEED" target="SILVIA">
   <data key="d4">2</data>
 </edge>
 <edge source="SPEED" target="DUKE">
   <data key="d4">2</data>
 </edge>
-<edge source="SPEED" target="Second Outlaw">
+<edge source="DUKE" target="OUTLAWS">
   <data key="d4">1</data>
 </edge>
-<edge source="Outlaws" target="DUKE">
+<edge source="DUKE" target="JULIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="DUKE" target="PROTEUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="DUKE" target="LAUNCE">
   <data key="d4">1</data>
+</edge>
+<edge source="DUKE" target="SILVIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="LAUNCE" target="PANTHINO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAUNCE" target="JULIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAUNCE" target="PROTEUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="LAUNCE" target="SILVIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="OUTLAWS" target="JULIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="OUTLAWS" target="PROTEUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="OUTLAWS" target="SILVIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SILVIA" target="SECOND OUTLAW">
+  <data key="d4">1</data>
+</edge>
+<edge source="SILVIA" target="EGLAMOUR">
+  <data key="d4">2</data>
+</edge>
+<edge source="SILVIA" target="HOST">
+  <data key="d4">1</data>
+</edge>
+<edge source="SILVIA" target="JULIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="SILVIA" target="PROTEUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="SILVIA" target="FIRST OUTLAW">
+  <data key="d4">1</data>
+</edge>
+<edge source="SILVIA" target="THIRD OUTLAW">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST OUTLAW" target="SECOND OUTLAW">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST OUTLAW" target="THIRD OUTLAW">
+  <data key="d4">2</data>
+</edge>
+<edge source="JULIA" target="LUCETTA">
+  <data key="d4">2</data>
+</edge>
+<edge source="JULIA" target="HOST">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIA" target="PANTHINO">
+  <data key="d4">1</data>
+</edge>
+<edge source="JULIA" target="PROTEUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="SECOND OUTLAW" target="THIRD OUTLAW">
+  <data key="d4">2</data>
+</edge>
+<edge source="PROTEUS" target="HOST">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROTEUS" target="PANTHINO">
+  <data key="d4">2</data>
 </edge>
 </graph></graphml>

@@ -8,45 +8,300 @@
 <data key="d1">Much Ado About Nothing</data>
 <data key="d2">much_ado</data>
 <data key="d3">comedy</data>
-<node id="CONRADE"/>
-<node id="MARGARET"/>
-<node id="BORACHIO"/>
-<node id="DON JOHN"/>
-<node id="BEATRICE"/>
-<node id="DON PEDRO"/>
-<node id="HERO"/>
-<node id="BALTHASAR"/>
-<node id="ANTONIO"/>
-<node id="CLAUDIO"/>
-<node id="BENEDICK"/>
-<node id="Watchman"/>
-<node id="Lord"/>
 <node id="VERGES"/>
-<node id="Boy"/>
-<node id="FRIAR FRANCIS"/>
-<node id="URSULA"/>
-<node id="Messenger"/>
-<node id="DOGBERRY"/>
+<node id="BENEDICK"/>
 <node id="LEONATO"/>
-<node id="Sexton"/>
-<node id="First Watchman"/>
-<node id="Second Watchman"/>
-<edge source="CONRADE" target="Sexton">
+<node id="DON JOHN"/>
+<node id="WATCHMAN"/>
+<node id="MESSENGER"/>
+<node id="HERO"/>
+<node id="DON PEDRO"/>
+<node id="LORD"/>
+<node id="CONRADE"/>
+<node id="DOGBERRY"/>
+<node id="BORACHIO"/>
+<node id="CLAUDIO"/>
+<node id="SECOND WATCHMAN"/>
+<node id="ANTONIO"/>
+<node id="BOY"/>
+<node id="FRIAR FRANCIS"/>
+<node id="BALTHASAR"/>
+<node id="URSULA"/>
+<node id="BEATRICE"/>
+<node id="FIRST WATCHMAN"/>
+<node id="MARGARET"/>
+<node id="SEXTON"/>
+<edge source="VERGES" target="CLAUDIO">
   <data key="d4">1</data>
 </edge>
-<edge source="CONRADE" target="VERGES">
+<edge source="VERGES" target="SECOND WATCHMAN">
   <data key="d4">2</data>
 </edge>
-<edge source="CONRADE" target="Watchman">
-  <data key="d4">2</data>
-</edge>
-<edge source="CONRADE" target="DON JOHN">
+<edge source="VERGES" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="CONRADE" target="Second Watchman">
+<edge source="VERGES" target="SEXTON">
+  <data key="d4">1</data>
+</edge>
+<edge source="VERGES" target="BENEDICK">
+  <data key="d4">1</data>
+</edge>
+<edge source="VERGES" target="FIRST WATCHMAN">
   <data key="d4">2</data>
 </edge>
-<edge source="CONRADE" target="First Watchman">
+<edge source="VERGES" target="CONRADE">
+  <data key="d4">2</data>
+</edge>
+<edge source="VERGES" target="ANTONIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="VERGES" target="LEONATO">
+  <data key="d4">2</data>
+</edge>
+<edge source="VERGES" target="WATCHMAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="VERGES" target="DON PEDRO">
+  <data key="d4">1</data>
+</edge>
+<edge source="VERGES" target="DOGBERRY">
+  <data key="d4">4</data>
+</edge>
+<edge source="VERGES" target="BORACHIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="BENEDICK" target="URSULA">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENEDICK" target="MARGARET">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENEDICK" target="FRIAR FRANCIS">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENEDICK" target="ANTONIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="BENEDICK" target="BOY">
+  <data key="d4">1</data>
+</edge>
+<edge source="BENEDICK" target="DON PEDRO">
+  <data key="d4">7</data>
+</edge>
+<edge source="BENEDICK" target="BORACHIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENEDICK" target="BALTHASAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENEDICK" target="CLAUDIO">
+  <data key="d4">7</data>
+</edge>
+<edge source="BENEDICK" target="DON JOHN">
+  <data key="d4">4</data>
+</edge>
+<edge source="BENEDICK" target="MESSENGER">
+  <data key="d4">2</data>
+</edge>
+<edge source="BENEDICK" target="LEONATO">
+  <data key="d4">7</data>
+</edge>
+<edge source="BENEDICK" target="BEATRICE">
+  <data key="d4">6</data>
+</edge>
+<edge source="BENEDICK" target="HERO">
+  <data key="d4">4</data>
+</edge>
+<edge source="BENEDICK" target="DOGBERRY">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEONATO" target="URSULA">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEONATO" target="MARGARET">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEONATO" target="FRIAR FRANCIS">
+  <data key="d4">2</data>
+</edge>
+<edge source="LEONATO" target="ANTONIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="LEONATO" target="BOY">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEONATO" target="DON PEDRO">
+  <data key="d4">7</data>
+</edge>
+<edge source="LEONATO" target="BORACHIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="LEONATO" target="BALTHASAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="LEONATO" target="CLAUDIO">
+  <data key="d4">7</data>
+</edge>
+<edge source="LEONATO" target="DON JOHN">
+  <data key="d4">4</data>
+</edge>
+<edge source="LEONATO" target="MESSENGER">
+  <data key="d4">3</data>
+</edge>
+<edge source="LEONATO" target="BEATRICE">
+  <data key="d4">5</data>
+</edge>
+<edge source="LEONATO" target="HERO">
+  <data key="d4">4</data>
+</edge>
+<edge source="LEONATO" target="DOGBERRY">
+  <data key="d4">2</data>
+</edge>
+<edge source="DON JOHN" target="CLAUDIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="DON JOHN" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON JOHN" target="URSULA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON JOHN" target="MARGARET">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON JOHN" target="FRIAR FRANCIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON JOHN" target="ANTONIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON JOHN" target="CONRADE">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON JOHN" target="BEATRICE">
+  <data key="d4">3</data>
+</edge>
+<edge source="DON JOHN" target="HERO">
+  <data key="d4">3</data>
+</edge>
+<edge source="DON JOHN" target="DON PEDRO">
+  <data key="d4">4</data>
+</edge>
+<edge source="DON JOHN" target="BORACHIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="DON JOHN" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="WATCHMAN" target="SECOND WATCHMAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="WATCHMAN" target="SEXTON">
+  <data key="d4">1</data>
+</edge>
+<edge source="WATCHMAN" target="FIRST WATCHMAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="WATCHMAN" target="CONRADE">
+  <data key="d4">2</data>
+</edge>
+<edge source="WATCHMAN" target="DOGBERRY">
+  <data key="d4">2</data>
+</edge>
+<edge source="WATCHMAN" target="BORACHIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="MESSENGER" target="CLAUDIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="MESSENGER" target="FRIAR FRANCIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="ANTONIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="BEATRICE">
+  <data key="d4">2</data>
+</edge>
+<edge source="MESSENGER" target="HERO">
+  <data key="d4">2</data>
+</edge>
+<edge source="MESSENGER" target="DON PEDRO">
+  <data key="d4">2</data>
+</edge>
+<edge source="MESSENGER" target="DOGBERRY">
+  <data key="d4">1</data>
+</edge>
+<edge source="HERO" target="CLAUDIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="HERO" target="URSULA">
+  <data key="d4">3</data>
+</edge>
+<edge source="HERO" target="MARGARET">
+  <data key="d4">3</data>
+</edge>
+<edge source="HERO" target="FRIAR FRANCIS">
+  <data key="d4">2</data>
+</edge>
+<edge source="HERO" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="HERO" target="BEATRICE">
+  <data key="d4">6</data>
+</edge>
+<edge source="HERO" target="DON PEDRO">
+  <data key="d4">4</data>
+</edge>
+<edge source="HERO" target="BORACHIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="HERO" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON PEDRO" target="URSULA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON PEDRO" target="MARGARET">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON PEDRO" target="FRIAR FRANCIS">
+  <data key="d4">2</data>
+</edge>
+<edge source="DON PEDRO" target="ANTONIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="DON PEDRO" target="BOY">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON PEDRO" target="BORACHIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="DON PEDRO" target="BALTHASAR">
+  <data key="d4">2</data>
+</edge>
+<edge source="DON PEDRO" target="CLAUDIO">
+  <data key="d4">8</data>
+</edge>
+<edge source="DON PEDRO" target="LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="DON PEDRO" target="BEATRICE">
+  <data key="d4">5</data>
+</edge>
+<edge source="DON PEDRO" target="DOGBERRY">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD" target="CLAUDIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="CONRADE" target="SECOND WATCHMAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="CONRADE" target="SEXTON">
+  <data key="d4">1</data>
+</edge>
+<edge source="CONRADE" target="FIRST WATCHMAN">
   <data key="d4">2</data>
 </edge>
 <edge source="CONRADE" target="DOGBERRY">
@@ -55,376 +310,121 @@
 <edge source="CONRADE" target="BORACHIO">
   <data key="d4">3</data>
 </edge>
-<edge source="MARGARET" target="BORACHIO">
+<edge source="DOGBERRY" target="CLAUDIO">
   <data key="d4">1</data>
 </edge>
-<edge source="MARGARET" target="BEATRICE">
-  <data key="d4">4</data>
-</edge>
-<edge source="MARGARET" target="BALTHASAR">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARGARET" target="URSULA">
-  <data key="d4">4</data>
-</edge>
-<edge source="MARGARET" target="BENEDICK">
+<edge source="DOGBERRY" target="SECOND WATCHMAN">
   <data key="d4">2</data>
 </edge>
-<edge source="MARGARET" target="HERO">
-  <data key="d4">3</data>
-</edge>
-<edge source="MARGARET" target="ANTONIO">
+<edge source="DOGBERRY" target="SEXTON">
   <data key="d4">1</data>
 </edge>
-<edge source="MARGARET" target="DON JOHN">
+<edge source="DOGBERRY" target="ANTONIO">
   <data key="d4">1</data>
 </edge>
-<edge source="MARGARET" target="LEONATO">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARGARET" target="CLAUDIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARGARET" target="DON PEDRO">
-  <data key="d4">1</data>
-</edge>
-<edge source="BORACHIO" target="Sexton">
-  <data key="d4">1</data>
-</edge>
-<edge source="BORACHIO" target="BEATRICE">
-  <data key="d4">1</data>
-</edge>
-<edge source="BORACHIO" target="VERGES">
-  <data key="d4">3</data>
-</edge>
-<edge source="BORACHIO" target="Watchman">
+<edge source="DOGBERRY" target="FIRST WATCHMAN">
   <data key="d4">2</data>
 </edge>
-<edge source="BORACHIO" target="DON JOHN">
+<edge source="DOGBERRY" target="BORACHIO">
   <data key="d4">3</data>
+</edge>
+<edge source="BORACHIO" target="SECOND WATCHMAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="BORACHIO" target="URSULA">
+  <data key="d4">1</data>
+</edge>
+<edge source="BORACHIO" target="MARGARET">
+  <data key="d4">1</data>
 </edge>
 <edge source="BORACHIO" target="ANTONIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="BORACHIO" target="Second Watchman">
-  <data key="d4">2</data>
-</edge>
-<edge source="BORACHIO" target="First Watchman">
-  <data key="d4">2</data>
-</edge>
-<edge source="BORACHIO" target="DOGBERRY">
-  <data key="d4">3</data>
-</edge>
-<edge source="BORACHIO" target="CLAUDIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="BORACHIO" target="LEONATO">
   <data key="d4">2</data>
 </edge>
 <edge source="BORACHIO" target="BALTHASAR">
   <data key="d4">1</data>
 </edge>
-<edge source="BORACHIO" target="URSULA">
-  <data key="d4">1</data>
-</edge>
-<edge source="BORACHIO" target="BENEDICK">
+<edge source="BORACHIO" target="CLAUDIO">
   <data key="d4">2</data>
 </edge>
-<edge source="BORACHIO" target="HERO">
+<edge source="BORACHIO" target="SEXTON">
   <data key="d4">1</data>
 </edge>
-<edge source="BORACHIO" target="DON PEDRO">
+<edge source="BORACHIO" target="FIRST WATCHMAN">
   <data key="d4">2</data>
 </edge>
-<edge source="DON JOHN" target="BEATRICE">
+<edge source="BORACHIO" target="BEATRICE">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLAUDIO" target="URSULA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLAUDIO" target="MARGARET">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLAUDIO" target="FRIAR FRANCIS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CLAUDIO" target="ANTONIO">
   <data key="d4">3</data>
 </edge>
-<edge source="DON JOHN" target="BALTHASAR">
+<edge source="CLAUDIO" target="BOY">
   <data key="d4">1</data>
 </edge>
-<edge source="DON JOHN" target="URSULA">
-  <data key="d4">1</data>
-</edge>
-<edge source="DON JOHN" target="BENEDICK">
-  <data key="d4">4</data>
-</edge>
-<edge source="DON JOHN" target="HERO">
-  <data key="d4">3</data>
-</edge>
-<edge source="DON JOHN" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="DON JOHN" target="ANTONIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="DON JOHN" target="LEONATO">
-  <data key="d4">4</data>
-</edge>
-<edge source="DON JOHN" target="CLAUDIO">
-  <data key="d4">4</data>
-</edge>
-<edge source="DON JOHN" target="FRIAR FRANCIS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DON JOHN" target="DON PEDRO">
-  <data key="d4">4</data>
-</edge>
-<edge source="BEATRICE" target="BALTHASAR">
+<edge source="CLAUDIO" target="BALTHASAR">
   <data key="d4">2</data>
 </edge>
-<edge source="BEATRICE" target="URSULA">
-  <data key="d4">4</data>
-</edge>
-<edge source="BEATRICE" target="BENEDICK">
-  <data key="d4">6</data>
-</edge>
-<edge source="BEATRICE" target="HERO">
-  <data key="d4">6</data>
-</edge>
-<edge source="BEATRICE" target="Messenger">
-  <data key="d4">2</data>
-</edge>
-<edge source="BEATRICE" target="ANTONIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="BEATRICE" target="LEONATO">
+<edge source="CLAUDIO" target="BEATRICE">
   <data key="d4">5</data>
 </edge>
-<edge source="BEATRICE" target="CLAUDIO">
-  <data key="d4">5</data>
+<edge source="SECOND WATCHMAN" target="SEXTON">
+  <data key="d4">1</data>
 </edge>
-<edge source="BEATRICE" target="FRIAR FRANCIS">
+<edge source="SECOND WATCHMAN" target="FIRST WATCHMAN">
   <data key="d4">2</data>
 </edge>
-<edge source="BEATRICE" target="DON PEDRO">
-  <data key="d4">5</data>
-</edge>
-<edge source="BEATRICE" target="Boy">
+<edge source="ANTONIO" target="URSULA">
   <data key="d4">1</data>
 </edge>
-<edge source="DON PEDRO" target="Lord">
+<edge source="ANTONIO" target="MARGARET">
   <data key="d4">1</data>
 </edge>
-<edge source="DON PEDRO" target="VERGES">
+<edge source="ANTONIO" target="FRIAR FRANCIS">
   <data key="d4">1</data>
 </edge>
-<edge source="DON PEDRO" target="Messenger">
+<edge source="ANTONIO" target="BALTHASAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="BEATRICE">
   <data key="d4">2</data>
 </edge>
-<edge source="DON PEDRO" target="ANTONIO">
-  <data key="d4">3</data>
-</edge>
-<edge source="DON PEDRO" target="Boy">
+<edge source="BOY" target="BEATRICE">
   <data key="d4">1</data>
 </edge>
-<edge source="DON PEDRO" target="DOGBERRY">
+<edge source="BOY" target="BALTHASAR">
   <data key="d4">1</data>
 </edge>
-<edge source="DON PEDRO" target="CLAUDIO">
-  <data key="d4">8</data>
-</edge>
-<edge source="DON PEDRO" target="LEONATO">
-  <data key="d4">7</data>
-</edge>
-<edge source="DON PEDRO" target="BALTHASAR">
-  <data key="d4">2</data>
-</edge>
-<edge source="DON PEDRO" target="URSULA">
-  <data key="d4">1</data>
-</edge>
-<edge source="DON PEDRO" target="BENEDICK">
-  <data key="d4">7</data>
-</edge>
-<edge source="DON PEDRO" target="HERO">
-  <data key="d4">4</data>
-</edge>
-<edge source="DON PEDRO" target="FRIAR FRANCIS">
-  <data key="d4">2</data>
-</edge>
-<edge source="HERO" target="BALTHASAR">
-  <data key="d4">1</data>
-</edge>
-<edge source="HERO" target="URSULA">
-  <data key="d4">3</data>
-</edge>
-<edge source="HERO" target="BENEDICK">
-  <data key="d4">4</data>
-</edge>
-<edge source="HERO" target="Messenger">
-  <data key="d4">2</data>
-</edge>
-<edge source="HERO" target="ANTONIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="HERO" target="LEONATO">
-  <data key="d4">4</data>
-</edge>
-<edge source="HERO" target="CLAUDIO">
-  <data key="d4">4</data>
-</edge>
-<edge source="HERO" target="FRIAR FRANCIS">
+<edge source="FRIAR FRANCIS" target="BEATRICE">
   <data key="d4">2</data>
 </edge>
 <edge source="BALTHASAR" target="URSULA">
   <data key="d4">1</data>
 </edge>
-<edge source="BALTHASAR" target="BENEDICK">
+<edge source="BALTHASAR" target="MARGARET">
+  <data key="d4">1</data>
+</edge>
+<edge source="BALTHASAR" target="BEATRICE">
   <data key="d4">2</data>
 </edge>
-<edge source="BALTHASAR" target="ANTONIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="BALTHASAR" target="LEONATO">
-  <data key="d4">2</data>
-</edge>
-<edge source="BALTHASAR" target="CLAUDIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="BALTHASAR" target="Boy">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTONIO" target="VERGES">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTONIO" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTONIO" target="DOGBERRY">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTONIO" target="CLAUDIO">
-  <data key="d4">3</data>
-</edge>
-<edge source="ANTONIO" target="LEONATO">
+<edge source="URSULA" target="MARGARET">
   <data key="d4">4</data>
 </edge>
-<edge source="ANTONIO" target="URSULA">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTONIO" target="BENEDICK">
-  <data key="d4">3</data>
-</edge>
-<edge source="ANTONIO" target="FRIAR FRANCIS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLAUDIO" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLAUDIO" target="VERGES">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLAUDIO" target="Messenger">
-  <data key="d4">2</data>
-</edge>
-<edge source="CLAUDIO" target="Boy">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLAUDIO" target="DOGBERRY">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLAUDIO" target="LEONATO">
-  <data key="d4">7</data>
-</edge>
-<edge source="CLAUDIO" target="URSULA">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLAUDIO" target="BENEDICK">
-  <data key="d4">7</data>
-</edge>
-<edge source="CLAUDIO" target="FRIAR FRANCIS">
-  <data key="d4">2</data>
-</edge>
-<edge source="BENEDICK" target="VERGES">
-  <data key="d4">1</data>
-</edge>
-<edge source="BENEDICK" target="Messenger">
-  <data key="d4">2</data>
-</edge>
-<edge source="BENEDICK" target="Boy">
-  <data key="d4">1</data>
-</edge>
-<edge source="BENEDICK" target="DOGBERRY">
-  <data key="d4">1</data>
-</edge>
-<edge source="BENEDICK" target="LEONATO">
-  <data key="d4">7</data>
-</edge>
-<edge source="BENEDICK" target="URSULA">
-  <data key="d4">2</data>
-</edge>
-<edge source="BENEDICK" target="FRIAR FRANCIS">
-  <data key="d4">2</data>
-</edge>
-<edge source="Watchman" target="Sexton">
-  <data key="d4">1</data>
-</edge>
-<edge source="Watchman" target="VERGES">
-  <data key="d4">2</data>
-</edge>
-<edge source="Watchman" target="Second Watchman">
-  <data key="d4">2</data>
-</edge>
-<edge source="Watchman" target="First Watchman">
-  <data key="d4">2</data>
-</edge>
-<edge source="Watchman" target="DOGBERRY">
-  <data key="d4">2</data>
-</edge>
-<edge source="VERGES" target="Sexton">
-  <data key="d4">1</data>
-</edge>
-<edge source="VERGES" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="VERGES" target="Second Watchman">
-  <data key="d4">2</data>
-</edge>
-<edge source="VERGES" target="First Watchman">
-  <data key="d4">2</data>
-</edge>
-<edge source="VERGES" target="DOGBERRY">
+<edge source="URSULA" target="BEATRICE">
   <data key="d4">4</data>
 </edge>
-<edge source="VERGES" target="LEONATO">
-  <data key="d4">2</data>
+<edge source="BEATRICE" target="MARGARET">
+  <data key="d4">4</data>
 </edge>
-<edge source="Boy" target="LEONATO">
+<edge source="FIRST WATCHMAN" target="SEXTON">
   <data key="d4">1</data>
-</edge>
-<edge source="FRIAR FRANCIS" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="FRIAR FRANCIS" target="LEONATO">
-  <data key="d4">2</data>
-</edge>
-<edge source="URSULA" target="LEONATO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="DOGBERRY">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="LEONATO">
-  <data key="d4">3</data>
-</edge>
-<edge source="DOGBERRY" target="Sexton">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOGBERRY" target="Second Watchman">
-  <data key="d4">2</data>
-</edge>
-<edge source="DOGBERRY" target="First Watchman">
-  <data key="d4">2</data>
-</edge>
-<edge source="DOGBERRY" target="LEONATO">
-  <data key="d4">2</data>
-</edge>
-<edge source="Sexton" target="Second Watchman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Sexton" target="First Watchman">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Watchman" target="Second Watchman">
-  <data key="d4">2</data>
 </edge>
 </graph></graphml>

@@ -86,10 +86,15 @@ def main():
         # loop over speeches
         for speech in scene_html.find_all("a", {"name" : re.compile("^speech[0-9]+$")}):
         
+          # extract and clean the character names
+          character = speech.text
+          character = " ".join(character.split())
+          character = character.upper()
+          
           # save our data
           actXscene = "%s-%s" % (act_number, scene_number)
-          data_2mode_edges.add((speech.text,
-                              actXscene))
+          data_2mode_edges.add((character,
+                                actXscene))
         
     # create a bipartite graph in networkx
     B = nx.Graph()

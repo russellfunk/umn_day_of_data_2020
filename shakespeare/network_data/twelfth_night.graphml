@@ -9,324 +9,324 @@
 <data key="d2">twelfth_night</data>
 <data key="d3">comedy</data>
 <node id="SIR TOBY BELCH"/>
-<node id="First Officer"/>
-<node id="Clown"/>
-<node id="ANTONIO"/>
-<node id="Captain"/>
-<node id="MALVOLIO"/>
-<node id="OLIVIA"/>
 <node id="SEBASTIAN"/>
-<node id="SIR ANDREW"/>
-<node id="MARIA"/>
-<node id="Servant"/>
-<node id="FABIAN"/>
+<node id="OLIVIA"/>
+<node id="CLOWN"/>
+<node id="MALVOLIO"/>
 <node id="VIOLA"/>
-<node id="DUKE ORSINO"/>
-<node id="Second Officer"/>
+<node id="ANTONIO"/>
 <node id="CURIO"/>
+<node id="MARIA"/>
+<node id="DUKE ORSINO"/>
+<node id="FABIAN"/>
 <node id="VALENTINE"/>
-<node id="Priest"/>
-<edge source="SIR TOBY BELCH" target="Servant">
-  <data key="d4">1</data>
+<node id="SIR ANDREW"/>
+<node id="FIRST OFFICER"/>
+<node id="SECOND OFFICER"/>
+<node id="SERVANT"/>
+<node id="PRIEST"/>
+<node id="CAPTAIN"/>
+<edge source="SIR TOBY BELCH" target="SIR ANDREW">
+  <data key="d4">8</data>
+</edge>
+<edge source="SIR TOBY BELCH" target="OLIVIA">
+  <data key="d4">5</data>
 </edge>
 <edge source="SIR TOBY BELCH" target="FABIAN">
   <data key="d4">4</data>
 </edge>
-<edge source="SIR TOBY BELCH" target="First Officer">
+<edge source="SIR TOBY BELCH" target="MALVOLIO">
+  <data key="d4">6</data>
+</edge>
+<edge source="SIR TOBY BELCH" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIR TOBY BELCH" target="SEBASTIAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="SIR TOBY BELCH" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="SIR TOBY BELCH" target="VIOLA">
+  <data key="d4">4</data>
+</edge>
+<edge source="SIR TOBY BELCH" target="PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIR TOBY BELCH" target="CLOWN">
+  <data key="d4">6</data>
+</edge>
+<edge source="SIR TOBY BELCH" target="FIRST OFFICER">
   <data key="d4">2</data>
 </edge>
 <edge source="SIR TOBY BELCH" target="DUKE ORSINO">
   <data key="d4">1</data>
 </edge>
-<edge source="SIR TOBY BELCH" target="SIR ANDREW">
-  <data key="d4">8</data>
-</edge>
-<edge source="SIR TOBY BELCH" target="Second Officer">
+<edge source="SIR TOBY BELCH" target="SERVANT">
   <data key="d4">1</data>
-</edge>
-<edge source="SIR TOBY BELCH" target="MALVOLIO">
-  <data key="d4">6</data>
-</edge>
-<edge source="SIR TOBY BELCH" target="ANTONIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="SIR TOBY BELCH" target="Clown">
-  <data key="d4">6</data>
-</edge>
-<edge source="SIR TOBY BELCH" target="VIOLA">
-  <data key="d4">4</data>
-</edge>
-<edge source="SIR TOBY BELCH" target="SEBASTIAN">
-  <data key="d4">2</data>
 </edge>
 <edge source="SIR TOBY BELCH" target="MARIA">
   <data key="d4">7</data>
 </edge>
-<edge source="SIR TOBY BELCH" target="Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="SIR TOBY BELCH" target="OLIVIA">
-  <data key="d4">5</data>
-</edge>
-<edge source="First Officer" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Officer" target="FABIAN">
+<edge source="SEBASTIAN" target="SIR ANDREW">
   <data key="d4">2</data>
 </edge>
-<edge source="First Officer" target="DUKE ORSINO">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Officer" target="SIR ANDREW">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Officer" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Officer" target="MALVOLIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Officer" target="ANTONIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Officer" target="VIOLA">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Officer" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Officer" target="SEBASTIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Officer" target="MARIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Officer" target="Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Officer" target="OLIVIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="Clown" target="FABIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="CURIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="DUKE ORSINO">
-  <data key="d4">2</data>
-</edge>
-<edge source="Clown" target="SIR ANDREW">
-  <data key="d4">4</data>
-</edge>
-<edge source="Clown" target="MALVOLIO">
-  <data key="d4">4</data>
-</edge>
-<edge source="Clown" target="ANTONIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="VIOLA">
-  <data key="d4">4</data>
-</edge>
-<edge source="Clown" target="SEBASTIAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="Clown" target="MARIA">
+<edge source="SEBASTIAN" target="OLIVIA">
   <data key="d4">3</data>
-</edge>
-<edge source="Clown" target="Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="OLIVIA">
-  <data key="d4">4</data>
-</edge>
-<edge source="ANTONIO" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTONIO" target="FABIAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="ANTONIO" target="DUKE ORSINO">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTONIO" target="SIR ANDREW">
-  <data key="d4">2</data>
-</edge>
-<edge source="ANTONIO" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTONIO" target="MALVOLIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="ANTONIO" target="VIOLA">
-  <data key="d4">2</data>
-</edge>
-<edge source="ANTONIO" target="SEBASTIAN">
-  <data key="d4">3</data>
-</edge>
-<edge source="ANTONIO" target="MARIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTONIO" target="Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTONIO" target="OLIVIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="Captain" target="VIOLA">
-  <data key="d4">1</data>
-</edge>
-<edge source="MALVOLIO" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="MALVOLIO" target="FABIAN">
-  <data key="d4">3</data>
-</edge>
-<edge source="MALVOLIO" target="DUKE ORSINO">
-  <data key="d4">1</data>
-</edge>
-<edge source="MALVOLIO" target="SIR ANDREW">
-  <data key="d4">4</data>
-</edge>
-<edge source="MALVOLIO" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="MALVOLIO" target="VIOLA">
-  <data key="d4">4</data>
-</edge>
-<edge source="MALVOLIO" target="SEBASTIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="MALVOLIO" target="MARIA">
-  <data key="d4">5</data>
-</edge>
-<edge source="MALVOLIO" target="Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="MALVOLIO" target="OLIVIA">
-  <data key="d4">3</data>
-</edge>
-<edge source="OLIVIA" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="OLIVIA" target="FABIAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="OLIVIA" target="DUKE ORSINO">
-  <data key="d4">1</data>
-</edge>
-<edge source="OLIVIA" target="SIR ANDREW">
-  <data key="d4">4</data>
-</edge>
-<edge source="OLIVIA" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="OLIVIA" target="VIOLA">
-  <data key="d4">4</data>
-</edge>
-<edge source="OLIVIA" target="SEBASTIAN">
-  <data key="d4">3</data>
-</edge>
-<edge source="OLIVIA" target="MARIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="OLIVIA" target="Priest">
-  <data key="d4">1</data>
 </edge>
 <edge source="SEBASTIAN" target="FABIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SEBASTIAN" target="MALVOLIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SEBASTIAN" target="ANTONIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="SEBASTIAN" target="PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="SEBASTIAN" target="VIOLA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SEBASTIAN" target="CLOWN">
+  <data key="d4">2</data>
+</edge>
+<edge source="SEBASTIAN" target="FIRST OFFICER">
   <data key="d4">1</data>
 </edge>
 <edge source="SEBASTIAN" target="DUKE ORSINO">
   <data key="d4">1</data>
 </edge>
-<edge source="SEBASTIAN" target="SIR ANDREW">
-  <data key="d4">2</data>
-</edge>
-<edge source="SEBASTIAN" target="VIOLA">
-  <data key="d4">1</data>
-</edge>
-<edge source="SEBASTIAN" target="Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="SIR ANDREW" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="SIR ANDREW" target="FABIAN">
+<edge source="OLIVIA" target="SIR ANDREW">
   <data key="d4">4</data>
 </edge>
-<edge source="SIR ANDREW" target="DUKE ORSINO">
-  <data key="d4">1</data>
+<edge source="OLIVIA" target="FABIAN">
+  <data key="d4">2</data>
 </edge>
-<edge source="SIR ANDREW" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="SIR ANDREW" target="VIOLA">
+<edge source="OLIVIA" target="MALVOLIO">
   <data key="d4">3</data>
 </edge>
-<edge source="SIR ANDREW" target="MARIA">
+<edge source="OLIVIA" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="OLIVIA" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="OLIVIA" target="VIOLA">
+  <data key="d4">4</data>
+</edge>
+<edge source="OLIVIA" target="PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="OLIVIA" target="CLOWN">
+  <data key="d4">4</data>
+</edge>
+<edge source="OLIVIA" target="FIRST OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="OLIVIA" target="DUKE ORSINO">
+  <data key="d4">1</data>
+</edge>
+<edge source="OLIVIA" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="OLIVIA" target="MARIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="CLOWN" target="SIR ANDREW">
+  <data key="d4">4</data>
+</edge>
+<edge source="CLOWN" target="FABIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="MALVOLIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="CLOWN" target="CURIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="ANTONIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="VIOLA">
+  <data key="d4">4</data>
+</edge>
+<edge source="CLOWN" target="PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="DUKE ORSINO">
+  <data key="d4">2</data>
+</edge>
+<edge source="CLOWN" target="MARIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="MALVOLIO" target="SIR ANDREW">
+  <data key="d4">4</data>
+</edge>
+<edge source="MALVOLIO" target="FABIAN">
+  <data key="d4">3</data>
+</edge>
+<edge source="MALVOLIO" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MALVOLIO" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="MALVOLIO" target="VIOLA">
+  <data key="d4">4</data>
+</edge>
+<edge source="MALVOLIO" target="PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="MALVOLIO" target="FIRST OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="MALVOLIO" target="DUKE ORSINO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MALVOLIO" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MALVOLIO" target="MARIA">
   <data key="d4">5</data>
-</edge>
-<edge source="SIR ANDREW" target="Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARIA" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARIA" target="FABIAN">
-  <data key="d4">3</data>
-</edge>
-<edge source="MARIA" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARIA" target="VIOLA">
-  <data key="d4">2</data>
-</edge>
-<edge source="Servant" target="FABIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="Servant" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="Servant" target="VIOLA">
-  <data key="d4">1</data>
-</edge>
-<edge source="FABIAN" target="DUKE ORSINO">
-  <data key="d4">1</data>
-</edge>
-<edge source="FABIAN" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="FABIAN" target="VIOLA">
-  <data key="d4">2</data>
-</edge>
-<edge source="FABIAN" target="Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="VIOLA" target="DUKE ORSINO">
-  <data key="d4">3</data>
-</edge>
-<edge source="VIOLA" target="CURIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="VIOLA" target="Second Officer">
-  <data key="d4">1</data>
 </edge>
 <edge source="VIOLA" target="VALENTINE">
   <data key="d4">1</data>
 </edge>
-<edge source="VIOLA" target="Priest">
+<edge source="VIOLA" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="VIOLA" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="DUKE ORSINO" target="CURIO">
+<edge source="VIOLA" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="VIOLA" target="SIR ANDREW">
+  <data key="d4">3</data>
+</edge>
+<edge source="VIOLA" target="FABIAN">
   <data key="d4">2</data>
+</edge>
+<edge source="VIOLA" target="CURIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="VIOLA" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="VIOLA" target="PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="VIOLA" target="FIRST OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="VIOLA" target="DUKE ORSINO">
+  <data key="d4">3</data>
+</edge>
+<edge source="VIOLA" target="MARIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANTONIO" target="SIR ANDREW">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANTONIO" target="FABIAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANTONIO" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="DUKE ORSINO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="FIRST OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANTONIO" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTONIO" target="MARIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CURIO" target="DUKE ORSINO">
+  <data key="d4">2</data>
+</edge>
+<edge source="CURIO" target="VALENTINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARIA" target="SIR ANDREW">
+  <data key="d4">5</data>
+</edge>
+<edge source="MARIA" target="FABIAN">
+  <data key="d4">3</data>
+</edge>
+<edge source="MARIA" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARIA" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARIA" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE ORSINO" target="SIR ANDREW">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE ORSINO" target="FABIAN">
+  <data key="d4">1</data>
 </edge>
 <edge source="DUKE ORSINO" target="VALENTINE">
   <data key="d4">2</data>
 </edge>
-<edge source="DUKE ORSINO" target="Priest">
+<edge source="DUKE ORSINO" target="PRIEST">
   <data key="d4">1</data>
 </edge>
-<edge source="CURIO" target="VALENTINE">
+<edge source="DUKE ORSINO" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FABIAN" target="SIR ANDREW">
+  <data key="d4">4</data>
+</edge>
+<edge source="FABIAN" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FABIAN" target="PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="FABIAN" target="FIRST OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="FABIAN" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIR ANDREW" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIR ANDREW" target="PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIR ANDREW" target="FIRST OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="SIR ANDREW" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST OFFICER" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST OFFICER" target="PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST OFFICER" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND OFFICER" target="SERVANT">
   <data key="d4">1</data>
 </edge>
 </graph></graphml>

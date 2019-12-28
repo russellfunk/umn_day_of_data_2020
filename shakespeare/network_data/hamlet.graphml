@@ -8,713 +8,713 @@
 <data key="d1">Hamlet</data>
 <data key="d2">hamlet</data>
 <data key="d3">tragedy</data>
-<node id="VOLTIMAND"/>
-<node id="OPHELIA"/>
 <node id="KING CLAUDIUS"/>
-<node id="HORATIO"/>
-<node id="ROSENCRANTZ"/>
-<node id="LAERTES"/>
-<node id="LORD POLONIUS"/>
-<node id="QUEEN GERTRUDE"/>
-<node id="Danes"/>
-<node id="GUILDENSTERN"/>
-<node id="FRANCISCO"/>
-<node id="All"/>
 <node id="HAMLET"/>
-<node id="First Clown"/>
-<node id="BERNARDO"/>
-<node id="Captain"/>
-<node id="First Ambassador"/>
-<node id="REYNALDO"/>
-<node id="Player King"/>
-<node id="LUCIANUS"/>
-<node id="First Player"/>
-<node id="Servant"/>
-<node id="Prologue"/>
+<node id="LORD"/>
+<node id="OPHELIA"/>
+<node id="DANES"/>
+<node id="QUEEN GERTRUDE"/>
+<node id="FRANCISCO"/>
+<node id="LAERTES"/>
+<node id="VOLTIMAND"/>
+<node id="ALL"/>
+<node id="FIRST PRIEST"/>
+<node id="GUILDENSTERN"/>
+<node id="LORD POLONIUS"/>
+<node id="ROSENCRANTZ"/>
+<node id="FIRST AMBASSADOR"/>
 <node id="MARCELLUS"/>
-<node id="ROSENCRANTZ:"/>
-<node id="OSRIC"/>
-<node id="First Priest"/>
+<node id="HORATIO"/>
+<node id="BERNARDO"/>
 <node id="CORNELIUS"/>
-<node id="Ghost"/>
-<node id="Second Clown"/>
-<node id="Messenger"/>
-<node id="Player Queen"/>
-<node id="Lord"/>
-<node id="GUILDENSTERN:"/>
-<node id="First Sailor"/>
+<node id="FIRST PLAYER"/>
 <node id="PRINCE FORTINBRAS"/>
-<node id="Gentleman"/>
-<edge source="VOLTIMAND" target="LAERTES">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLTIMAND" target="KING CLAUDIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="VOLTIMAND" target="HORATIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLTIMAND" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLTIMAND" target="LORD POLONIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="VOLTIMAND" target="QUEEN GERTRUDE">
-  <data key="d4">2</data>
-</edge>
-<edge source="VOLTIMAND" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLTIMAND" target="MARCELLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLTIMAND" target="ROSENCRANTZ">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLTIMAND" target="First Player">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLTIMAND" target="GUILDENSTERN">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLTIMAND" target="HAMLET">
-  <data key="d4">2</data>
-</edge>
-<edge source="VOLTIMAND" target="BERNARDO">
-  <data key="d4">1</data>
-</edge>
-<edge source="OPHELIA" target="LUCIANUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="OPHELIA" target="Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="OPHELIA" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="OPHELIA" target="QUEEN GERTRUDE">
-  <data key="d4">3</data>
-</edge>
-<edge source="OPHELIA" target="Player King">
-  <data key="d4">1</data>
-</edge>
-<edge source="OPHELIA" target="ROSENCRANTZ">
-  <data key="d4">2</data>
-</edge>
-<edge source="OPHELIA" target="Danes">
-  <data key="d4">1</data>
-</edge>
-<edge source="OPHELIA" target="First Player">
-  <data key="d4">1</data>
-</edge>
-<edge source="OPHELIA" target="GUILDENSTERN">
-  <data key="d4">2</data>
-</edge>
-<edge source="OPHELIA" target="HAMLET">
-  <data key="d4">2</data>
-</edge>
-<edge source="OPHELIA" target="LAERTES">
-  <data key="d4">2</data>
-</edge>
-<edge source="OPHELIA" target="LORD POLONIUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="OPHELIA" target="HORATIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="OPHELIA" target="KING CLAUDIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="OPHELIA" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="OPHELIA" target="REYNALDO">
-  <data key="d4">1</data>
-</edge>
-<edge source="OPHELIA" target="Player Queen">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="LUCIANUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="First Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="First Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="QUEEN GERTRUDE">
-  <data key="d4">9</data>
-</edge>
-<edge source="KING CLAUDIUS" target="Messenger">
-  <data key="d4">1</data>
-</edge>
+<node id="REYNALDO"/>
+<node id="GUILDENSTERN:"/>
+<node id="FIRST CLOWN"/>
+<node id="PROLOGUE"/>
+<node id="GHOST"/>
+<node id="PLAYER QUEEN"/>
+<node id="CAPTAIN"/>
+<node id="MESSENGER"/>
+<node id="OSRIC"/>
+<node id="GENTLEMAN"/>
+<node id="ROSENCRANTZ:"/>
+<node id="FIRST SAILOR"/>
+<node id="SERVANT"/>
+<node id="PLAYER KING"/>
+<node id="LUCIANUS"/>
+<node id="SECOND CLOWN"/>
 <edge source="KING CLAUDIUS" target="OSRIC">
   <data key="d4">1</data>
 </edge>
-<edge source="KING CLAUDIUS" target="MARCELLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="PRINCE FORTINBRAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="Player King">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="ROSENCRANTZ">
+<edge source="KING CLAUDIUS" target="HORATIO">
   <data key="d4">5</data>
 </edge>
-<edge source="KING CLAUDIUS" target="First Player">
-  <data key="d4">2</data>
+<edge source="KING CLAUDIUS" target="FIRST AMBASSADOR">
+  <data key="d4">1</data>
 </edge>
-<edge source="KING CLAUDIUS" target="GUILDENSTERN">
-  <data key="d4">4</data>
+<edge source="KING CLAUDIUS" target="PLAYER QUEEN">
+  <data key="d4">1</data>
 </edge>
-<edge source="KING CLAUDIUS" target="Second Clown">
+<edge source="KING CLAUDIUS" target="GENTLEMAN">
   <data key="d4">1</data>
 </edge>
 <edge source="KING CLAUDIUS" target="HAMLET">
   <data key="d4">8</data>
 </edge>
-<edge source="KING CLAUDIUS" target="Danes">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="First Ambassador">
-  <data key="d4">1</data>
-</edge>
-<edge source="KING CLAUDIUS" target="LAERTES">
-  <data key="d4">5</data>
-</edge>
-<edge source="KING CLAUDIUS" target="LORD POLONIUS">
-  <data key="d4">5</data>
-</edge>
-<edge source="KING CLAUDIUS" target="HORATIO">
-  <data key="d4">5</data>
-</edge>
-<edge source="KING CLAUDIUS" target="All">
+<edge source="KING CLAUDIUS" target="GUILDENSTERN">
   <data key="d4">4</data>
 </edge>
-<edge source="KING CLAUDIUS" target="CORNELIUS">
+<edge source="KING CLAUDIUS" target="PROLOGUE">
   <data key="d4">1</data>
 </edge>
-<edge source="KING CLAUDIUS" target="Player Queen">
+<edge source="KING CLAUDIUS" target="FIRST PRIEST">
   <data key="d4">1</data>
 </edge>
 <edge source="KING CLAUDIUS" target="BERNARDO">
   <data key="d4">1</data>
 </edge>
-<edge source="HORATIO" target="Servant">
+<edge source="KING CLAUDIUS" target="FIRST CLOWN">
   <data key="d4">1</data>
 </edge>
-<edge source="HORATIO" target="LUCIANUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="First Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="QUEEN GERTRUDE">
+<edge source="KING CLAUDIUS" target="LAERTES">
   <data key="d4">5</data>
 </edge>
-<edge source="HORATIO" target="PRINCE FORTINBRAS">
+<edge source="KING CLAUDIUS" target="DANES">
   <data key="d4">1</data>
 </edge>
-<edge source="HORATIO" target="GUILDENSTERN">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="First Ambassador">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="LAERTES">
-  <data key="d4">4</data>
-</edge>
-<edge source="HORATIO" target="FRANCISCO">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="Ghost">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="Player Queen">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="First Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="MARCELLUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="HORATIO" target="OSRIC">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="Player King">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="ROSENCRANTZ">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="First Player">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="Second Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="HAMLET">
-  <data key="d4">6</data>
-</edge>
-<edge source="HORATIO" target="Danes">
-  <data key="d4">1</data>
-</edge>
-<edge source="HORATIO" target="LORD POLONIUS">
+<edge source="KING CLAUDIUS" target="FIRST PLAYER">
   <data key="d4">2</data>
 </edge>
-<edge source="HORATIO" target="All">
-  <data key="d4">4</data>
-</edge>
-<edge source="HORATIO" target="First Sailor">
+<edge source="KING CLAUDIUS" target="CORNELIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="HORATIO" target="BERNARDO">
-  <data key="d4">2</data>
+<edge source="KING CLAUDIUS" target="QUEEN GERTRUDE">
+  <data key="d4">9</data>
 </edge>
-<edge source="ROSENCRANTZ" target="LUCIANUS">
+<edge source="KING CLAUDIUS" target="LORD">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSENCRANTZ" target="Prologue">
+<edge source="KING CLAUDIUS" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSENCRANTZ" target="QUEEN GERTRUDE">
-  <data key="d4">3</data>
-</edge>
-<edge source="ROSENCRANTZ" target="PRINCE FORTINBRAS">
+<edge source="KING CLAUDIUS" target="PLAYER KING">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSENCRANTZ" target="Player King">
-  <data key="d4">1</data>
-</edge>
-<edge source="ROSENCRANTZ" target="First Player">
-  <data key="d4">2</data>
-</edge>
-<edge source="ROSENCRANTZ" target="GUILDENSTERN">
+<edge source="KING CLAUDIUS" target="ROSENCRANTZ">
   <data key="d4">5</data>
 </edge>
-<edge source="ROSENCRANTZ" target="GUILDENSTERN:">
+<edge source="KING CLAUDIUS" target="PRINCE FORTINBRAS">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSENCRANTZ" target="HAMLET">
-  <data key="d4">7</data>
-</edge>
-<edge source="ROSENCRANTZ" target="LORD POLONIUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="ROSENCRANTZ" target="Captain">
+<edge source="KING CLAUDIUS" target="MARCELLUS">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSENCRANTZ" target="All">
+<edge source="KING CLAUDIUS" target="OPHELIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="KING CLAUDIUS" target="LUCIANUS">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSENCRANTZ" target="ROSENCRANTZ:">
-  <data key="d4">1</data>
-</edge>
-<edge source="ROSENCRANTZ" target="Player Queen">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="First Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="First Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="QUEEN GERTRUDE">
+<edge source="KING CLAUDIUS" target="LORD POLONIUS">
   <data key="d4">5</data>
 </edge>
-<edge source="LAERTES" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="OSRIC">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="MARCELLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="PRINCE FORTINBRAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="Danes">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="Second Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="HAMLET">
-  <data key="d4">3</data>
-</edge>
-<edge source="LAERTES" target="First Ambassador">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="LORD POLONIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="LAERTES" target="All">
-  <data key="d4">3</data>
-</edge>
-<edge source="LAERTES" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAERTES" target="BERNARDO">
-  <data key="d4">1</data>
-</edge>
-<edge source="LORD POLONIUS" target="LUCIANUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="LORD POLONIUS" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="LORD POLONIUS" target="QUEEN GERTRUDE">
-  <data key="d4">5</data>
-</edge>
-<edge source="LORD POLONIUS" target="MARCELLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="LORD POLONIUS" target="Player King">
-  <data key="d4">1</data>
-</edge>
-<edge source="LORD POLONIUS" target="First Player">
-  <data key="d4">2</data>
-</edge>
-<edge source="LORD POLONIUS" target="GUILDENSTERN">
+<edge source="KING CLAUDIUS" target="ALL">
   <data key="d4">4</data>
 </edge>
-<edge source="LORD POLONIUS" target="HAMLET">
-  <data key="d4">6</data>
-</edge>
-<edge source="LORD POLONIUS" target="REYNALDO">
-  <data key="d4">1</data>
-</edge>
-<edge source="LORD POLONIUS" target="All">
+<edge source="KING CLAUDIUS" target="VOLTIMAND">
   <data key="d4">2</data>
 </edge>
-<edge source="LORD POLONIUS" target="CORNELIUS">
+<edge source="KING CLAUDIUS" target="SECOND CLOWN">
   <data key="d4">1</data>
-</edge>
-<edge source="LORD POLONIUS" target="Ghost">
-  <data key="d4">1</data>
-</edge>
-<edge source="LORD POLONIUS" target="Player Queen">
-  <data key="d4">1</data>
-</edge>
-<edge source="LORD POLONIUS" target="BERNARDO">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="LUCIANUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="First Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="First Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="OSRIC">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="MARCELLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="PRINCE FORTINBRAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="Player King">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="First Player">
-  <data key="d4">2</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="GUILDENSTERN">
-  <data key="d4">3</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="Second Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="HAMLET">
-  <data key="d4">7</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="Danes">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="First Ambassador">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="All">
-  <data key="d4">4</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="Ghost">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="Player Queen">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN GERTRUDE" target="BERNARDO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Danes" target="Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUILDENSTERN" target="LUCIANUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUILDENSTERN" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUILDENSTERN" target="Player King">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUILDENSTERN" target="First Player">
-  <data key="d4">2</data>
-</edge>
-<edge source="GUILDENSTERN" target="GUILDENSTERN:">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUILDENSTERN" target="HAMLET">
-  <data key="d4">5</data>
-</edge>
-<edge source="GUILDENSTERN" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUILDENSTERN" target="ROSENCRANTZ:">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUILDENSTERN" target="Player Queen">
-  <data key="d4">1</data>
-</edge>
-<edge source="FRANCISCO" target="MARCELLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="FRANCISCO" target="BERNARDO">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="LUCIANUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="First Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="First Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="MARCELLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="OSRIC">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="PRINCE FORTINBRAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Player King">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="First Player">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Second Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="HAMLET">
-  <data key="d4">4</data>
-</edge>
-<edge source="All" target="First Ambassador">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Player Queen">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="BERNARDO">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="LUCIANUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="First Priest">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="First Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="MARCELLUS">
-  <data key="d4">3</data>
 </edge>
 <edge source="HAMLET" target="OSRIC">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="PRINCE FORTINBRAS">
-  <data key="d4">2</data>
-</edge>
-<edge source="HAMLET" target="Player King">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="First Player">
-  <data key="d4">2</data>
-</edge>
-<edge source="HAMLET" target="Second Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="GUILDENSTERN:">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="First Ambassador">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="HAMLET" target="Ghost">
-  <data key="d4">2</data>
-</edge>
-<edge source="HAMLET" target="CORNELIUS">
   <data key="d4">1</data>
 </edge>
 <edge source="HAMLET" target="ROSENCRANTZ:">
   <data key="d4">1</data>
 </edge>
-<edge source="HAMLET" target="Player Queen">
+<edge source="HAMLET" target="HORATIO">
+  <data key="d4">6</data>
+</edge>
+<edge source="HAMLET" target="FIRST AMBASSADOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="HAMLET" target="PLAYER QUEEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="HAMLET" target="GUILDENSTERN">
+  <data key="d4">5</data>
+</edge>
+<edge source="HAMLET" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="HAMLET" target="FIRST PRIEST">
   <data key="d4">1</data>
 </edge>
 <edge source="HAMLET" target="BERNARDO">
   <data key="d4">1</data>
 </edge>
-<edge source="First Clown" target="First Priest">
+<edge source="HAMLET" target="FIRST CLOWN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Clown" target="Second Clown">
+<edge source="HAMLET" target="LAERTES">
+  <data key="d4">3</data>
+</edge>
+<edge source="HAMLET" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="BERNARDO" target="CORNELIUS">
+<edge source="HAMLET" target="GUILDENSTERN:">
   <data key="d4">1</data>
 </edge>
-<edge source="BERNARDO" target="MARCELLUS">
+<edge source="HAMLET" target="FIRST PLAYER">
   <data key="d4">2</data>
 </edge>
-<edge source="Captain" target="PRINCE FORTINBRAS">
+<edge source="HAMLET" target="CORNELIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="First Ambassador" target="Lord">
+<edge source="HAMLET" target="QUEEN GERTRUDE">
+  <data key="d4">7</data>
+</edge>
+<edge source="HAMLET" target="LORD">
   <data key="d4">1</data>
 </edge>
-<edge source="First Ambassador" target="OSRIC">
+<edge source="HAMLET" target="GHOST">
+  <data key="d4">2</data>
+</edge>
+<edge source="HAMLET" target="PLAYER KING">
   <data key="d4">1</data>
 </edge>
-<edge source="First Ambassador" target="PRINCE FORTINBRAS">
+<edge source="HAMLET" target="ROSENCRANTZ">
+  <data key="d4">7</data>
+</edge>
+<edge source="HAMLET" target="PRINCE FORTINBRAS">
+  <data key="d4">2</data>
+</edge>
+<edge source="HAMLET" target="MARCELLUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="HAMLET" target="OPHELIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="HAMLET" target="LUCIANUS">
   <data key="d4">1</data>
 </edge>
-<edge source="Player King" target="LUCIANUS">
+<edge source="HAMLET" target="LORD POLONIUS">
+  <data key="d4">6</data>
+</edge>
+<edge source="HAMLET" target="ALL">
+  <data key="d4">4</data>
+</edge>
+<edge source="HAMLET" target="VOLTIMAND">
+  <data key="d4">2</data>
+</edge>
+<edge source="HAMLET" target="SECOND CLOWN">
   <data key="d4">1</data>
 </edge>
-<edge source="Player King" target="Prologue">
+<edge source="LORD" target="OSRIC">
   <data key="d4">1</data>
 </edge>
-<edge source="Player King" target="First Player">
+<edge source="LORD" target="QUEEN GERTRUDE">
   <data key="d4">1</data>
 </edge>
-<edge source="Player King" target="Player Queen">
+<edge source="LORD" target="HORATIO">
   <data key="d4">1</data>
 </edge>
-<edge source="LUCIANUS" target="Prologue">
+<edge source="LORD" target="FIRST AMBASSADOR">
   <data key="d4">1</data>
 </edge>
-<edge source="LUCIANUS" target="First Player">
+<edge source="LORD" target="PRINCE FORTINBRAS">
   <data key="d4">1</data>
 </edge>
-<edge source="LUCIANUS" target="Player Queen">
+<edge source="LORD" target="ALL">
   <data key="d4">1</data>
 </edge>
-<edge source="First Player" target="Prologue">
+<edge source="LORD" target="LAERTES">
   <data key="d4">1</data>
 </edge>
-<edge source="First Player" target="Player Queen">
+<edge source="OPHELIA" target="HORATIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="OPHELIA" target="PLAYER QUEEN">
   <data key="d4">1</data>
 </edge>
-<edge source="Servant" target="First Sailor">
+<edge source="OPHELIA" target="GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Prologue" target="Player Queen">
+<edge source="OPHELIA" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="OPHELIA" target="GUILDENSTERN">
+  <data key="d4">2</data>
+</edge>
+<edge source="OPHELIA" target="DANES">
+  <data key="d4">1</data>
+</edge>
+<edge source="OPHELIA" target="LAERTES">
+  <data key="d4">2</data>
+</edge>
+<edge source="OPHELIA" target="FIRST PLAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="OPHELIA" target="QUEEN GERTRUDE">
+  <data key="d4">3</data>
+</edge>
+<edge source="OPHELIA" target="PLAYER KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="OPHELIA" target="ROSENCRANTZ">
+  <data key="d4">2</data>
+</edge>
+<edge source="OPHELIA" target="LUCIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="OPHELIA" target="LORD POLONIUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="OPHELIA" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="OPHELIA" target="REYNALDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="DANES" target="QUEEN GERTRUDE">
+  <data key="d4">1</data>
+</edge>
+<edge source="DANES" target="GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="DANES" target="HORATIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="DANES" target="LAERTES">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="OSRIC">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="HORATIO">
+  <data key="d4">5</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="FIRST AMBASSADOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="PLAYER QUEEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="GUILDENSTERN">
+  <data key="d4">3</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="FIRST PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="BERNARDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="FIRST CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="LAERTES">
+  <data key="d4">5</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="FIRST PLAYER">
+  <data key="d4">2</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="GHOST">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="PLAYER KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="ROSENCRANTZ">
+  <data key="d4">3</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="PRINCE FORTINBRAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="MARCELLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="LUCIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="LORD POLONIUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="ALL">
+  <data key="d4">4</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="VOLTIMAND">
+  <data key="d4">2</data>
+</edge>
+<edge source="QUEEN GERTRUDE" target="SECOND CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRANCISCO" target="BERNARDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRANCISCO" target="MARCELLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRANCISCO" target="HORATIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="OSRIC">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="HORATIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="LAERTES" target="FIRST AMBASSADOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="FIRST PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="BERNARDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="FIRST CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="PRINCE FORTINBRAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="MARCELLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="LORD POLONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="LAERTES" target="ALL">
+  <data key="d4">3</data>
+</edge>
+<edge source="LAERTES" target="VOLTIMAND">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAERTES" target="SECOND CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLTIMAND" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLTIMAND" target="HORATIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLTIMAND" target="ROSENCRANTZ">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLTIMAND" target="MARCELLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLTIMAND" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLTIMAND" target="GUILDENSTERN">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLTIMAND" target="LORD POLONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="VOLTIMAND" target="BERNARDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLTIMAND" target="FIRST PLAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="OSRIC">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="HORATIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="ALL" target="FIRST AMBASSADOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="PLAYER QUEEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="GUILDENSTERN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="FIRST PRIEST">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="BERNARDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="FIRST CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="FIRST PLAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="PLAYER KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="ROSENCRANTZ">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="PRINCE FORTINBRAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="MARCELLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="LUCIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="LORD POLONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="SECOND CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST PRIEST" target="HORATIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST PRIEST" target="FIRST CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST PRIEST" target="SECOND CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUILDENSTERN" target="ROSENCRANTZ:">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUILDENSTERN" target="HORATIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUILDENSTERN" target="PLAYER QUEEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUILDENSTERN" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUILDENSTERN" target="GUILDENSTERN:">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUILDENSTERN" target="FIRST PLAYER">
+  <data key="d4">2</data>
+</edge>
+<edge source="GUILDENSTERN" target="PLAYER KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUILDENSTERN" target="ROSENCRANTZ">
+  <data key="d4">5</data>
+</edge>
+<edge source="GUILDENSTERN" target="LUCIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUILDENSTERN" target="LORD POLONIUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="LORD POLONIUS" target="HORATIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="LORD POLONIUS" target="PLAYER QUEEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD POLONIUS" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD POLONIUS" target="BERNARDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD POLONIUS" target="FIRST PLAYER">
+  <data key="d4">2</data>
+</edge>
+<edge source="LORD POLONIUS" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD POLONIUS" target="GHOST">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD POLONIUS" target="PLAYER KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD POLONIUS" target="ROSENCRANTZ">
+  <data key="d4">4</data>
+</edge>
+<edge source="LORD POLONIUS" target="MARCELLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD POLONIUS" target="LUCIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD POLONIUS" target="REYNALDO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSENCRANTZ" target="ROSENCRANTZ:">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSENCRANTZ" target="HORATIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSENCRANTZ" target="PLAYER QUEEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSENCRANTZ" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSENCRANTZ" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSENCRANTZ" target="GUILDENSTERN:">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSENCRANTZ" target="FIRST PLAYER">
+  <data key="d4">2</data>
+</edge>
+<edge source="ROSENCRANTZ" target="PLAYER KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSENCRANTZ" target="PRINCE FORTINBRAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSENCRANTZ" target="LUCIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST AMBASSADOR" target="OSRIC">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST AMBASSADOR" target="HORATIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST AMBASSADOR" target="PRINCE FORTINBRAS">
   <data key="d4">1</data>
 </edge>
 <edge source="MARCELLUS" target="CORNELIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="MARCELLUS" target="Ghost">
+<edge source="MARCELLUS" target="GHOST">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSENCRANTZ:" target="GUILDENSTERN:">
+<edge source="MARCELLUS" target="BERNARDO">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARCELLUS" target="HORATIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="HORATIO" target="OSRIC">
   <data key="d4">1</data>
 </edge>
-<edge source="OSRIC" target="Lord">
+<edge source="HORATIO" target="BERNARDO">
+  <data key="d4">2</data>
+</edge>
+<edge source="HORATIO" target="SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="OSRIC" target="PRINCE FORTINBRAS">
+<edge source="HORATIO" target="FIRST PLAYER">
   <data key="d4">1</data>
 </edge>
-<edge source="First Priest" target="Second Clown">
+<edge source="HORATIO" target="CORNELIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="Lord" target="PRINCE FORTINBRAS">
+<edge source="HORATIO" target="GHOST">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORATIO" target="LUCIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORATIO" target="SECOND CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORATIO" target="PLAYER QUEEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORATIO" target="GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORATIO" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORATIO" target="FIRST CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORATIO" target="FIRST SAILOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORATIO" target="PLAYER KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="HORATIO" target="PRINCE FORTINBRAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BERNARDO" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST PLAYER" target="PLAYER KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST PLAYER" target="PLAYER QUEEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST PLAYER" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST PLAYER" target="LUCIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PRINCE FORTINBRAS" target="OSRIC">
+  <data key="d4">1</data>
+</edge>
+<edge source="PRINCE FORTINBRAS" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUILDENSTERN:" target="ROSENCRANTZ:">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CLOWN" target="SECOND CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROLOGUE" target="PLAYER KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROLOGUE" target="PLAYER QUEEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROLOGUE" target="LUCIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PLAYER QUEEN" target="PLAYER KING">
+  <data key="d4">1</data>
+</edge>
+<edge source="PLAYER QUEEN" target="LUCIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SAILOR" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="PLAYER KING" target="LUCIANUS">
   <data key="d4">1</data>
 </edge>
 </graph></graphml>

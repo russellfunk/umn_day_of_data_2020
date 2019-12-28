@@ -8,66 +8,135 @@
 <data key="d1">The Tempest</data>
 <data key="d2">tempest</data>
 <data key="d3">comedy</data>
+<node id="MASTER"/>
+<node id="GONZALO"/>
+<node id="BOATSWAIN"/>
 <node id="ARIEL"/>
+<node id="FERDINAND"/>
+<node id="SEBASTIAN"/>
+<node id="JUNO"/>
+<node id="PROSPERO"/>
+<node id="CALIBAN"/>
 <node id="ALONSO"/>
 <node id="STEPHANO"/>
-<node id="TRINCULO"/>
-<node id="FERDINAND"/>
-<node id="FRANCISCO"/>
 <node id="MIRANDA"/>
-<node id="PROSPERO"/>
-<node id="ANTONIO"/>
-<node id="Mariners"/>
-<node id="SEBASTIAN"/>
-<node id="IRIS"/>
-<node id="CERES"/>
-<node id="CALIBAN"/>
 <node id="ADRIAN"/>
-<node id="Master"/>
-<node id="JUNO"/>
-<node id="Boatswain"/>
-<node id="GONZALO"/>
-<edge source="ARIEL" target="STEPHANO">
+<node id="FRANCISCO"/>
+<node id="TRINCULO"/>
+<node id="IRIS"/>
+<node id="MARINERS"/>
+<node id="ANTONIO"/>
+<node id="CERES"/>
+<edge source="MASTER" target="BOATSWAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MASTER" target="GONZALO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MASTER" target="ALONSO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MASTER" target="SEBASTIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MASTER" target="ANTONIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MASTER" target="MARINERS">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONZALO" target="BOATSWAIN">
+  <data key="d4">2</data>
+</edge>
+<edge source="GONZALO" target="ANTONIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="GONZALO" target="ARIEL">
   <data key="d4">3</data>
 </edge>
-<edge source="ARIEL" target="GONZALO">
-  <data key="d4">3</data>
+<edge source="GONZALO" target="CALIBAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONZALO" target="MIRANDA">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONZALO" target="TRINCULO">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONZALO" target="ALONSO">
+  <data key="d4">4</data>
+</edge>
+<edge source="GONZALO" target="ADRIAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="GONZALO" target="SEBASTIAN">
+  <data key="d4">4</data>
+</edge>
+<edge source="GONZALO" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONZALO" target="FERDINAND">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONZALO" target="MARINERS">
+  <data key="d4">1</data>
+</edge>
+<edge source="GONZALO" target="PROSPERO">
+  <data key="d4">2</data>
+</edge>
+<edge source="GONZALO" target="FRANCISCO">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOATSWAIN" target="TRINCULO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOATSWAIN" target="ALONSO">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOATSWAIN" target="SEBASTIAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOATSWAIN" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOATSWAIN" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOATSWAIN" target="FERDINAND">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOATSWAIN" target="MARINERS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOATSWAIN" target="ARIEL">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOATSWAIN" target="PROSPERO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOATSWAIN" target="CALIBAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOATSWAIN" target="MIRANDA">
+  <data key="d4">1</data>
 </edge>
 <edge source="ARIEL" target="IRIS">
   <data key="d4">1</data>
 </edge>
-<edge source="ARIEL" target="TRINCULO">
-  <data key="d4">3</data>
-</edge>
 <edge source="ARIEL" target="ANTONIO">
-  <data key="d4">3</data>
-</edge>
-<edge source="ARIEL" target="FERDINAND">
   <data key="d4">3</data>
 </edge>
 <edge source="ARIEL" target="CERES">
   <data key="d4">1</data>
 </edge>
-<edge source="ARIEL" target="FRANCISCO">
-  <data key="d4">2</data>
-</edge>
-<edge source="ARIEL" target="PROSPERO">
-  <data key="d4">4</data>
-</edge>
 <edge source="ARIEL" target="MIRANDA">
   <data key="d4">3</data>
 </edge>
-<edge source="ARIEL" target="JUNO">
-  <data key="d4">1</data>
-</edge>
-<edge source="ARIEL" target="CALIBAN">
-  <data key="d4">4</data>
-</edge>
-<edge source="ARIEL" target="SEBASTIAN">
+<edge source="ARIEL" target="TRINCULO">
   <data key="d4">3</data>
 </edge>
-<edge source="ARIEL" target="Boatswain">
-  <data key="d4">1</data>
+<edge source="ARIEL" target="FRANCISCO">
+  <data key="d4">2</data>
 </edge>
 <edge source="ARIEL" target="ALONSO">
   <data key="d4">3</data>
@@ -75,191 +144,107 @@
 <edge source="ARIEL" target="ADRIAN">
   <data key="d4">2</data>
 </edge>
-<edge source="ALONSO" target="GONZALO">
+<edge source="ARIEL" target="SEBASTIAN">
+  <data key="d4">3</data>
+</edge>
+<edge source="ARIEL" target="STEPHANO">
+  <data key="d4">3</data>
+</edge>
+<edge source="ARIEL" target="JUNO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ARIEL" target="FERDINAND">
+  <data key="d4">3</data>
+</edge>
+<edge source="ARIEL" target="PROSPERO">
   <data key="d4">4</data>
 </edge>
-<edge source="ALONSO" target="STEPHANO">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALONSO" target="TRINCULO">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALONSO" target="ANTONIO">
+<edge source="ARIEL" target="CALIBAN">
   <data key="d4">4</data>
 </edge>
-<edge source="ALONSO" target="FERDINAND">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALONSO" target="Master">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALONSO" target="FRANCISCO">
+<edge source="FERDINAND" target="TRINCULO">
   <data key="d4">2</data>
 </edge>
-<edge source="ALONSO" target="PROSPERO">
-  <data key="d4">2</data>
-</edge>
-<edge source="ALONSO" target="Mariners">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALONSO" target="Boatswain">
-  <data key="d4">2</data>
-</edge>
-<edge source="ALONSO" target="MIRANDA">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALONSO" target="SEBASTIAN">
-  <data key="d4">4</data>
-</edge>
-<edge source="ALONSO" target="CALIBAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALONSO" target="ADRIAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="STEPHANO" target="CERES">
-  <data key="d4">1</data>
-</edge>
-<edge source="STEPHANO" target="GONZALO">
-  <data key="d4">1</data>
-</edge>
-<edge source="STEPHANO" target="IRIS">
-  <data key="d4">1</data>
-</edge>
-<edge source="STEPHANO" target="TRINCULO">
-  <data key="d4">4</data>
-</edge>
-<edge source="STEPHANO" target="ANTONIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="STEPHANO" target="PROSPERO">
-  <data key="d4">2</data>
-</edge>
-<edge source="STEPHANO" target="FERDINAND">
-  <data key="d4">2</data>
-</edge>
-<edge source="STEPHANO" target="MIRANDA">
-  <data key="d4">2</data>
-</edge>
-<edge source="STEPHANO" target="JUNO">
-  <data key="d4">1</data>
-</edge>
-<edge source="STEPHANO" target="CALIBAN">
-  <data key="d4">4</data>
-</edge>
-<edge source="STEPHANO" target="SEBASTIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="STEPHANO" target="Boatswain">
-  <data key="d4">1</data>
-</edge>
-<edge source="TRINCULO" target="CERES">
-  <data key="d4">1</data>
-</edge>
-<edge source="TRINCULO" target="GONZALO">
-  <data key="d4">1</data>
-</edge>
-<edge source="TRINCULO" target="IRIS">
-  <data key="d4">1</data>
-</edge>
-<edge source="TRINCULO" target="ANTONIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="TRINCULO" target="PROSPERO">
-  <data key="d4">2</data>
-</edge>
-<edge source="TRINCULO" target="FERDINAND">
-  <data key="d4">2</data>
-</edge>
-<edge source="TRINCULO" target="MIRANDA">
-  <data key="d4">2</data>
-</edge>
-<edge source="TRINCULO" target="JUNO">
-  <data key="d4">1</data>
-</edge>
-<edge source="TRINCULO" target="CALIBAN">
-  <data key="d4">4</data>
-</edge>
-<edge source="TRINCULO" target="SEBASTIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="TRINCULO" target="Boatswain">
-  <data key="d4">1</data>
-</edge>
-<edge source="FERDINAND" target="CERES">
-  <data key="d4">1</data>
-</edge>
-<edge source="FERDINAND" target="GONZALO">
+<edge source="FERDINAND" target="ALONSO">
   <data key="d4">1</data>
 </edge>
 <edge source="FERDINAND" target="IRIS">
   <data key="d4">1</data>
 </edge>
+<edge source="FERDINAND" target="SEBASTIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FERDINAND" target="STEPHANO">
+  <data key="d4">2</data>
+</edge>
 <edge source="FERDINAND" target="ANTONIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FERDINAND" target="JUNO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FERDINAND" target="CERES">
   <data key="d4">1</data>
 </edge>
 <edge source="FERDINAND" target="PROSPERO">
   <data key="d4">4</data>
 </edge>
-<edge source="FERDINAND" target="MIRANDA">
-  <data key="d4">4</data>
-</edge>
-<edge source="FERDINAND" target="JUNO">
-  <data key="d4">1</data>
-</edge>
 <edge source="FERDINAND" target="CALIBAN">
   <data key="d4">3</data>
 </edge>
-<edge source="FERDINAND" target="SEBASTIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="FERDINAND" target="Boatswain">
-  <data key="d4">1</data>
-</edge>
-<edge source="FRANCISCO" target="GONZALO">
-  <data key="d4">2</data>
-</edge>
-<edge source="FRANCISCO" target="ANTONIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="FRANCISCO" target="PROSPERO">
-  <data key="d4">1</data>
-</edge>
-<edge source="FRANCISCO" target="SEBASTIAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="FRANCISCO" target="ADRIAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="MIRANDA" target="CERES">
-  <data key="d4">1</data>
-</edge>
-<edge source="MIRANDA" target="GONZALO">
-  <data key="d4">1</data>
-</edge>
-<edge source="MIRANDA" target="IRIS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MIRANDA" target="ANTONIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="MIRANDA" target="PROSPERO">
+<edge source="FERDINAND" target="MIRANDA">
   <data key="d4">4</data>
 </edge>
-<edge source="MIRANDA" target="JUNO">
+<edge source="SEBASTIAN" target="ANTONIO">
+  <data key="d4">4</data>
+</edge>
+<edge source="SEBASTIAN" target="CALIBAN">
   <data key="d4">1</data>
 </edge>
-<edge source="MIRANDA" target="CALIBAN">
-  <data key="d4">3</data>
-</edge>
-<edge source="MIRANDA" target="SEBASTIAN">
+<edge source="SEBASTIAN" target="MIRANDA">
   <data key="d4">1</data>
 </edge>
-<edge source="MIRANDA" target="Boatswain">
+<edge source="SEBASTIAN" target="TRINCULO">
   <data key="d4">1</data>
 </edge>
-<edge source="PROSPERO" target="GONZALO">
+<edge source="SEBASTIAN" target="ALONSO">
+  <data key="d4">4</data>
+</edge>
+<edge source="SEBASTIAN" target="ADRIAN">
   <data key="d4">2</data>
+</edge>
+<edge source="SEBASTIAN" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SEBASTIAN" target="MARINERS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SEBASTIAN" target="PROSPERO">
+  <data key="d4">2</data>
+</edge>
+<edge source="SEBASTIAN" target="FRANCISCO">
+  <data key="d4">2</data>
+</edge>
+<edge source="JUNO" target="TRINCULO">
+  <data key="d4">1</data>
+</edge>
+<edge source="JUNO" target="IRIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="JUNO" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="JUNO" target="CERES">
+  <data key="d4">1</data>
+</edge>
+<edge source="JUNO" target="PROSPERO">
+  <data key="d4">1</data>
+</edge>
+<edge source="JUNO" target="CALIBAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="JUNO" target="MIRANDA">
+  <data key="d4">1</data>
 </edge>
 <edge source="PROSPERO" target="IRIS">
   <data key="d4">1</data>
@@ -270,103 +255,118 @@
 <edge source="PROSPERO" target="CERES">
   <data key="d4">1</data>
 </edge>
-<edge source="PROSPERO" target="JUNO">
-  <data key="d4">1</data>
-</edge>
 <edge source="PROSPERO" target="CALIBAN">
   <data key="d4">3</data>
 </edge>
-<edge source="PROSPERO" target="SEBASTIAN">
+<edge source="PROSPERO" target="MIRANDA">
+  <data key="d4">4</data>
+</edge>
+<edge source="PROSPERO" target="TRINCULO">
   <data key="d4">2</data>
 </edge>
-<edge source="PROSPERO" target="Boatswain">
-  <data key="d4">1</data>
+<edge source="PROSPERO" target="ALONSO">
+  <data key="d4">2</data>
 </edge>
 <edge source="PROSPERO" target="ADRIAN">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTONIO" target="GONZALO">
+<edge source="PROSPERO" target="STEPHANO">
+  <data key="d4">2</data>
+</edge>
+<edge source="PROSPERO" target="FRANCISCO">
+  <data key="d4">1</data>
+</edge>
+<edge source="CALIBAN" target="TRINCULO">
   <data key="d4">4</data>
 </edge>
-<edge source="ANTONIO" target="Master">
+<edge source="CALIBAN" target="ALONSO">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTONIO" target="Mariners">
+<edge source="CALIBAN" target="IRIS">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTONIO" target="Boatswain">
-  <data key="d4">2</data>
-</edge>
-<edge source="ANTONIO" target="SEBASTIAN">
+<edge source="CALIBAN" target="STEPHANO">
   <data key="d4">4</data>
 </edge>
-<edge source="ANTONIO" target="CALIBAN">
+<edge source="CALIBAN" target="ANTONIO">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTONIO" target="ADRIAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="Mariners" target="GONZALO">
+<edge source="CALIBAN" target="CERES">
   <data key="d4">1</data>
 </edge>
-<edge source="Mariners" target="Boatswain">
-  <data key="d4">1</data>
+<edge source="CALIBAN" target="MIRANDA">
+  <data key="d4">3</data>
 </edge>
-<edge source="Mariners" target="SEBASTIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="Mariners" target="Master">
-  <data key="d4">1</data>
-</edge>
-<edge source="SEBASTIAN" target="GONZALO">
+<edge source="ALONSO" target="ANTONIO">
   <data key="d4">4</data>
 </edge>
-<edge source="SEBASTIAN" target="Master">
+<edge source="ALONSO" target="MIRANDA">
   <data key="d4">1</data>
 </edge>
-<edge source="SEBASTIAN" target="Boatswain">
-  <data key="d4">2</data>
-</edge>
-<edge source="SEBASTIAN" target="CALIBAN">
+<edge source="ALONSO" target="TRINCULO">
   <data key="d4">1</data>
 </edge>
-<edge source="SEBASTIAN" target="ADRIAN">
+<edge source="ALONSO" target="ADRIAN">
   <data key="d4">2</data>
+</edge>
+<edge source="ALONSO" target="STEPHANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALONSO" target="MARINERS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALONSO" target="FRANCISCO">
+  <data key="d4">2</data>
+</edge>
+<edge source="STEPHANO" target="TRINCULO">
+  <data key="d4">4</data>
+</edge>
+<edge source="STEPHANO" target="IRIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="STEPHANO" target="ANTONIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="STEPHANO" target="CERES">
+  <data key="d4">1</data>
+</edge>
+<edge source="STEPHANO" target="MIRANDA">
+  <data key="d4">2</data>
+</edge>
+<edge source="MIRANDA" target="TRINCULO">
+  <data key="d4">2</data>
+</edge>
+<edge source="MIRANDA" target="IRIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MIRANDA" target="ANTONIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MIRANDA" target="CERES">
+  <data key="d4">1</data>
+</edge>
+<edge source="ADRIAN" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="ADRIAN" target="FRANCISCO">
+  <data key="d4">2</data>
+</edge>
+<edge source="FRANCISCO" target="ANTONIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="TRINCULO" target="IRIS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRINCULO" target="ANTONIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRINCULO" target="CERES">
+  <data key="d4">1</data>
 </edge>
 <edge source="IRIS" target="CERES">
   <data key="d4">1</data>
 </edge>
-<edge source="IRIS" target="JUNO">
+<edge source="MARINERS" target="ANTONIO">
   <data key="d4">1</data>
-</edge>
-<edge source="IRIS" target="CALIBAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="CERES" target="JUNO">
-  <data key="d4">1</data>
-</edge>
-<edge source="CERES" target="CALIBAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="CALIBAN" target="GONZALO">
-  <data key="d4">1</data>
-</edge>
-<edge source="CALIBAN" target="JUNO">
-  <data key="d4">1</data>
-</edge>
-<edge source="CALIBAN" target="Boatswain">
-  <data key="d4">1</data>
-</edge>
-<edge source="ADRIAN" target="GONZALO">
-  <data key="d4">2</data>
-</edge>
-<edge source="Master" target="GONZALO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Master" target="Boatswain">
-  <data key="d4">1</data>
-</edge>
-<edge source="Boatswain" target="GONZALO">
-  <data key="d4">2</data>
 </edge>
 </graph></graphml>

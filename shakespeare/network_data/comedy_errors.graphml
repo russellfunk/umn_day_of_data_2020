@@ -8,419 +8,415 @@
 <data key="d1">The Comedy of Errors</data>
 <data key="d2">comedy_errors</data>
 <data key="d3">comedy</data>
-<node id="DROMIO OF SYRACUSE"/>
-<node id="BALTHAZAR"/>
-<node id="AEGEON"/>
 <node id="DROMIO OF EPHESUS"/>
-<node id="LUCIANA"/>
+<node id="AEGEON"/>
+<node id="SECOND MERCHANT"/>
 <node id="ANTIPHOLUS"/>
-<node id="COURTEZAN"/>
-<node id="Second Merchant"/>
-<node id="OF SYRACUSE"/>
-<node id="ANGELO"/>
-<node id="Courtezan"/>
-<node id="DUKE SOLINUS"/>
-<node id="Servant"/>
-<node id="ADRIANA"/>
-<node id="OF EPHESUS"/>
-<node id="Gaoler"/>
-<node id="ANTIPHOLUS OF SYRACUSE"/>
-<node id="Officer"/>
-<node id="AEMELIA"/>
 <node id="PINCH"/>
-<node id="First Merchant"/>
+<node id="OF SYRACUSE"/>
+<node id="ANTIPHOLUS OF SYRACUSE"/>
+<node id="OF EPHESUS"/>
 <node id="LUCE"/>
-<edge source="DROMIO OF SYRACUSE" target="ANTIPHOLUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="ADRIANA">
-  <data key="d4">5</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="OF SYRACUSE">
-  <data key="d4">5</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="Second Merchant">
-  <data key="d4">2</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="DUKE SOLINUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="ANGELO">
-  <data key="d4">4</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="LUCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="DROMIO OF EPHESUS">
-  <data key="d4">5</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="COURTEZAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="First Merchant">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="Officer">
-  <data key="d4">2</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="PINCH">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="BALTHAZAR">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="AEGEON">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="OF EPHESUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="ANTIPHOLUS OF SYRACUSE">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="LUCIANA">
-  <data key="d4">5</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="AEMELIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF SYRACUSE" target="Courtezan">
-  <data key="d4">2</data>
-</edge>
-<edge source="BALTHAZAR" target="ANTIPHOLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="BALTHAZAR" target="ADRIANA">
-  <data key="d4">1</data>
-</edge>
-<edge source="BALTHAZAR" target="OF EPHESUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="BALTHAZAR" target="ANGELO">
-  <data key="d4">1</data>
-</edge>
-<edge source="BALTHAZAR" target="LUCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="BALTHAZAR" target="DROMIO OF EPHESUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="ANTIPHOLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="ADRIANA">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="Gaoler">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="Second Merchant">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="OF SYRACUSE">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="DUKE SOLINUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="AEGEON" target="OF EPHESUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="ANGELO">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="LUCIANA">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="AEMELIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="DROMIO OF EPHESUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEGEON" target="Courtezan">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF EPHESUS" target="ANTIPHOLUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="DROMIO OF EPHESUS" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF EPHESUS" target="ADRIANA">
-  <data key="d4">4</data>
-</edge>
-<edge source="DROMIO OF EPHESUS" target="OF SYRACUSE">
-  <data key="d4">3</data>
-</edge>
-<edge source="DROMIO OF EPHESUS" target="Second Merchant">
-  <data key="d4">2</data>
-</edge>
-<edge source="DROMIO OF EPHESUS" target="DUKE SOLINUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DROMIO OF EPHESUS" target="ANGELO">
-  <data key="d4">3</data>
-</edge>
+<node id="DROMIO OF SYRACUSE"/>
+<node id="COURTEZAN"/>
+<node id="ANGELO"/>
+<node id="DUKE SOLINUS"/>
+<node id="LUCIANA"/>
+<node id="OFFICER"/>
+<node id="SERVANT"/>
+<node id="ADRIANA"/>
+<node id="AEMELIA"/>
+<node id="FIRST MERCHANT"/>
+<node id="GAOLER"/>
+<node id="BALTHAZAR"/>
 <edge source="DROMIO OF EPHESUS" target="LUCE">
   <data key="d4">1</data>
 </edge>
-<edge source="DROMIO OF EPHESUS" target="First Merchant">
+<edge source="DROMIO OF EPHESUS" target="DROMIO OF SYRACUSE">
+  <data key="d4">5</data>
+</edge>
+<edge source="DROMIO OF EPHESUS" target="FIRST MERCHANT">
   <data key="d4">1</data>
 </edge>
-<edge source="DROMIO OF EPHESUS" target="Officer">
-  <data key="d4">2</data>
+<edge source="DROMIO OF EPHESUS" target="LUCIANA">
+  <data key="d4">3</data>
 </edge>
 <edge source="DROMIO OF EPHESUS" target="PINCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="DROMIO OF EPHESUS" target="DUKE SOLINUS">
   <data key="d4">1</data>
 </edge>
 <edge source="DROMIO OF EPHESUS" target="OF EPHESUS">
   <data key="d4">4</data>
 </edge>
-<edge source="DROMIO OF EPHESUS" target="LUCIANA">
+<edge source="DROMIO OF EPHESUS" target="OF SYRACUSE">
   <data key="d4">3</data>
+</edge>
+<edge source="DROMIO OF EPHESUS" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DROMIO OF EPHESUS" target="COURTEZAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="DROMIO OF EPHESUS" target="OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="DROMIO OF EPHESUS" target="SECOND MERCHANT">
+  <data key="d4">2</data>
+</edge>
+<edge source="DROMIO OF EPHESUS" target="AEGEON">
+  <data key="d4">1</data>
+</edge>
+<edge source="DROMIO OF EPHESUS" target="ANTIPHOLUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="DROMIO OF EPHESUS" target="ADRIANA">
+  <data key="d4">4</data>
 </edge>
 <edge source="DROMIO OF EPHESUS" target="AEMELIA">
   <data key="d4">1</data>
 </edge>
-<edge source="DROMIO OF EPHESUS" target="Courtezan">
-  <data key="d4">2</data>
-</edge>
-<edge source="LUCIANA" target="ANTIPHOLUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="LUCIANA" target="Servant">
+<edge source="DROMIO OF EPHESUS" target="BALTHAZAR">
   <data key="d4">1</data>
 </edge>
-<edge source="LUCIANA" target="ADRIANA">
-  <data key="d4">5</data>
+<edge source="DROMIO OF EPHESUS" target="ANGELO">
+  <data key="d4">3</data>
 </edge>
-<edge source="LUCIANA" target="OF SYRACUSE">
+<edge source="AEGEON" target="COURTEZAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="DROMIO OF SYRACUSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="SECOND MERCHANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="LUCIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="ANTIPHOLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="ADRIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="DUKE SOLINUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="AEGEON" target="AEMELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="OF EPHESUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="OF SYRACUSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEGEON" target="ANGELO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MERCHANT" target="COURTEZAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MERCHANT" target="DROMIO OF SYRACUSE">
+  <data key="d4">2</data>
+</edge>
+<edge source="SECOND MERCHANT" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MERCHANT" target="LUCIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MERCHANT" target="ANTIPHOLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MERCHANT" target="ADRIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MERCHANT" target="DUKE SOLINUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MERCHANT" target="AEMELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MERCHANT" target="OF EPHESUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="SECOND MERCHANT" target="OF SYRACUSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MERCHANT" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MERCHANT" target="ANGELO">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANTIPHOLUS" target="LUCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANTIPHOLUS" target="DROMIO OF SYRACUSE">
   <data key="d4">4</data>
 </edge>
-<edge source="LUCIANA" target="Second Merchant">
-  <data key="d4">1</data>
-</edge>
-<edge source="LUCIANA" target="DUKE SOLINUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="LUCIANA" target="ANGELO">
-  <data key="d4">2</data>
-</edge>
-<edge source="LUCIANA" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="LUCIANA" target="PINCH">
-  <data key="d4">1</data>
-</edge>
-<edge source="LUCIANA" target="OF EPHESUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="LUCIANA" target="AEMELIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="LUCIANA" target="Courtezan">
-  <data key="d4">2</data>
-</edge>
-<edge source="ANTIPHOLUS" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTIPHOLUS" target="ADRIANA">
+<edge source="ANTIPHOLUS" target="LUCIANA">
   <data key="d4">3</data>
 </edge>
-<edge source="ANTIPHOLUS" target="OF SYRACUSE">
-  <data key="d4">3</data>
-</edge>
-<edge source="ANTIPHOLUS" target="Second Merchant">
+<edge source="ANTIPHOLUS" target="PINCH">
   <data key="d4">1</data>
 </edge>
 <edge source="ANTIPHOLUS" target="DUKE SOLINUS">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIPHOLUS" target="ANGELO">
+<edge source="ANTIPHOLUS" target="OF EPHESUS">
   <data key="d4">3</data>
 </edge>
-<edge source="ANTIPHOLUS" target="LUCE">
+<edge source="ANTIPHOLUS" target="OF SYRACUSE">
+  <data key="d4">3</data>
+</edge>
+<edge source="ANTIPHOLUS" target="SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIPHOLUS" target="Officer">
+<edge source="ANTIPHOLUS" target="COURTEZAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANTIPHOLUS" target="OFFICER">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIPHOLUS" target="PINCH">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANTIPHOLUS" target="OF EPHESUS">
+<edge source="ANTIPHOLUS" target="ADRIANA">
   <data key="d4">3</data>
 </edge>
 <edge source="ANTIPHOLUS" target="AEMELIA">
   <data key="d4">1</data>
 </edge>
-<edge source="ANTIPHOLUS" target="Courtezan">
-  <data key="d4">2</data>
-</edge>
-<edge source="COURTEZAN" target="ANTIPHOLUS OF SYRACUSE">
+<edge source="ANTIPHOLUS" target="BALTHAZAR">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Merchant" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Merchant" target="ADRIANA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Merchant" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Merchant" target="OF SYRACUSE">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Merchant" target="DUKE SOLINUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Merchant" target="OF EPHESUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="Second Merchant" target="ANGELO">
-  <data key="d4">2</data>
-</edge>
-<edge source="Second Merchant" target="AEMELIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Merchant" target="Courtezan">
-  <data key="d4">1</data>
-</edge>
-<edge source="OF SYRACUSE" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="OF SYRACUSE" target="ADRIANA">
+<edge source="ANTIPHOLUS" target="ANGELO">
   <data key="d4">3</data>
 </edge>
+<edge source="PINCH" target="COURTEZAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINCH" target="DROMIO OF SYRACUSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINCH" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINCH" target="LUCIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINCH" target="ADRIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINCH" target="OF EPHESUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PINCH" target="OF SYRACUSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="OF SYRACUSE" target="DROMIO OF SYRACUSE">
+  <data key="d4">5</data>
+</edge>
+<edge source="OF SYRACUSE" target="FIRST MERCHANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="OF SYRACUSE" target="LUCIANA">
+  <data key="d4">4</data>
+</edge>
 <edge source="OF SYRACUSE" target="DUKE SOLINUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="OF SYRACUSE" target="ANGELO">
-  <data key="d4">2</data>
-</edge>
-<edge source="OF SYRACUSE" target="First Merchant">
-  <data key="d4">1</data>
-</edge>
-<edge source="OF SYRACUSE" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="OF SYRACUSE" target="PINCH">
   <data key="d4">1</data>
 </edge>
 <edge source="OF SYRACUSE" target="OF EPHESUS">
   <data key="d4">2</data>
 </edge>
+<edge source="OF SYRACUSE" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="OF SYRACUSE" target="COURTEZAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="OF SYRACUSE" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="OF SYRACUSE" target="ADRIANA">
+  <data key="d4">3</data>
+</edge>
 <edge source="OF SYRACUSE" target="AEMELIA">
   <data key="d4">1</data>
 </edge>
-<edge source="OF SYRACUSE" target="Courtezan">
+<edge source="OF SYRACUSE" target="ANGELO">
   <data key="d4">2</data>
 </edge>
-<edge source="ANGELO" target="Servant">
+<edge source="ANTIPHOLUS OF SYRACUSE" target="COURTEZAN">
   <data key="d4">1</data>
 </edge>
-<edge source="ANGELO" target="ADRIANA">
-  <data key="d4">2</data>
-</edge>
-<edge source="ANGELO" target="DUKE SOLINUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANGELO" target="LUCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANGELO" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANGELO" target="OF EPHESUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="ANGELO" target="AEMELIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="ANGELO" target="Courtezan">
-  <data key="d4">1</data>
-</edge>
-<edge source="Courtezan" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="Courtezan" target="ADRIANA">
-  <data key="d4">2</data>
-</edge>
-<edge source="Courtezan" target="DUKE SOLINUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Courtezan" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="Courtezan" target="PINCH">
-  <data key="d4">1</data>
-</edge>
-<edge source="Courtezan" target="OF EPHESUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="Courtezan" target="AEMELIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="DUKE SOLINUS" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="DUKE SOLINUS" target="ADRIANA">
-  <data key="d4">1</data>
-</edge>
-<edge source="DUKE SOLINUS" target="Gaoler">
-  <data key="d4">1</data>
-</edge>
-<edge source="DUKE SOLINUS" target="OF EPHESUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DUKE SOLINUS" target="AEMELIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Servant" target="ADRIANA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Servant" target="OF EPHESUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Servant" target="AEMELIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="ADRIANA" target="LUCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="ADRIANA" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="ADRIANA" target="PINCH">
-  <data key="d4">1</data>
-</edge>
-<edge source="ADRIANA" target="OF EPHESUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="ADRIANA" target="AEMELIA">
+<edge source="ANTIPHOLUS OF SYRACUSE" target="DROMIO OF SYRACUSE">
   <data key="d4">1</data>
 </edge>
 <edge source="OF EPHESUS" target="LUCE">
   <data key="d4">1</data>
 </edge>
-<edge source="OF EPHESUS" target="Officer">
+<edge source="OF EPHESUS" target="DROMIO OF SYRACUSE">
+  <data key="d4">4</data>
+</edge>
+<edge source="OF EPHESUS" target="LUCIANA">
   <data key="d4">2</data>
 </edge>
-<edge source="OF EPHESUS" target="PINCH">
+<edge source="OF EPHESUS" target="DUKE SOLINUS">
   <data key="d4">1</data>
+</edge>
+<edge source="OF EPHESUS" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="OF EPHESUS" target="COURTEZAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="OF EPHESUS" target="OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="OF EPHESUS" target="ADRIANA">
+  <data key="d4">3</data>
 </edge>
 <edge source="OF EPHESUS" target="AEMELIA">
   <data key="d4">1</data>
 </edge>
-<edge source="Officer" target="PINCH">
+<edge source="OF EPHESUS" target="BALTHAZAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="OF EPHESUS" target="ANGELO">
+  <data key="d4">3</data>
+</edge>
+<edge source="LUCE" target="DROMIO OF SYRACUSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCE" target="ADRIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCE" target="BALTHAZAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCE" target="ANGELO">
+  <data key="d4">1</data>
+</edge>
+<edge source="DROMIO OF SYRACUSE" target="FIRST MERCHANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DROMIO OF SYRACUSE" target="LUCIANA">
+  <data key="d4">5</data>
+</edge>
+<edge source="DROMIO OF SYRACUSE" target="DUKE SOLINUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DROMIO OF SYRACUSE" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DROMIO OF SYRACUSE" target="COURTEZAN">
+  <data key="d4">3</data>
+</edge>
+<edge source="DROMIO OF SYRACUSE" target="OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="DROMIO OF SYRACUSE" target="ADRIANA">
+  <data key="d4">5</data>
+</edge>
+<edge source="DROMIO OF SYRACUSE" target="AEMELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DROMIO OF SYRACUSE" target="BALTHAZAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="DROMIO OF SYRACUSE" target="ANGELO">
+  <data key="d4">4</data>
+</edge>
+<edge source="COURTEZAN" target="LUCIANA">
+  <data key="d4">2</data>
+</edge>
+<edge source="COURTEZAN" target="DUKE SOLINUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="COURTEZAN" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="COURTEZAN" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="COURTEZAN" target="ADRIANA">
+  <data key="d4">2</data>
+</edge>
+<edge source="COURTEZAN" target="AEMELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="COURTEZAN" target="ANGELO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGELO" target="LUCIANA">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANGELO" target="DUKE SOLINUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGELO" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGELO" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGELO" target="ADRIANA">
+  <data key="d4">2</data>
+</edge>
+<edge source="ANGELO" target="AEMELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGELO" target="BALTHAZAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE SOLINUS" target="LUCIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE SOLINUS" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE SOLINUS" target="ADRIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE SOLINUS" target="AEMELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DUKE SOLINUS" target="GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIANA" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIANA" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIANA" target="ADRIANA">
+  <data key="d4">5</data>
+</edge>
+<edge source="LUCIANA" target="AEMELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="OFFICER" target="ADRIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SERVANT" target="ADRIANA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SERVANT" target="AEMELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ADRIANA" target="AEMELIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ADRIANA" target="BALTHAZAR">
   <data key="d4">1</data>
 </edge>
 </graph></graphml>

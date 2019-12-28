@@ -8,466 +8,58 @@
 <data key="d1">A Midsummer Night's Dream</data>
 <data key="d2">midsummer</data>
 <data key="d3">comedy</data>
-<node id="MUSTARDSEED"/>
-<node id="OBERON"/>
-<node id="HIPPOLYTA"/>
-<node id="BOTTOM"/>
-<node id="LYSANDER"/>
-<node id="Fairy"/>
-<node id="THESEUS"/>
-<node id="EGEUS"/>
-<node id="HELENA"/>
-<node id="Wall"/>
 <node id="STARVELING"/>
-<node id="HERMIA"/>
-<node id="PUCK"/>
-<node id="Moonshine"/>
-<node id="TITANIA"/>
-<node id="Lion"/>
-<node id="DEMETRIUS"/>
-<node id="Prologue"/>
-<node id="SNUG"/>
-<node id="FLUTE"/>
-<node id="Thisbe"/>
-<node id="PEASEBLOSSOM"/>
 <node id="QUINCE"/>
-<node id="COBWEB"/>
-<node id="Pyramus"/>
+<node id="TITANIA"/>
+<node id="PUCK"/>
+<node id="MUSTARDSEED"/>
+<node id="THESEUS"/>
+<node id="THISBE"/>
+<node id="EGEUS"/>
+<node id="HERMIA"/>
+<node id="LYSANDER"/>
+<node id="FLUTE"/>
 <node id="SNOUT"/>
-<node id="MOTH"/>
+<node id="PEASEBLOSSOM"/>
+<node id="BOTTOM"/>
 <node id="PHILOSTRATE"/>
+<node id="PYRAMUS"/>
+<node id="SNUG"/>
+<node id="OBERON"/>
+<node id="DEMETRIUS"/>
+<node id="HELENA"/>
 <node id="ALL"/>
+<node id="COBWEB"/>
+<node id="HIPPOLYTA"/>
+<node id="MOTH"/>
+<node id="LION"/>
+<node id="PROLOGUE"/>
+<node id="WALL"/>
+<node id="FAIRY"/>
+<node id="MOONSHINE"/>
 <node id="HERNIA"/>
-<edge source="MUSTARDSEED" target="LYSANDER">
+<edge source="STARVELING" target="MUSTARDSEED">
   <data key="d4">1</data>
 </edge>
-<edge source="MUSTARDSEED" target="HELENA">
+<edge source="STARVELING" target="MOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="MUSTARDSEED" target="HIPPOLYTA">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="FLUTE">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="STARVELING">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="DEMETRIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="PUCK">
-  <data key="d4">2</data>
-</edge>
-<edge source="MUSTARDSEED" target="EGEUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="QUINCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="COBWEB">
-  <data key="d4">2</data>
-</edge>
-<edge source="MUSTARDSEED" target="THESEUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="SNOUT">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="TITANIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="MUSTARDSEED" target="BOTTOM">
-  <data key="d4">2</data>
-</edge>
-<edge source="MUSTARDSEED" target="ALL">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="PEASEBLOSSOM">
-  <data key="d4">2</data>
-</edge>
-<edge source="MUSTARDSEED" target="MOTH">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="HERMIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUSTARDSEED" target="OBERON">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="LYSANDER">
-  <data key="d4">4</data>
-</edge>
-<edge source="OBERON" target="Fairy">
-  <data key="d4">2</data>
-</edge>
-<edge source="OBERON" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="HELENA">
-  <data key="d4">4</data>
-</edge>
-<edge source="OBERON" target="HIPPOLYTA">
-  <data key="d4">2</data>
-</edge>
-<edge source="OBERON" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="DEMETRIUS">
-  <data key="d4">5</data>
-</edge>
-<edge source="OBERON" target="PUCK">
-  <data key="d4">5</data>
-</edge>
-<edge source="OBERON" target="Moonshine">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="EGEUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="Wall">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="COBWEB">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="HERNIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="THESEUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="OBERON" target="TITANIA">
-  <data key="d4">4</data>
-</edge>
-<edge source="OBERON" target="BOTTOM">
-  <data key="d4">2</data>
-</edge>
-<edge source="OBERON" target="PEASEBLOSSOM">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="Lion">
-  <data key="d4">1</data>
-</edge>
-<edge source="OBERON" target="HERMIA">
-  <data key="d4">3</data>
-</edge>
-<edge source="OBERON" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="HIPPOLYTA" target="LYSANDER">
-  <data key="d4">3</data>
-</edge>
-<edge source="HIPPOLYTA" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="HIPPOLYTA" target="HELENA">
-  <data key="d4">2</data>
-</edge>
-<edge source="HIPPOLYTA" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="HIPPOLYTA" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="HIPPOLYTA" target="DEMETRIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="HIPPOLYTA" target="PUCK">
-  <data key="d4">2</data>
-</edge>
-<edge source="HIPPOLYTA" target="Moonshine">
-  <data key="d4">1</data>
-</edge>
-<edge source="HIPPOLYTA" target="EGEUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="HIPPOLYTA" target="Wall">
-  <data key="d4">1</data>
-</edge>
-<edge source="HIPPOLYTA" target="COBWEB">
-  <data key="d4">1</data>
-</edge>
-<edge source="HIPPOLYTA" target="THESEUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="HIPPOLYTA" target="TITANIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="HIPPOLYTA" target="BOTTOM">
-  <data key="d4">2</data>
-</edge>
-<edge source="HIPPOLYTA" target="PEASEBLOSSOM">
-  <data key="d4">1</data>
-</edge>
-<edge source="HIPPOLYTA" target="Lion">
-  <data key="d4">1</data>
-</edge>
-<edge source="HIPPOLYTA" target="HERMIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="HIPPOLYTA" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="LYSANDER">
-  <data key="d4">2</data>
-</edge>
-<edge source="BOTTOM" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="HELENA">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="FLUTE">
-  <data key="d4">3</data>
-</edge>
-<edge source="BOTTOM" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="STARVELING">
-  <data key="d4">3</data>
-</edge>
-<edge source="BOTTOM" target="DEMETRIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="BOTTOM" target="PUCK">
-  <data key="d4">3</data>
-</edge>
-<edge source="BOTTOM" target="Moonshine">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="EGEUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="Wall">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="QUINCE">
-  <data key="d4">3</data>
-</edge>
-<edge source="BOTTOM" target="COBWEB">
-  <data key="d4">2</data>
-</edge>
-<edge source="BOTTOM" target="THESEUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="BOTTOM" target="SNOUT">
-  <data key="d4">2</data>
-</edge>
-<edge source="BOTTOM" target="TITANIA">
-  <data key="d4">3</data>
-</edge>
-<edge source="BOTTOM" target="ALL">
-  <data key="d4">2</data>
-</edge>
-<edge source="BOTTOM" target="PEASEBLOSSOM">
-  <data key="d4">2</data>
-</edge>
-<edge source="BOTTOM" target="Lion">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="MOTH">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="SNUG">
-  <data key="d4">2</data>
-</edge>
-<edge source="BOTTOM" target="HERMIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="BOTTOM" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="Fairy">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="HELENA">
-  <data key="d4">4</data>
-</edge>
-<edge source="LYSANDER" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="DEMETRIUS">
-  <data key="d4">5</data>
-</edge>
-<edge source="LYSANDER" target="PUCK">
-  <data key="d4">4</data>
-</edge>
-<edge source="LYSANDER" target="Moonshine">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="EGEUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="LYSANDER" target="Wall">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="COBWEB">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="HERNIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="THESEUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="LYSANDER" target="TITANIA">
-  <data key="d4">3</data>
-</edge>
-<edge source="LYSANDER" target="PEASEBLOSSOM">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="Lion">
-  <data key="d4">1</data>
-</edge>
-<edge source="LYSANDER" target="HERMIA">
-  <data key="d4">4</data>
-</edge>
-<edge source="LYSANDER" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="Fairy" target="HELENA">
-  <data key="d4">2</data>
-</edge>
-<edge source="Fairy" target="TITANIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="Fairy" target="DEMETRIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="Fairy" target="PUCK">
-  <data key="d4">2</data>
-</edge>
-<edge source="Fairy" target="HERMIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="THESEUS" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="THESEUS" target="HELENA">
-  <data key="d4">2</data>
-</edge>
-<edge source="THESEUS" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="THESEUS" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="THESEUS" target="DEMETRIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="THESEUS" target="PUCK">
-  <data key="d4">2</data>
-</edge>
-<edge source="THESEUS" target="Moonshine">
-  <data key="d4">1</data>
-</edge>
-<edge source="THESEUS" target="EGEUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="THESEUS" target="Wall">
-  <data key="d4">1</data>
-</edge>
-<edge source="THESEUS" target="COBWEB">
-  <data key="d4">1</data>
-</edge>
-<edge source="THESEUS" target="TITANIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="THESEUS" target="PEASEBLOSSOM">
-  <data key="d4">1</data>
-</edge>
-<edge source="THESEUS" target="Lion">
-  <data key="d4">1</data>
-</edge>
-<edge source="THESEUS" target="HERMIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="THESEUS" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="EGEUS" target="HELENA">
-  <data key="d4">2</data>
-</edge>
-<edge source="EGEUS" target="COBWEB">
-  <data key="d4">1</data>
-</edge>
-<edge source="EGEUS" target="TITANIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="EGEUS" target="PEASEBLOSSOM">
-  <data key="d4">1</data>
-</edge>
-<edge source="EGEUS" target="DEMETRIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="EGEUS" target="PUCK">
-  <data key="d4">1</data>
-</edge>
-<edge source="EGEUS" target="HERMIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="HELENA" target="DEMETRIUS">
-  <data key="d4">5</data>
-</edge>
-<edge source="HELENA" target="PUCK">
-  <data key="d4">4</data>
-</edge>
-<edge source="HELENA" target="COBWEB">
-  <data key="d4">1</data>
-</edge>
-<edge source="HELENA" target="HERNIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="HELENA" target="TITANIA">
-  <data key="d4">3</data>
-</edge>
-<edge source="HELENA" target="PEASEBLOSSOM">
-  <data key="d4">1</data>
-</edge>
-<edge source="HELENA" target="HERMIA">
-  <data key="d4">4</data>
-</edge>
-<edge source="Wall" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="Wall" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="Wall" target="TITANIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Wall" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="Wall" target="Lion">
-  <data key="d4">1</data>
-</edge>
-<edge source="Wall" target="DEMETRIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Wall" target="PUCK">
-  <data key="d4">1</data>
-</edge>
-<edge source="Wall" target="Moonshine">
-  <data key="d4">1</data>
-</edge>
-<edge source="Wall" target="Pyramus">
+<edge source="STARVELING" target="TITANIA">
   <data key="d4">1</data>
 </edge>
 <edge source="STARVELING" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="STARVELING" target="BOTTOM">
+  <data key="d4">3</data>
+</edge>
+<edge source="STARVELING" target="SNUG">
+  <data key="d4">2</data>
+</edge>
+<edge source="STARVELING" target="PEASEBLOSSOM">
+  <data key="d4">1</data>
+</edge>
+<edge source="STARVELING" target="PUCK">
   <data key="d4">1</data>
 </edge>
 <edge source="STARVELING" target="SNOUT">
@@ -476,211 +68,439 @@
 <edge source="STARVELING" target="FLUTE">
   <data key="d4">3</data>
 </edge>
-<edge source="STARVELING" target="TITANIA">
-  <data key="d4">1</data>
-</edge>
 <edge source="STARVELING" target="ALL">
-  <data key="d4">2</data>
-</edge>
-<edge source="STARVELING" target="PEASEBLOSSOM">
-  <data key="d4">1</data>
-</edge>
-<edge source="STARVELING" target="MOTH">
-  <data key="d4">1</data>
-</edge>
-<edge source="STARVELING" target="PUCK">
-  <data key="d4">1</data>
-</edge>
-<edge source="STARVELING" target="SNUG">
   <data key="d4">2</data>
 </edge>
 <edge source="STARVELING" target="QUINCE">
   <data key="d4">3</data>
 </edge>
-<edge source="HERMIA" target="DEMETRIUS">
-  <data key="d4">4</data>
+<edge source="QUINCE" target="MUSTARDSEED">
+  <data key="d4">1</data>
 </edge>
-<edge source="HERMIA" target="PUCK">
+<edge source="QUINCE" target="MOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUINCE" target="TITANIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUINCE" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUINCE" target="BOTTOM">
   <data key="d4">3</data>
 </edge>
-<edge source="HERMIA" target="COBWEB">
-  <data key="d4">1</data>
-</edge>
-<edge source="HERMIA" target="HERNIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="HERMIA" target="TITANIA">
+<edge source="QUINCE" target="SNUG">
   <data key="d4">2</data>
 </edge>
-<edge source="HERMIA" target="PEASEBLOSSOM">
+<edge source="QUINCE" target="PEASEBLOSSOM">
   <data key="d4">1</data>
 </edge>
-<edge source="PUCK" target="PHILOSTRATE">
+<edge source="QUINCE" target="PUCK">
   <data key="d4">1</data>
 </edge>
-<edge source="PUCK" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="PUCK" target="FLUTE">
-  <data key="d4">1</data>
-</edge>
-<edge source="PUCK" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="PUCK" target="DEMETRIUS">
-  <data key="d4">5</data>
-</edge>
-<edge source="PUCK" target="Moonshine">
-  <data key="d4">1</data>
-</edge>
-<edge source="PUCK" target="QUINCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="PUCK" target="COBWEB">
+<edge source="QUINCE" target="SNOUT">
   <data key="d4">2</data>
 </edge>
-<edge source="PUCK" target="HERNIA">
-  <data key="d4">1</data>
+<edge source="QUINCE" target="FLUTE">
+  <data key="d4">3</data>
 </edge>
-<edge source="PUCK" target="SNOUT">
-  <data key="d4">1</data>
-</edge>
-<edge source="PUCK" target="TITANIA">
-  <data key="d4">5</data>
-</edge>
-<edge source="PUCK" target="ALL">
-  <data key="d4">1</data>
-</edge>
-<edge source="PUCK" target="PEASEBLOSSOM">
+<edge source="QUINCE" target="ALL">
   <data key="d4">2</data>
 </edge>
-<edge source="PUCK" target="Lion">
-  <data key="d4">1</data>
-</edge>
-<edge source="PUCK" target="MOTH">
-  <data key="d4">1</data>
-</edge>
-<edge source="PUCK" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="Moonshine" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="Moonshine" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="Moonshine" target="TITANIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Moonshine" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="Moonshine" target="Lion">
-  <data key="d4">1</data>
-</edge>
-<edge source="Moonshine" target="DEMETRIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Moonshine" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITANIA" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITANIA" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITANIA" target="FLUTE">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITANIA" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITANIA" target="DEMETRIUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="TITANIA" target="QUINCE">
+<edge source="TITANIA" target="MOTH">
   <data key="d4">1</data>
 </edge>
 <edge source="TITANIA" target="COBWEB">
   <data key="d4">2</data>
 </edge>
+<edge source="TITANIA" target="HERMIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="TITANIA" target="FAIRY">
+  <data key="d4">2</data>
+</edge>
+<edge source="TITANIA" target="PUCK">
+  <data key="d4">5</data>
+</edge>
+<edge source="TITANIA" target="PEASEBLOSSOM">
+  <data key="d4">2</data>
+</edge>
+<edge source="TITANIA" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITANIA" target="HIPPOLYTA">
+  <data key="d4">2</data>
+</edge>
+<edge source="TITANIA" target="OBERON">
+  <data key="d4">4</data>
+</edge>
+<edge source="TITANIA" target="BOTTOM">
+  <data key="d4">3</data>
+</edge>
+<edge source="TITANIA" target="PHILOSTRATE">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITANIA" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITANIA" target="THISBE">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITANIA" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITANIA" target="MUSTARDSEED">
+  <data key="d4">2</data>
+</edge>
+<edge source="TITANIA" target="THESEUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="TITANIA" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITANIA" target="PYRAMUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITANIA" target="EGEUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITANIA" target="LYSANDER">
+  <data key="d4">3</data>
+</edge>
 <edge source="TITANIA" target="SNOUT">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITANIA" target="HELENA">
+  <data key="d4">3</data>
+</edge>
+<edge source="TITANIA" target="FLUTE">
   <data key="d4">1</data>
 </edge>
 <edge source="TITANIA" target="ALL">
   <data key="d4">1</data>
 </edge>
-<edge source="TITANIA" target="PEASEBLOSSOM">
+<edge source="TITANIA" target="DEMETRIUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="PUCK" target="MOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="COBWEB">
   <data key="d4">2</data>
 </edge>
-<edge source="TITANIA" target="Lion">
-  <data key="d4">1</data>
+<edge source="PUCK" target="HERMIA">
+  <data key="d4">3</data>
 </edge>
-<edge source="TITANIA" target="MOTH">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITANIA" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lion" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lion" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lion" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lion" target="DEMETRIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lion" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="Prologue">
-  <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="COBWEB">
-  <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="HERNIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="PEASEBLOSSOM">
-  <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="Prologue" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="Prologue" target="Thisbe">
-  <data key="d4">1</data>
-</edge>
-<edge source="Prologue" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="SNUG" target="SNOUT">
-  <data key="d4">1</data>
-</edge>
-<edge source="SNUG" target="FLUTE">
+<edge source="PUCK" target="FAIRY">
   <data key="d4">2</data>
 </edge>
-<edge source="SNUG" target="ALL">
+<edge source="PUCK" target="PEASEBLOSSOM">
+  <data key="d4">2</data>
+</edge>
+<edge source="PUCK" target="PROLOGUE">
   <data key="d4">1</data>
 </edge>
-<edge source="SNUG" target="QUINCE">
+<edge source="PUCK" target="HIPPOLYTA">
   <data key="d4">2</data>
+</edge>
+<edge source="PUCK" target="OBERON">
+  <data key="d4">5</data>
+</edge>
+<edge source="PUCK" target="BOTTOM">
+  <data key="d4">3</data>
+</edge>
+<edge source="PUCK" target="PHILOSTRATE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="THISBE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="MUSTARDSEED">
+  <data key="d4">2</data>
+</edge>
+<edge source="PUCK" target="THESEUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="PUCK" target="HERNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="PYRAMUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="EGEUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="LYSANDER">
+  <data key="d4">4</data>
+</edge>
+<edge source="PUCK" target="SNOUT">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="HELENA">
+  <data key="d4">4</data>
+</edge>
+<edge source="PUCK" target="FLUTE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="PUCK" target="DEMETRIUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="MUSTARDSEED" target="MOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="COBWEB">
+  <data key="d4">2</data>
+</edge>
+<edge source="MUSTARDSEED" target="HERMIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="PEASEBLOSSOM">
+  <data key="d4">2</data>
+</edge>
+<edge source="MUSTARDSEED" target="HIPPOLYTA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="OBERON">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="BOTTOM">
+  <data key="d4">2</data>
+</edge>
+<edge source="MUSTARDSEED" target="THESEUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="EGEUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="LYSANDER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="SNOUT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="HELENA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="FLUTE">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="MUSTARDSEED" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="THESEUS" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="THESEUS" target="HERMIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="THESEUS" target="PEASEBLOSSOM">
+  <data key="d4">1</data>
+</edge>
+<edge source="THESEUS" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="THESEUS" target="HIPPOLYTA">
+  <data key="d4">3</data>
+</edge>
+<edge source="THESEUS" target="OBERON">
+  <data key="d4">2</data>
+</edge>
+<edge source="THESEUS" target="BOTTOM">
+  <data key="d4">2</data>
+</edge>
+<edge source="THESEUS" target="PHILOSTRATE">
+  <data key="d4">1</data>
+</edge>
+<edge source="THESEUS" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="THESEUS" target="THISBE">
+  <data key="d4">1</data>
+</edge>
+<edge source="THESEUS" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="THESEUS" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="THESEUS" target="PYRAMUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="THESEUS" target="EGEUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="THESEUS" target="LYSANDER">
+  <data key="d4">3</data>
+</edge>
+<edge source="THESEUS" target="HELENA">
+  <data key="d4">2</data>
+</edge>
+<edge source="THESEUS" target="DEMETRIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="THISBE" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="THISBE" target="PYRAMUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="THISBE" target="BOTTOM">
+  <data key="d4">1</data>
+</edge>
+<edge source="THISBE" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="THISBE" target="LYSANDER">
+  <data key="d4">1</data>
+</edge>
+<edge source="THISBE" target="PHILOSTRATE">
+  <data key="d4">1</data>
+</edge>
+<edge source="THISBE" target="OBERON">
+  <data key="d4">1</data>
+</edge>
+<edge source="THISBE" target="HIPPOLYTA">
+  <data key="d4">1</data>
+</edge>
+<edge source="THISBE" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="THISBE" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="THISBE" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="EGEUS" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="EGEUS" target="HERMIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="EGEUS" target="PEASEBLOSSOM">
+  <data key="d4">1</data>
+</edge>
+<edge source="EGEUS" target="LYSANDER">
+  <data key="d4">2</data>
+</edge>
+<edge source="EGEUS" target="HELENA">
+  <data key="d4">2</data>
+</edge>
+<edge source="EGEUS" target="HIPPOLYTA">
+  <data key="d4">2</data>
+</edge>
+<edge source="EGEUS" target="OBERON">
+  <data key="d4">1</data>
+</edge>
+<edge source="EGEUS" target="BOTTOM">
+  <data key="d4">1</data>
+</edge>
+<edge source="EGEUS" target="DEMETRIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="HERMIA" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="HERMIA" target="FAIRY">
+  <data key="d4">1</data>
+</edge>
+<edge source="HERMIA" target="PEASEBLOSSOM">
+  <data key="d4">1</data>
+</edge>
+<edge source="HERMIA" target="HIPPOLYTA">
+  <data key="d4">2</data>
+</edge>
+<edge source="HERMIA" target="OBERON">
+  <data key="d4">3</data>
+</edge>
+<edge source="HERMIA" target="BOTTOM">
+  <data key="d4">1</data>
+</edge>
+<edge source="HERMIA" target="HERNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="HERMIA" target="LYSANDER">
+  <data key="d4">4</data>
+</edge>
+<edge source="HERMIA" target="HELENA">
+  <data key="d4">4</data>
+</edge>
+<edge source="HERMIA" target="DEMETRIUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="LYSANDER" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSANDER" target="FAIRY">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSANDER" target="PEASEBLOSSOM">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSANDER" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSANDER" target="HIPPOLYTA">
+  <data key="d4">3</data>
+</edge>
+<edge source="LYSANDER" target="OBERON">
+  <data key="d4">4</data>
+</edge>
+<edge source="LYSANDER" target="BOTTOM">
+  <data key="d4">2</data>
+</edge>
+<edge source="LYSANDER" target="PHILOSTRATE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSANDER" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSANDER" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSANDER" target="HERNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSANDER" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSANDER" target="PYRAMUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LYSANDER" target="HELENA">
+  <data key="d4">4</data>
+</edge>
+<edge source="LYSANDER" target="DEMETRIUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="FLUTE" target="MOTH">
+  <data key="d4">1</data>
 </edge>
 <edge source="FLUTE" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="FLUTE" target="BOTTOM">
+  <data key="d4">3</data>
+</edge>
+<edge source="FLUTE" target="SNUG">
+  <data key="d4">2</data>
+</edge>
+<edge source="FLUTE" target="PEASEBLOSSOM">
   <data key="d4">1</data>
 </edge>
 <edge source="FLUTE" target="SNOUT">
@@ -689,67 +509,247 @@
 <edge source="FLUTE" target="ALL">
   <data key="d4">2</data>
 </edge>
-<edge source="FLUTE" target="PEASEBLOSSOM">
+<edge source="SNOUT" target="MOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="FLUTE" target="MOTH">
+<edge source="SNOUT" target="COBWEB">
   <data key="d4">1</data>
 </edge>
-<edge source="FLUTE" target="QUINCE">
-  <data key="d4">3</data>
-</edge>
-<edge source="Thisbe" target="PHILOSTRATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="Thisbe" target="Pyramus">
-  <data key="d4">1</data>
-</edge>
-<edge source="PEASEBLOSSOM" target="QUINCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="PEASEBLOSSOM" target="COBWEB">
+<edge source="SNOUT" target="BOTTOM">
   <data key="d4">2</data>
 </edge>
-<edge source="PEASEBLOSSOM" target="SNOUT">
+<edge source="SNOUT" target="SNUG">
   <data key="d4">1</data>
 </edge>
-<edge source="PEASEBLOSSOM" target="ALL">
-  <data key="d4">1</data>
-</edge>
-<edge source="PEASEBLOSSOM" target="MOTH">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUINCE" target="COBWEB">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUINCE" target="SNOUT">
-  <data key="d4">2</data>
-</edge>
-<edge source="QUINCE" target="ALL">
-  <data key="d4">2</data>
-</edge>
-<edge source="QUINCE" target="MOTH">
-  <data key="d4">1</data>
-</edge>
-<edge source="COBWEB" target="SNOUT">
-  <data key="d4">1</data>
-</edge>
-<edge source="COBWEB" target="ALL">
-  <data key="d4">1</data>
-</edge>
-<edge source="COBWEB" target="MOTH">
-  <data key="d4">1</data>
-</edge>
-<edge source="Pyramus" target="PHILOSTRATE">
+<edge source="SNOUT" target="PEASEBLOSSOM">
   <data key="d4">1</data>
 </edge>
 <edge source="SNOUT" target="ALL">
   <data key="d4">2</data>
 </edge>
-<edge source="SNOUT" target="MOTH">
+<edge source="PEASEBLOSSOM" target="MOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="MOTH" target="ALL">
+<edge source="PEASEBLOSSOM" target="COBWEB">
+  <data key="d4">2</data>
+</edge>
+<edge source="PEASEBLOSSOM" target="HIPPOLYTA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PEASEBLOSSOM" target="OBERON">
+  <data key="d4">1</data>
+</edge>
+<edge source="PEASEBLOSSOM" target="BOTTOM">
+  <data key="d4">2</data>
+</edge>
+<edge source="PEASEBLOSSOM" target="HELENA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PEASEBLOSSOM" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="PEASEBLOSSOM" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTTOM" target="MOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTTOM" target="COBWEB">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOTTOM" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTTOM" target="HIPPOLYTA">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOTTOM" target="OBERON">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOTTOM" target="PHILOSTRATE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTTOM" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTTOM" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTTOM" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTTOM" target="PYRAMUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTTOM" target="SNUG">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOTTOM" target="HELENA">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTTOM" target="ALL">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOTTOM" target="DEMETRIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="PHILOSTRATE" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILOSTRATE" target="PYRAMUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILOSTRATE" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILOSTRATE" target="OBERON">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILOSTRATE" target="HIPPOLYTA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILOSTRATE" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILOSTRATE" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PHILOSTRATE" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="PYRAMUS" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="PYRAMUS" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PYRAMUS" target="OBERON">
+  <data key="d4">1</data>
+</edge>
+<edge source="PYRAMUS" target="HIPPOLYTA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PYRAMUS" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PYRAMUS" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PYRAMUS" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="SNUG" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="OBERON" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="OBERON" target="FAIRY">
+  <data key="d4">2</data>
+</edge>
+<edge source="OBERON" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="OBERON" target="HIPPOLYTA">
+  <data key="d4">2</data>
+</edge>
+<edge source="OBERON" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="OBERON" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="OBERON" target="HERNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="OBERON" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="OBERON" target="HELENA">
+  <data key="d4">4</data>
+</edge>
+<edge source="OBERON" target="DEMETRIUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="DEMETRIUS" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="DEMETRIUS" target="FAIRY">
+  <data key="d4">2</data>
+</edge>
+<edge source="DEMETRIUS" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="DEMETRIUS" target="HIPPOLYTA">
+  <data key="d4">3</data>
+</edge>
+<edge source="DEMETRIUS" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="DEMETRIUS" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="DEMETRIUS" target="HERNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DEMETRIUS" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="DEMETRIUS" target="HELENA">
+  <data key="d4">5</data>
+</edge>
+<edge source="HELENA" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="HELENA" target="FAIRY">
+  <data key="d4">2</data>
+</edge>
+<edge source="HELENA" target="HIPPOLYTA">
+  <data key="d4">2</data>
+</edge>
+<edge source="HELENA" target="HERNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="MOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="COBWEB">
+  <data key="d4">1</data>
+</edge>
+<edge source="COBWEB" target="MOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="COBWEB" target="HIPPOLYTA">
+  <data key="d4">1</data>
+</edge>
+<edge source="HIPPOLYTA" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="HIPPOLYTA" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="HIPPOLYTA" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="HIPPOLYTA" target="LION">
+  <data key="d4">1</data>
+</edge>
+<edge source="LION" target="PROLOGUE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LION" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LION" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROLOGUE" target="MOONSHINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROLOGUE" target="WALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="WALL" target="MOONSHINE">
   <data key="d4">1</data>
 </edge>
 </graph></graphml>

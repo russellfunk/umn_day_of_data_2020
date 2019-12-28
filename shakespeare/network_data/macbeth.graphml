@@ -8,330 +8,477 @@
 <data key="d1">Macbeth</data>
 <data key="d2">macbeth</data>
 <data key="d3">tragedy</data>
-<node id="MACBETH"/>
-<node id="LADY MACBETH"/>
-<node id="LENNOX"/>
-<node id="BANQUO"/>
-<node id="Servant"/>
-<node id="MALCOLM"/>
-<node id="Third Witch"/>
-<node id="Lord"/>
-<node id="Both Murderers"/>
-<node id="Porter"/>
-<node id="MENTEITH"/>
-<node id="YOUNG SIWARD"/>
-<node id="Doctor"/>
-<node id="DUNCAN"/>
-<node id="First Witch"/>
-<node id="ROSS"/>
-<node id="SIWARD"/>
 <node id="ALL"/>
-<node id="Third Apparition"/>
-<node id="MACDUFF"/>
-<node id="HECATE"/>
-<node id="ATTENDANT"/>
-<node id="Soldiers"/>
-<node id="DONALBAIN"/>
-<node id="Sergeant"/>
-<node id="Second Witch"/>
-<node id="Lords"/>
-<node id="Second Murderer"/>
-<node id="Gentlewoman"/>
-<node id="Messenger"/>
-<node id="First Murderer"/>
-<node id="SEYTON"/>
-<node id="LADY MACDUFF"/>
-<node id="Third Murderer"/>
-<node id="CAITHNESS"/>
-<node id="First Apparition"/>
+<node id="FIRST APPARITION"/>
 <node id="ANGUS"/>
-<node id="Son"/>
-<node id="Old Man"/>
-<node id="Second Apparition"/>
+<node id="HECATE"/>
+<node id="MACDUFF"/>
+<node id="DOCTOR"/>
+<node id="SECOND WITCH"/>
+<node id="FIRST MURDERER"/>
+<node id="MESSENGER"/>
+<node id="SIWARD"/>
+<node id="LENNOX"/>
+<node id="ROSS"/>
+<node id="MACBETH"/>
+<node id="MALCOLM"/>
+<node id="SON"/>
+<node id="LADY MACBETH"/>
+<node id="DUNCAN"/>
+<node id="LADY MACDUFF"/>
+<node id="THIRD MURDERER"/>
+<node id="DONALBAIN"/>
+<node id="LORD"/>
+<node id="GENTLEWOMAN"/>
+<node id="BANQUO"/>
+<node id="MENTEITH"/>
+<node id="SOLDIERS"/>
+<node id="THIRD WITCH"/>
+<node id="YOUNG SIWARD"/>
+<node id="FIRST WITCH"/>
+<node id="LORDS"/>
+<node id="THIRD APPARITION"/>
+<node id="SERGEANT"/>
+<node id="SERVANT"/>
+<node id="SECOND MURDERER"/>
+<node id="CAITHNESS"/>
+<node id="PORTER"/>
+<node id="ATTENDANT"/>
+<node id="SEYTON"/>
 <node id="FLEANCE"/>
-<edge source="MACBETH" target="First Murderer">
-  <data key="d4">2</data>
-</edge>
-<edge source="MACBETH" target="ROSS">
+<node id="SECOND APPARITION"/>
+<node id="OLD MAN"/>
+<node id="BOTH MURDERERS"/>
+<edge source="ALL" target="SECOND WITCH">
   <data key="d4">3</data>
 </edge>
-<edge source="MACBETH" target="Servant">
+<edge source="ALL" target="MACDUFF">
   <data key="d4">2</data>
 </edge>
-<edge source="MACBETH" target="SEYTON">
+<edge source="ALL" target="LENNOX">
   <data key="d4">2</data>
 </edge>
-<edge source="MACBETH" target="LENNOX">
-  <data key="d4">3</data>
-</edge>
-<edge source="MACBETH" target="Second Witch">
-  <data key="d4">2</data>
-</edge>
-<edge source="MACBETH" target="Second Apparition">
+<edge source="ALL" target="ANGUS">
   <data key="d4">1</data>
 </edge>
-<edge source="MACBETH" target="MALCOLM">
+<edge source="ALL" target="PORTER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="BANQUO">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="MACBETH">
   <data key="d4">4</data>
 </edge>
-<edge source="MACBETH" target="Second Murderer">
+<edge source="ALL" target="SECOND APPARITION">
   <data key="d4">1</data>
 </edge>
-<edge source="MACBETH" target="Messenger">
-  <data key="d4">2</data>
+<edge source="ALL" target="LADY MACBETH">
+  <data key="d4">1</data>
 </edge>
-<edge source="MACBETH" target="MACDUFF">
+<edge source="ALL" target="DONALBAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="THIRD APPARITION">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="HECATE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="FIRST WITCH">
   <data key="d4">3</data>
 </edge>
-<edge source="MACBETH" target="DONALBAIN">
-  <data key="d4">1</data>
-</edge>
-<edge source="MACBETH" target="First Witch">
+<edge source="ALL" target="MALCOLM">
   <data key="d4">2</data>
 </edge>
-<edge source="MACBETH" target="Both Murderers">
+<edge source="ALL" target="THIRD WITCH">
+  <data key="d4">3</data>
+</edge>
+<edge source="ALL" target="FIRST APPARITION">
   <data key="d4">1</data>
 </edge>
-<edge source="MACBETH" target="Doctor">
+<edge source="ALL" target="ROSS">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="SIWARD">
   <data key="d4">1</data>
 </edge>
-<edge source="MACBETH" target="BANQUO">
-  <data key="d4">5</data>
-</edge>
-<edge source="MACBETH" target="ANGUS">
+<edge source="FIRST APPARITION" target="SECOND WITCH">
   <data key="d4">1</data>
 </edge>
-<edge source="MACBETH" target="HECATE">
+<edge source="FIRST APPARITION" target="LENNOX">
   <data key="d4">1</data>
 </edge>
-<edge source="MACBETH" target="ATTENDANT">
+<edge source="FIRST APPARITION" target="THIRD APPARITION">
   <data key="d4">1</data>
 </edge>
-<edge source="MACBETH" target="YOUNG SIWARD">
+<edge source="FIRST APPARITION" target="HECATE">
   <data key="d4">1</data>
 </edge>
-<edge source="MACBETH" target="ALL">
+<edge source="FIRST APPARITION" target="FIRST WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST APPARITION" target="THIRD WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST APPARITION" target="MACBETH">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST APPARITION" target="SECOND APPARITION">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGUS" target="SECOND WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGUS" target="CAITHNESS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGUS" target="MACBETH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGUS" target="LENNOX">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGUS" target="MENTEITH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGUS" target="BANQUO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGUS" target="FIRST WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGUS" target="THIRD WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ANGUS" target="ROSS">
+  <data key="d4">1</data>
+</edge>
+<edge source="HECATE" target="SECOND WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="HECATE" target="LENNOX">
+  <data key="d4">1</data>
+</edge>
+<edge source="HECATE" target="THIRD APPARITION">
+  <data key="d4">1</data>
+</edge>
+<edge source="HECATE" target="FIRST WITCH">
+  <data key="d4">2</data>
+</edge>
+<edge source="HECATE" target="THIRD WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="HECATE" target="MACBETH">
+  <data key="d4">1</data>
+</edge>
+<edge source="HECATE" target="SECOND APPARITION">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACDUFF" target="SOLDIERS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACDUFF" target="YOUNG SIWARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACDUFF" target="LENNOX">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACDUFF" target="MENTEITH">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACDUFF" target="PORTER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACDUFF" target="BANQUO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACDUFF" target="DOCTOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACDUFF" target="MACBETH">
+  <data key="d4">3</data>
+</edge>
+<edge source="MACDUFF" target="LADY MACBETH">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACDUFF" target="SIWARD">
   <data key="d4">4</data>
 </edge>
-<edge source="MACBETH" target="First Apparition">
-  <data key="d4">1</data>
+<edge source="MACDUFF" target="MALCOLM">
+  <data key="d4">6</data>
 </edge>
-<edge source="MACBETH" target="SIWARD">
-  <data key="d4">2</data>
-</edge>
-<edge source="MACBETH" target="LADY MACBETH">
-  <data key="d4">7</data>
-</edge>
-<edge source="MACBETH" target="Porter">
-  <data key="d4">1</data>
-</edge>
-<edge source="MACBETH" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="MACBETH" target="Third Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="MACBETH" target="Third Witch">
-  <data key="d4">2</data>
-</edge>
-<edge source="MACBETH" target="FLEANCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="MACBETH" target="DUNCAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="First Murderer">
-  <data key="d4">2</data>
-</edge>
-<edge source="LADY MACBETH" target="ROSS">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="Gentlewoman">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="LENNOX">
-  <data key="d4">2</data>
-</edge>
-<edge source="LADY MACBETH" target="MALCOLM">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="Second Murderer">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="MACDUFF">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="DONALBAIN">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="Both Murderers">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="Doctor">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACBETH" target="BANQUO">
+<edge source="MACDUFF" target="ROSS">
   <data key="d4">3</data>
 </edge>
-<edge source="LADY MACBETH" target="ATTENDANT">
+<edge source="MACDUFF" target="OLD MAN">
   <data key="d4">1</data>
 </edge>
-<edge source="LADY MACBETH" target="ALL">
+<edge source="MACDUFF" target="DONALBAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="LADY MACBETH" target="Porter">
+<edge source="DOCTOR" target="MALCOLM">
   <data key="d4">1</data>
 </edge>
-<edge source="LADY MACBETH" target="Lords">
+<edge source="DOCTOR" target="ROSS">
   <data key="d4">1</data>
 </edge>
-<edge source="LADY MACBETH" target="DUNCAN">
+<edge source="DOCTOR" target="MACBETH">
   <data key="d4">1</data>
 </edge>
-<edge source="LENNOX" target="First Murderer">
+<edge source="DOCTOR" target="SEYTON">
   <data key="d4">1</data>
 </edge>
-<edge source="LENNOX" target="ROSS">
+<edge source="DOCTOR" target="SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOCTOR" target="LADY MACBETH">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOCTOR" target="GENTLEWOMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND WITCH" target="MACBETH">
   <data key="d4">2</data>
 </edge>
-<edge source="LENNOX" target="Second Witch">
+<edge source="SECOND WITCH" target="THIRD APPARITION">
   <data key="d4">1</data>
 </edge>
-<edge source="LENNOX" target="Second Apparition">
+<edge source="SECOND WITCH" target="LENNOX">
   <data key="d4">1</data>
 </edge>
-<edge source="LENNOX" target="Lord">
+<edge source="SECOND WITCH" target="BANQUO">
   <data key="d4">1</data>
 </edge>
-<edge source="LENNOX" target="MALCOLM">
+<edge source="SECOND WITCH" target="FIRST WITCH">
+  <data key="d4">3</data>
+</edge>
+<edge source="SECOND WITCH" target="THIRD WITCH">
+  <data key="d4">3</data>
+</edge>
+<edge source="SECOND WITCH" target="ROSS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND WITCH" target="SECOND APPARITION">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST MURDERER" target="SECOND MURDERER">
   <data key="d4">2</data>
 </edge>
-<edge source="LENNOX" target="Sergeant">
+<edge source="FIRST MURDERER" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST MURDERER" target="LENNOX">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST MURDERER" target="SON">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST MURDERER" target="LADY MACDUFF">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST MURDERER" target="BANQUO">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST MURDERER" target="BOTH MURDERERS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST MURDERER" target="ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST MURDERER" target="ROSS">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST MURDERER" target="THIRD MURDERER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST MURDERER" target="MACBETH">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST MURDERER" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST MURDERER" target="LADY MACBETH">
+  <data key="d4">2</data>
+</edge>
+<edge source="MESSENGER" target="SON">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="LADY MACDUFF">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="ROSS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="MACBETH">
+  <data key="d4">2</data>
+</edge>
+<edge source="MESSENGER" target="SEYTON">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="LADY MACBETH">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIWARD" target="SOLDIERS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIWARD" target="MACBETH">
+  <data key="d4">2</data>
+</edge>
+<edge source="SIWARD" target="YOUNG SIWARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIWARD" target="MENTEITH">
+  <data key="d4">1</data>
+</edge>
+<edge source="SIWARD" target="MALCOLM">
+  <data key="d4">4</data>
+</edge>
+<edge source="SIWARD" target="ROSS">
   <data key="d4">1</data>
 </edge>
 <edge source="LENNOX" target="CAITHNESS">
   <data key="d4">1</data>
 </edge>
-<edge source="LENNOX" target="MACDUFF">
-  <data key="d4">1</data>
-</edge>
-<edge source="LENNOX" target="DONALBAIN">
-  <data key="d4">1</data>
-</edge>
-<edge source="LENNOX" target="First Witch">
-  <data key="d4">1</data>
-</edge>
-<edge source="LENNOX" target="BANQUO">
-  <data key="d4">1</data>
-</edge>
-<edge source="LENNOX" target="ANGUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="LENNOX" target="HECATE">
-  <data key="d4">1</data>
-</edge>
 <edge source="LENNOX" target="MENTEITH">
   <data key="d4">1</data>
 </edge>
-<edge source="LENNOX" target="ALL">
-  <data key="d4">2</data>
-</edge>
-<edge source="LENNOX" target="First Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="LENNOX" target="Porter">
-  <data key="d4">1</data>
-</edge>
-<edge source="LENNOX" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="LENNOX" target="Third Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="LENNOX" target="Third Witch">
+<edge source="LENNOX" target="PORTER">
   <data key="d4">1</data>
 </edge>
 <edge source="LENNOX" target="DUNCAN">
   <data key="d4">1</data>
 </edge>
-<edge source="BANQUO" target="First Murderer">
-  <data key="d4">2</data>
-</edge>
-<edge source="BANQUO" target="ROSS">
+<edge source="LENNOX" target="BANQUO">
   <data key="d4">1</data>
 </edge>
-<edge source="BANQUO" target="Second Witch">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="MALCOLM">
-  <data key="d4">2</data>
-</edge>
-<edge source="BANQUO" target="Second Murderer">
-  <data key="d4">2</data>
-</edge>
-<edge source="BANQUO" target="MACDUFF">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="DONALBAIN">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="First Witch">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="Both Murderers">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="Third Murderer">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="ANGUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="ATTENDANT">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="ALL">
-  <data key="d4">2</data>
-</edge>
-<edge source="BANQUO" target="Porter">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="Third Witch">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="FLEANCE">
-  <data key="d4">1</data>
-</edge>
-<edge source="BANQUO" target="DUNCAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="Servant" target="Doctor">
-  <data key="d4">1</data>
-</edge>
-<edge source="Servant" target="SEYTON">
-  <data key="d4">1</data>
-</edge>
-<edge source="MALCOLM" target="ROSS">
+<edge source="LENNOX" target="MACBETH">
   <data key="d4">3</data>
 </edge>
-<edge source="MALCOLM" target="Sergeant">
+<edge source="LENNOX" target="LORDS">
   <data key="d4">1</data>
 </edge>
-<edge source="MALCOLM" target="Soldiers">
+<edge source="LENNOX" target="SECOND APPARITION">
   <data key="d4">1</data>
 </edge>
-<edge source="MALCOLM" target="MACDUFF">
-  <data key="d4">6</data>
+<edge source="LENNOX" target="LADY MACBETH">
+  <data key="d4">2</data>
 </edge>
-<edge source="MALCOLM" target="DONALBAIN">
+<edge source="LENNOX" target="LORD">
   <data key="d4">1</data>
 </edge>
-<edge source="MALCOLM" target="Doctor">
+<edge source="LENNOX" target="THIRD APPARITION">
+  <data key="d4">1</data>
+</edge>
+<edge source="LENNOX" target="FIRST WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="LENNOX" target="MALCOLM">
+  <data key="d4">2</data>
+</edge>
+<edge source="LENNOX" target="THIRD WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="LENNOX" target="ROSS">
+  <data key="d4">2</data>
+</edge>
+<edge source="LENNOX" target="SERGEANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="LENNOX" target="DONALBAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSS" target="LADY MACDUFF">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSS" target="BANQUO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSS" target="DUNCAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSS" target="MACBETH">
+  <data key="d4">3</data>
+</edge>
+<edge source="ROSS" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSS" target="LADY MACBETH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSS" target="SON">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSS" target="FIRST WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSS" target="MALCOLM">
+  <data key="d4">3</data>
+</edge>
+<edge source="ROSS" target="THIRD WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSS" target="SERGEANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="ROSS" target="OLD MAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="YOUNG SIWARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="PORTER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="BANQUO">
+  <data key="d4">5</data>
+</edge>
+<edge source="MACBETH" target="DUNCAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="SEYTON">
+  <data key="d4">2</data>
+</edge>
+<edge source="MACBETH" target="SECOND APPARITION">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="SERVANT">
+  <data key="d4">2</data>
+</edge>
+<edge source="MACBETH" target="LADY MACBETH">
+  <data key="d4">7</data>
+</edge>
+<edge source="MACBETH" target="SECOND MURDERER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="THIRD APPARITION">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="FLEANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="MALCOLM">
+  <data key="d4">4</data>
+</edge>
+<edge source="MACBETH" target="BOTH MURDERERS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="THIRD WITCH">
+  <data key="d4">2</data>
+</edge>
+<edge source="MACBETH" target="FIRST WITCH">
+  <data key="d4">2</data>
+</edge>
+<edge source="MACBETH" target="ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MACBETH" target="DONALBAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MALCOLM" target="SOLDIERS">
   <data key="d4">1</data>
 </edge>
 <edge source="MALCOLM" target="YOUNG SIWARD">
@@ -340,277 +487,130 @@
 <edge source="MALCOLM" target="MENTEITH">
   <data key="d4">1</data>
 </edge>
-<edge source="MALCOLM" target="ALL">
-  <data key="d4">2</data>
-</edge>
-<edge source="MALCOLM" target="SIWARD">
-  <data key="d4">4</data>
-</edge>
-<edge source="MALCOLM" target="Porter">
+<edge source="MALCOLM" target="PORTER">
   <data key="d4">1</data>
 </edge>
 <edge source="MALCOLM" target="DUNCAN">
   <data key="d4">2</data>
 </edge>
-<edge source="Third Witch" target="ROSS">
+<edge source="MALCOLM" target="BANQUO">
+  <data key="d4">2</data>
+</edge>
+<edge source="MALCOLM" target="LADY MACBETH">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Witch" target="Second Witch">
+<edge source="MALCOLM" target="SERGEANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MALCOLM" target="DONALBAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SON" target="LADY MACDUFF">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY MACBETH" target="PORTER">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY MACBETH" target="BANQUO">
   <data key="d4">3</data>
 </edge>
-<edge source="Third Witch" target="ANGUS">
+<edge source="LADY MACBETH" target="DUNCAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Witch" target="HECATE">
+<edge source="LADY MACBETH" target="LORDS">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Witch" target="Second Apparition">
+<edge source="LADY MACBETH" target="SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Witch" target="ALL">
-  <data key="d4">3</data>
-</edge>
-<edge source="Third Witch" target="First Apparition">
+<edge source="LADY MACBETH" target="SECOND MURDERER">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Witch" target="Third Apparition">
+<edge source="LADY MACBETH" target="BOTH MURDERERS">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Witch" target="First Witch">
-  <data key="d4">3</data>
-</edge>
-<edge source="Both Murderers" target="First Murderer">
+<edge source="LADY MACBETH" target="ATTENDANT">
   <data key="d4">1</data>
 </edge>
-<edge source="Both Murderers" target="ATTENDANT">
+<edge source="LADY MACBETH" target="DONALBAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="Both Murderers" target="Second Murderer">
+<edge source="LADY MACBETH" target="GENTLEWOMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Porter" target="ALL">
+<edge source="DUNCAN" target="BANQUO">
+  <data key="d4">2</data>
+</edge>
+<edge source="DUNCAN" target="SERGEANT">
   <data key="d4">1</data>
 </edge>
-<edge source="Porter" target="MACDUFF">
+<edge source="THIRD MURDERER" target="SECOND MURDERER">
   <data key="d4">1</data>
 </edge>
-<edge source="Porter" target="DONALBAIN">
+<edge source="THIRD MURDERER" target="BANQUO">
   <data key="d4">1</data>
 </edge>
-<edge source="MENTEITH" target="ANGUS">
+<edge source="DONALBAIN" target="PORTER">
   <data key="d4">1</data>
 </edge>
-<edge source="MENTEITH" target="Soldiers">
+<edge source="DONALBAIN" target="BANQUO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BANQUO" target="PORTER">
+  <data key="d4">1</data>
+</edge>
+<edge source="BANQUO" target="SECOND MURDERER">
+  <data key="d4">2</data>
+</edge>
+<edge source="BANQUO" target="FLEANCE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BANQUO" target="FIRST WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="BANQUO" target="BOTH MURDERERS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BANQUO" target="THIRD WITCH">
+  <data key="d4">1</data>
+</edge>
+<edge source="BANQUO" target="ATTENDANT">
   <data key="d4">1</data>
 </edge>
 <edge source="MENTEITH" target="CAITHNESS">
   <data key="d4">1</data>
 </edge>
-<edge source="MENTEITH" target="SIWARD">
+<edge source="MENTEITH" target="SOLDIERS">
   <data key="d4">1</data>
 </edge>
-<edge source="MENTEITH" target="MACDUFF">
+<edge source="THIRD WITCH" target="THIRD APPARITION">
   <data key="d4">1</data>
 </edge>
-<edge source="YOUNG SIWARD" target="SIWARD">
-  <data key="d4">1</data>
-</edge>
-<edge source="YOUNG SIWARD" target="MACDUFF">
-  <data key="d4">1</data>
-</edge>
-<edge source="Doctor" target="ROSS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Doctor" target="Gentlewoman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Doctor" target="SEYTON">
-  <data key="d4">1</data>
-</edge>
-<edge source="Doctor" target="MACDUFF">
-  <data key="d4">1</data>
-</edge>
-<edge source="DUNCAN" target="ROSS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DUNCAN" target="Sergeant">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Witch" target="ROSS">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Witch" target="Second Witch">
+<edge source="THIRD WITCH" target="FIRST WITCH">
   <data key="d4">3</data>
 </edge>
-<edge source="First Witch" target="ANGUS">
+<edge source="THIRD WITCH" target="SECOND APPARITION">
   <data key="d4">1</data>
 </edge>
-<edge source="First Witch" target="HECATE">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Witch" target="Second Apparition">
+<edge source="FIRST WITCH" target="THIRD APPARITION">
   <data key="d4">1</data>
 </edge>
-<edge source="First Witch" target="ALL">
-  <data key="d4">3</data>
-</edge>
-<edge source="First Witch" target="First Apparition">
+<edge source="FIRST WITCH" target="SECOND APPARITION">
   <data key="d4">1</data>
 </edge>
-<edge source="First Witch" target="Third Apparition">
+<edge source="THIRD APPARITION" target="SECOND APPARITION">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSS" target="First Murderer">
-  <data key="d4">2</data>
-</edge>
-<edge source="ROSS" target="LADY MACDUFF">
+<edge source="SERVANT" target="SEYTON">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSS" target="Second Witch">
+<edge source="SECOND MURDERER" target="BOTH MURDERERS">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSS" target="Sergeant">
+<edge source="SECOND MURDERER" target="ATTENDANT">
   <data key="d4">1</data>
 </edge>
-<edge source="ROSS" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="ROSS" target="MACDUFF">
-  <data key="d4">3</data>
-</edge>
-<edge source="ROSS" target="Old Man">
-  <data key="d4">1</data>
-</edge>
-<edge source="ROSS" target="ANGUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="ROSS" target="ALL">
-  <data key="d4">2</data>
-</edge>
-<edge source="ROSS" target="SIWARD">
-  <data key="d4">1</data>
-</edge>
-<edge source="ROSS" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="ROSS" target="Son">
-  <data key="d4">1</data>
-</edge>
-<edge source="SIWARD" target="Soldiers">
-  <data key="d4">1</data>
-</edge>
-<edge source="SIWARD" target="ALL">
-  <data key="d4">1</data>
-</edge>
-<edge source="SIWARD" target="MACDUFF">
-  <data key="d4">4</data>
-</edge>
-<edge source="ALL" target="Second Witch">
-  <data key="d4">3</data>
-</edge>
-<edge source="ALL" target="Second Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALL" target="MACDUFF">
-  <data key="d4">2</data>
-</edge>
-<edge source="ALL" target="DONALBAIN">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALL" target="ANGUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALL" target="HECATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALL" target="First Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="ALL" target="Third Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Apparition" target="Second Witch">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Apparition" target="Second Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Apparition" target="HECATE">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Apparition" target="First Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="MACDUFF" target="Soldiers">
-  <data key="d4">1</data>
-</edge>
-<edge source="MACDUFF" target="Old Man">
-  <data key="d4">1</data>
-</edge>
-<edge source="MACDUFF" target="DONALBAIN">
-  <data key="d4">1</data>
-</edge>
-<edge source="HECATE" target="Second Witch">
-  <data key="d4">1</data>
-</edge>
-<edge source="HECATE" target="Second Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="HECATE" target="First Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="ATTENDANT" target="First Murderer">
-  <data key="d4">1</data>
-</edge>
-<edge source="ATTENDANT" target="Second Murderer">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Witch" target="Second Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Witch" target="ANGUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Witch" target="First Apparition">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lords" target="First Murderer">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Murderer" target="First Murderer">
-  <data key="d4">2</data>
-</edge>
-<edge source="Second Murderer" target="Third Murderer">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="First Murderer">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="SEYTON">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="LADY MACDUFF">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="Son">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Murderer" target="LADY MACDUFF">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Murderer" target="Third Murderer">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Murderer" target="Son">
-  <data key="d4">1</data>
-</edge>
-<edge source="LADY MACDUFF" target="Son">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAITHNESS" target="ANGUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Apparition" target="Second Apparition">
+<edge source="ATTENDANT" target="BOTH MURDERERS">
   <data key="d4">1</data>
 </edge>
 </graph></graphml>

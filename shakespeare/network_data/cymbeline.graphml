@@ -8,705 +8,674 @@
 <data key="d1">Cymbeline</data>
 <data key="d2">cymbeline</data>
 <data key="d3">comedy</data>
-<node id="CAIUS LUCIUS"/>
-<node id="IACHIMO"/>
-<node id="PHILARIO"/>
-<node id="GUIDERIUS"/>
-<node id="POSTHUMUS LEONATUS"/>
-<node id="PISANIO"/>
-<node id="Second Gaoler"/>
-<node id="ARVIRAGUS"/>
-<node id="Second Brother"/>
-<node id="CYMBELINE"/>
-<node id="BELARIUS"/>
-<node id="First Lord"/>
-<node id="IMOGEN"/>
-<node id="Posthumus Leonatus"/>
-<node id="First Senator"/>
-<node id="Sicilius Leonatus"/>
-<node id="Mother"/>
-<node id="Lady"/>
-<node id="Lord"/>
 <node id="QUEEN"/>
-<node id="Jupiter"/>
-<node id="Second Captain"/>
-<node id="First Gentleman"/>
-<node id="Soothsayer"/>
-<node id="First Gaoler"/>
+<node id="POSTHUMUS LEONATUS"/>
+<node id="CAIUS LUCIUS"/>
+<node id="BELARIUS"/>
+<node id="MESSENGER"/>
+<node id="SECOND LORD"/>
+<node id="FIRST LORD"/>
+<node id="SCENE III"/>
+<node id="SECOND CAPTAIN"/>
+<node id="IACHIMO"/>
+<node id="LORD"/>
+<node id="FRENCHMAN"/>
+<node id="FIRST SENATOR"/>
 <node id="CLOTEN"/>
-<node id="All"/>
-<node id="Messenger"/>
-<node id="Scene III"/>
-<node id="First Captain"/>
-<node id="Second Senator"/>
-<node id="Captain"/>
-<node id="First Brother"/>
-<node id="Attendant"/>
-<node id="Second Gentleman"/>
+<node id="ATTENDANT"/>
+<node id="PISANIO"/>
+<node id="GUIDERIUS"/>
+<node id="ARVIRAGUS"/>
+<node id="LADY"/>
+<node id="SOOTHSAYER"/>
 <node id="CORNELIUS"/>
-<node id="Second Lord"/>
-<node id="Lords"/>
-<node id="First Lady"/>
-<node id="First Tribune"/>
-<node id="Frenchman"/>
-<edge source="CAIUS LUCIUS" target="CLOTEN">
-  <data key="d4">3</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="BELARIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="ARVIRAGUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="PISANIO">
+<node id="IMOGEN"/>
+<node id="MOTHER"/>
+<node id="SECOND SENATOR"/>
+<node id="SECOND GENTLEMAN"/>
+<node id="CYMBELINE"/>
+<node id="FIRST GAOLER"/>
+<node id="FIRST GENTLEMAN"/>
+<node id="ALL"/>
+<node id="FIRST BROTHER"/>
+<node id="PHILARIO"/>
+<node id="FIRST CAPTAIN"/>
+<node id="SICILIUS LEONATUS"/>
+<node id="CAPTAIN"/>
+<node id="SECOND GAOLER"/>
+<node id="SECOND BROTHER"/>
+<node id="FIRST TRIBUNE"/>
+<node id="LORDS"/>
+<node id="FIRST LADY"/>
+<node id="JUPITER"/>
+<edge source="QUEEN" target="CAIUS LUCIUS">
   <data key="d4">2</data>
 </edge>
-<edge source="CAIUS LUCIUS" target="Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="CYMBELINE">
-  <data key="d4">3</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="IACHIMO">
-  <data key="d4">2</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="QUEEN">
-  <data key="d4">2</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="Soothsayer">
-  <data key="d4">2</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="POSTHUMUS LEONATUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="GUIDERIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="CAIUS LUCIUS" target="IMOGEN">
-  <data key="d4">2</data>
-</edge>
-<edge source="IACHIMO" target="CLOTEN">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="PHILARIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="IACHIMO" target="BELARIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="IACHIMO" target="ARVIRAGUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="IACHIMO" target="PISANIO">
-  <data key="d4">3</data>
-</edge>
-<edge source="IACHIMO" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="CYMBELINE">
-  <data key="d4">2</data>
-</edge>
-<edge source="IACHIMO" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="Scene III">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="Frenchman">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="QUEEN">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="Second Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="Soothsayer">
-  <data key="d4">1</data>
-</edge>
-<edge source="IACHIMO" target="POSTHUMUS LEONATUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="IACHIMO" target="GUIDERIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="IACHIMO" target="IMOGEN">
-  <data key="d4">3</data>
-</edge>
-<edge source="PHILARIO" target="POSTHUMUS LEONATUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="PHILARIO" target="Frenchman">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUIDERIUS" target="CLOTEN">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUIDERIUS" target="BELARIUS">
-  <data key="d4">6</data>
-</edge>
-<edge source="GUIDERIUS" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUIDERIUS" target="ARVIRAGUS">
-  <data key="d4">6</data>
-</edge>
-<edge source="GUIDERIUS" target="PISANIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUIDERIUS" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUIDERIUS" target="CYMBELINE">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUIDERIUS" target="Soothsayer">
-  <data key="d4">2</data>
-</edge>
-<edge source="GUIDERIUS" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUIDERIUS" target="POSTHUMUS LEONATUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="GUIDERIUS" target="IMOGEN">
-  <data key="d4">3</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Sicilius Leonatus">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Second Gaoler">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="BELARIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="ARVIRAGUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="PISANIO">
-  <data key="d4">2</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="CYMBELINE">
-  <data key="d4">2</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="First Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Second Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Second Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Frenchman">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="QUEEN">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Soothsayer">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Posthumus Leonatus">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Jupiter">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="First Brother">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Second Brother">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="Mother">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="First Gaoler">
-  <data key="d4">1</data>
-</edge>
-<edge source="POSTHUMUS LEONATUS" target="IMOGEN">
-  <data key="d4">2</data>
-</edge>
-<edge source="PISANIO" target="CLOTEN">
-  <data key="d4">2</data>
-</edge>
-<edge source="PISANIO" target="BELARIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="PISANIO" target="ARVIRAGUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="PISANIO" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="PISANIO" target="Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="PISANIO" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="PISANIO" target="CYMBELINE">
-  <data key="d4">5</data>
-</edge>
-<edge source="PISANIO" target="First Lady">
-  <data key="d4">2</data>
-</edge>
-<edge source="PISANIO" target="Second Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="PISANIO" target="First Lord">
-  <data key="d4">2</data>
-</edge>
-<edge source="PISANIO" target="Scene III">
-  <data key="d4">1</data>
-</edge>
-<edge source="PISANIO" target="Lady">
-  <data key="d4">2</data>
-</edge>
-<edge source="PISANIO" target="QUEEN">
+<edge source="QUEEN" target="PISANIO">
   <data key="d4">4</data>
 </edge>
-<edge source="PISANIO" target="CORNELIUS">
+<edge source="QUEEN" target="FIRST GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="QUEEN" target="IMOGEN">
   <data key="d4">2</data>
 </edge>
-<edge source="PISANIO" target="Second Lord">
+<edge source="QUEEN" target="SCENE III">
   <data key="d4">1</data>
 </edge>
-<edge source="PISANIO" target="Soothsayer">
-  <data key="d4">1</data>
-</edge>
-<edge source="PISANIO" target="IMOGEN">
-  <data key="d4">7</data>
-</edge>
-<edge source="Second Gaoler" target="Sicilius Leonatus">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gaoler" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gaoler" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gaoler" target="Posthumus Leonatus">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gaoler" target="Jupiter">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gaoler" target="Second Brother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gaoler" target="First Brother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gaoler" target="Mother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gaoler" target="First Gaoler">
-  <data key="d4">1</data>
-</edge>
-<edge source="ARVIRAGUS" target="CLOTEN">
-  <data key="d4">1</data>
-</edge>
-<edge source="ARVIRAGUS" target="BELARIUS">
-  <data key="d4">6</data>
-</edge>
-<edge source="ARVIRAGUS" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="ARVIRAGUS" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="ARVIRAGUS" target="CYMBELINE">
-  <data key="d4">1</data>
-</edge>
-<edge source="ARVIRAGUS" target="Soothsayer">
-  <data key="d4">2</data>
-</edge>
-<edge source="ARVIRAGUS" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="ARVIRAGUS" target="IMOGEN">
-  <data key="d4">3</data>
-</edge>
-<edge source="Second Brother" target="Sicilius Leonatus">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Brother" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Brother" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Brother" target="Posthumus Leonatus">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Brother" target="Jupiter">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Brother" target="First Brother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Brother" target="Mother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Brother" target="First Gaoler">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="CLOTEN">
-  <data key="d4">3</data>
-</edge>
-<edge source="CYMBELINE" target="BELARIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="Second Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="First Lord">
-  <data key="d4">2</data>
-</edge>
-<edge source="CYMBELINE" target="Scene III">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="QUEEN">
+<edge source="QUEEN" target="CYMBELINE">
   <data key="d4">4</data>
 </edge>
-<edge source="CYMBELINE" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="Second Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="Soothsayer">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="CYMBELINE" target="IMOGEN">
-  <data key="d4">3</data>
-</edge>
-<edge source="BELARIUS" target="CLOTEN">
-  <data key="d4">1</data>
-</edge>
-<edge source="BELARIUS" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="BELARIUS" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="BELARIUS" target="Soothsayer">
-  <data key="d4">2</data>
-</edge>
-<edge source="BELARIUS" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="BELARIUS" target="IMOGEN">
-  <data key="d4">3</data>
-</edge>
-<edge source="First Lord" target="CLOTEN">
-  <data key="d4">3</data>
-</edge>
-<edge source="First Lord" target="Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Lord" target="QUEEN">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Lord" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Lord" target="Second Lord">
-  <data key="d4">3</data>
-</edge>
-<edge source="First Lord" target="Scene III">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Lord" target="IMOGEN">
-  <data key="d4">1</data>
-</edge>
-<edge source="IMOGEN" target="CLOTEN">
-  <data key="d4">2</data>
-</edge>
-<edge source="IMOGEN" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="IMOGEN" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="IMOGEN" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="IMOGEN" target="Second Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="IMOGEN" target="Scene III">
-  <data key="d4">1</data>
-</edge>
-<edge source="IMOGEN" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="IMOGEN" target="Lady">
-  <data key="d4">2</data>
-</edge>
-<edge source="IMOGEN" target="QUEEN">
-  <data key="d4">2</data>
-</edge>
-<edge source="IMOGEN" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="IMOGEN" target="Second Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="IMOGEN" target="Soothsayer">
-  <data key="d4">2</data>
-</edge>
-<edge source="Posthumus Leonatus" target="Sicilius Leonatus">
-  <data key="d4">1</data>
-</edge>
-<edge source="Posthumus Leonatus" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="Posthumus Leonatus" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Posthumus Leonatus" target="Jupiter">
-  <data key="d4">1</data>
-</edge>
-<edge source="Posthumus Leonatus" target="First Brother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Posthumus Leonatus" target="Mother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Posthumus Leonatus" target="First Gaoler">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Senator" target="First Tribune">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Senator" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="Sicilius Leonatus" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="Sicilius Leonatus" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Sicilius Leonatus" target="Jupiter">
-  <data key="d4">1</data>
-</edge>
-<edge source="Sicilius Leonatus" target="First Brother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Sicilius Leonatus" target="Mother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Sicilius Leonatus" target="First Gaoler">
-  <data key="d4">1</data>
-</edge>
-<edge source="Mother" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="Mother" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Mother" target="Jupiter">
-  <data key="d4">1</data>
-</edge>
-<edge source="Mother" target="First Brother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Mother" target="First Gaoler">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lady" target="CLOTEN">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lady" target="QUEEN">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lady" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lady" target="Second Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lady" target="Scene III">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lord" target="Second Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lord" target="First Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN" target="CLOTEN">
-  <data key="d4">3</data>
-</edge>
-<edge source="QUEEN" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN" target="Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN" target="Second Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUEEN" target="Scene III">
+<edge source="QUEEN" target="LORDS">
   <data key="d4">1</data>
 </edge>
 <edge source="QUEEN" target="CORNELIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="QUEEN" target="Second Lord">
+<edge source="QUEEN" target="FIRST LORD">
   <data key="d4">1</data>
 </edge>
-<edge source="QUEEN" target="Lords">
+<edge source="QUEEN" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="Jupiter" target="All">
+<edge source="QUEEN" target="SECOND GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Jupiter" target="Messenger">
+<edge source="QUEEN" target="SECOND LORD">
   <data key="d4">1</data>
 </edge>
-<edge source="Jupiter" target="First Brother">
+<edge source="QUEEN" target="FIRST LADY">
   <data key="d4">1</data>
 </edge>
-<edge source="Jupiter" target="First Gaoler">
+<edge source="QUEEN" target="ATTENDANT">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Captain" target="First Captain">
+<edge source="QUEEN" target="IACHIMO">
   <data key="d4">1</data>
 </edge>
-<edge source="First Gentleman" target="Second Gentleman">
+<edge source="QUEEN" target="LADY">
   <data key="d4">1</data>
 </edge>
-<edge source="Soothsayer" target="CLOTEN">
+<edge source="QUEEN" target="POSTHUMUS LEONATUS">
   <data key="d4">1</data>
 </edge>
-<edge source="Soothsayer" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="Soothsayer" target="CORNELIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Soothsayer" target="First Lady">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Gaoler" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Gaoler" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Gaoler" target="First Brother">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLOTEN" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLOTEN" target="Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLOTEN" target="Scene III">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLOTEN" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLOTEN" target="Second Lord">
+<edge source="QUEEN" target="CLOTEN">
   <data key="d4">3</data>
 </edge>
-<edge source="CLOTEN" target="Lords">
+<edge source="POSTHUMUS LEONATUS" target="CAIUS LUCIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="All" target="Messenger">
+<edge source="POSTHUMUS LEONATUS" target="FIRST CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="All" target="First Brother">
+<edge source="POSTHUMUS LEONATUS" target="SOOTHSAYER">
   <data key="d4">1</data>
 </edge>
-<edge source="Messenger" target="Scene III">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="Second Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="First Brother">
-  <data key="d4">1</data>
-</edge>
-<edge source="Scene III" target="Second Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Senator" target="First Tribune">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORNELIUS" target="First Lady">
+<edge source="POSTHUMUS LEONATUS" target="PISANIO">
   <data key="d4">2</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="JUPITER">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="SICILIUS LEONATUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="FIRST GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="IMOGEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="MOTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="GUIDERIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="FRENCHMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="FIRST GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="CYMBELINE">
+  <data key="d4">2</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="ARVIRAGUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="SECOND CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="PHILARIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="BELARIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="SECOND BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="SECOND GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="IACHIMO">
+  <data key="d4">3</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="FIRST BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="POSTHUMUS LEONATUS" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="SOOTHSAYER">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="PISANIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="IMOGEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="GUIDERIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="CYMBELINE">
+  <data key="d4">3</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="ARVIRAGUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="BELARIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="IACHIMO">
+  <data key="d4">2</data>
+</edge>
+<edge source="CAIUS LUCIUS" target="CLOTEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="BELARIUS" target="SOOTHSAYER">
+  <data key="d4">2</data>
+</edge>
+<edge source="BELARIUS" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BELARIUS" target="PISANIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BELARIUS" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="BELARIUS" target="IMOGEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="BELARIUS" target="GUIDERIUS">
+  <data key="d4">6</data>
+</edge>
+<edge source="BELARIUS" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="BELARIUS" target="IACHIMO">
+  <data key="d4">2</data>
+</edge>
+<edge source="BELARIUS" target="ARVIRAGUS">
+  <data key="d4">6</data>
+</edge>
+<edge source="BELARIUS" target="CLOTEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="BELARIUS" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="PISANIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="JUPITER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="SICILIUS LEONATUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="IMOGEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="MOTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="FIRST GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="SCENE III">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="SECOND BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="FIRST LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="SECOND LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="SECOND GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="IACHIMO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="FIRST BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="CLOTEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="PISANIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="FIRST LORD">
+  <data key="d4">3</data>
+</edge>
+<edge source="SECOND LORD" target="IMOGEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="SCENE III">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="IACHIMO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="CLOTEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="FIRST LORD" target="PISANIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST LORD" target="IMOGEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="CYMBELINE">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST LORD" target="SCENE III">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="IACHIMO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="CLOTEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="SCENE III" target="PISANIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SCENE III" target="IMOGEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SCENE III" target="IACHIMO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SCENE III" target="LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="SCENE III" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SCENE III" target="CLOTEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND CAPTAIN" target="FIRST CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND CAPTAIN" target="LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="IACHIMO" target="SOOTHSAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="IACHIMO" target="PISANIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="IACHIMO" target="IMOGEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="IACHIMO" target="GUIDERIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="IACHIMO" target="FRENCHMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="IACHIMO" target="CYMBELINE">
+  <data key="d4">2</data>
+</edge>
+<edge source="IACHIMO" target="ARVIRAGUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="IACHIMO" target="PHILARIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="IACHIMO" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="IACHIMO" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="IACHIMO" target="LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="IACHIMO" target="CLOTEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORD" target="FIRST CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FRENCHMAN" target="PHILARIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="FIRST TRIBUNE">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="SECOND SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOTEN" target="SOOTHSAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOTEN" target="PISANIO">
+  <data key="d4">2</data>
+</edge>
+<edge source="CLOTEN" target="IMOGEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="CLOTEN" target="GUIDERIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOTEN" target="CYMBELINE">
+  <data key="d4">3</data>
+</edge>
+<edge source="CLOTEN" target="ARVIRAGUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOTEN" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOTEN" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOTEN" target="ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOTEN" target="LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="ATTENDANT" target="PISANIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ATTENDANT" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="PISANIO" target="SOOTHSAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="PISANIO" target="FIRST GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="PISANIO" target="IMOGEN">
+  <data key="d4">7</data>
+</edge>
+<edge source="PISANIO" target="GUIDERIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PISANIO" target="CYMBELINE">
+  <data key="d4">5</data>
+</edge>
+<edge source="PISANIO" target="ARVIRAGUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PISANIO" target="CORNELIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="PISANIO" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="PISANIO" target="FIRST LADY">
+  <data key="d4">2</data>
+</edge>
+<edge source="PISANIO" target="LADY">
+  <data key="d4">2</data>
+</edge>
+<edge source="GUIDERIUS" target="SOOTHSAYER">
+  <data key="d4">2</data>
+</edge>
+<edge source="GUIDERIUS" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUIDERIUS" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUIDERIUS" target="IMOGEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="GUIDERIUS" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="GUIDERIUS" target="ARVIRAGUS">
+  <data key="d4">6</data>
+</edge>
+<edge source="GUIDERIUS" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ARVIRAGUS" target="SOOTHSAYER">
+  <data key="d4">2</data>
+</edge>
+<edge source="ARVIRAGUS" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ARVIRAGUS" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="ARVIRAGUS" target="IMOGEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="ARVIRAGUS" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ARVIRAGUS" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="LADY" target="IMOGEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="LADY" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SOOTHSAYER" target="CORNELIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SOOTHSAYER" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="SOOTHSAYER" target="IMOGEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="SOOTHSAYER" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SOOTHSAYER" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORNELIUS" target="FIRST LADY">
+  <data key="d4">2</data>
+</edge>
+<edge source="CORNELIUS" target="IMOGEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORNELIUS" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="IMOGEN" target="FIRST GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="IMOGEN" target="CYMBELINE">
+  <data key="d4">3</data>
+</edge>
+<edge source="IMOGEN" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="IMOGEN" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="IMOGEN" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="MOTHER" target="SECOND BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MOTHER" target="JUPITER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MOTHER" target="SICILIUS LEONATUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MOTHER" target="SECOND GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MOTHER" target="FIRST GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MOTHER" target="FIRST BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MOTHER" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="FIRST TRIBUNE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GENTLEMAN" target="FIRST GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GENTLEMAN" target="CYMBELINE">
+  <data key="d4">1</data>
+</edge>
+<edge source="CYMBELINE" target="FIRST GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CYMBELINE" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CYMBELINE" target="FIRST LADY">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GAOLER" target="SECOND BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GAOLER" target="JUPITER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GAOLER" target="SICILIUS LEONATUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GAOLER" target="SECOND GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GAOLER" target="FIRST BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GAOLER" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SECOND BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="JUPITER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SICILIUS LEONATUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SECOND GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="FIRST BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST BROTHER" target="SECOND BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST BROTHER" target="JUPITER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST BROTHER" target="SICILIUS LEONATUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST BROTHER" target="SECOND GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICILIUS LEONATUS" target="SECOND BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICILIUS LEONATUS" target="JUPITER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICILIUS LEONATUS" target="SECOND GAOLER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GAOLER" target="SECOND BROTHER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GAOLER" target="JUPITER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND BROTHER" target="JUPITER">
+  <data key="d4">1</data>
 </edge>
 </graph></graphml>

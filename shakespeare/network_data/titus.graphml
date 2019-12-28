@@ -8,259 +8,358 @@
 <data key="d1">Titus Andronicus</data>
 <data key="d2">titus</data>
 <data key="d3">tragedy</data>
-<node id="BASSIANUS"/>
-<node id="LAVINIA"/>
-<node id="Messenger"/>
-<node id="MARTIUS"/>
-<node id="CHIRON"/>
-<node id="LUCIUS"/>
-<node id="Young LUCIUS"/>
-<node id="MUTIUS"/>
+<node id="SATURNINUS"/>
 <node id="MARCUS ANDRONICUS"/>
+<node id="PUBLIUS"/>
+<node id="YOUNG LUCIUS"/>
+<node id="CLOWN"/>
 <node id="TAMORA"/>
+<node id="ALL"/>
+<node id="CHIRON"/>
+<node id="NURSE"/>
+<node id="MARCUS"/>
+<node id="LUCIUS"/>
 <node id="TITUS ANDRONICUS"/>
+<node id="FIRST GOTH"/>
+<node id="LAVINIA"/>
+<node id="MARTIUS"/>
+<node id="TRIBUNES"/>
 <node id="AEMILIUS"/>
 <node id="DEMETRIUS"/>
-<node id="PUBLIUS"/>
-<node id="AARON"/>
-<node id="Third Goth"/>
-<node id="Tribunes"/>
-<node id="All"/>
-<node id="SATURNINUS"/>
-<node id="All the Goths"/>
-<node id="First Goth"/>
 <node id="QUINTUS"/>
-<node id="Nurse"/>
-<node id="Second Goth"/>
-<node id="MARCUS"/>
-<node id="Clown"/>
-<node id="Captain"/>
-<edge source="BASSIANUS" target="MARTIUS">
+<node id="AARON"/>
+<node id="MUTIUS"/>
+<node id="BASSIANUS"/>
+<node id="SECOND GOTH"/>
+<node id="THIRD GOTH"/>
+<node id="ALL THE GOTHS"/>
+<node id="MESSENGER"/>
+<node id="CAPTAIN"/>
+<edge source="SATURNINUS" target="AEMILIUS">
   <data key="d4">2</data>
 </edge>
-<edge source="BASSIANUS" target="AARON">
-  <data key="d4">1</data>
-</edge>
-<edge source="BASSIANUS" target="CHIRON">
+<edge source="SATURNINUS" target="LUCIUS">
   <data key="d4">2</data>
 </edge>
-<edge source="BASSIANUS" target="MARCUS ANDRONICUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="BASSIANUS" target="DEMETRIUS">
+<edge source="SATURNINUS" target="BASSIANUS">
   <data key="d4">3</data>
 </edge>
-<edge source="BASSIANUS" target="LUCIUS">
+<edge source="SATURNINUS" target="TRIBUNES">
   <data key="d4">1</data>
 </edge>
-<edge source="BASSIANUS" target="TAMORA">
+<edge source="SATURNINUS" target="CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SATURNINUS" target="AARON">
   <data key="d4">2</data>
 </edge>
-<edge source="BASSIANUS" target="QUINTUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="BASSIANUS" target="SATURNINUS">
+<edge source="SATURNINUS" target="MARCUS ANDRONICUS">
   <data key="d4">3</data>
 </edge>
-<edge source="BASSIANUS" target="All">
+<edge source="SATURNINUS" target="QUINTUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="SATURNINUS" target="YOUNG LUCIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="BASSIANUS" target="Captain">
+<edge source="SATURNINUS" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="BASSIANUS" target="MUTIUS">
+<edge source="SATURNINUS" target="MUTIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="BASSIANUS" target="LAVINIA">
+<edge source="SATURNINUS" target="TITUS ANDRONICUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="SATURNINUS" target="CHIRON">
+  <data key="d4">2</data>
+</edge>
+<edge source="SATURNINUS" target="TAMORA">
+  <data key="d4">4</data>
+</edge>
+<edge source="SATURNINUS" target="LAVINIA">
   <data key="d4">3</data>
 </edge>
-<edge source="BASSIANUS" target="TITUS ANDRONICUS">
+<edge source="SATURNINUS" target="MARTIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="SATURNINUS" target="FIRST GOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="SATURNINUS" target="ALL">
+  <data key="d4">2</data>
+</edge>
+<edge source="SATURNINUS" target="DEMETRIUS">
   <data key="d4">3</data>
 </edge>
-<edge source="BASSIANUS" target="Tribunes">
+<edge source="MARCUS ANDRONICUS" target="AEMILIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="LAVINIA" target="MARTIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="LAVINIA" target="AARON">
-  <data key="d4">1</data>
-</edge>
-<edge source="LAVINIA" target="CHIRON">
-  <data key="d4">2</data>
-</edge>
-<edge source="LAVINIA" target="MARCUS ANDRONICUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="LAVINIA" target="DEMETRIUS">
+<edge source="MARCUS ANDRONICUS" target="LUCIUS">
   <data key="d4">3</data>
 </edge>
-<edge source="LAVINIA" target="LUCIUS">
+<edge source="MARCUS ANDRONICUS" target="BASSIANUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARCUS ANDRONICUS" target="TRIBUNES">
   <data key="d4">1</data>
 </edge>
-<edge source="LAVINIA" target="TAMORA">
+<edge source="MARCUS ANDRONICUS" target="CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARCUS ANDRONICUS" target="AARON">
   <data key="d4">2</data>
 </edge>
-<edge source="LAVINIA" target="QUINTUS">
-  <data key="d4">2</data>
+<edge source="MARCUS ANDRONICUS" target="QUINTUS">
+  <data key="d4">1</data>
 </edge>
-<edge source="LAVINIA" target="SATURNINUS">
+<edge source="MARCUS ANDRONICUS" target="YOUNG LUCIUS">
   <data key="d4">3</data>
 </edge>
-<edge source="LAVINIA" target="All">
+<edge source="MARCUS ANDRONICUS" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="LAVINIA" target="Captain">
+<edge source="MARCUS ANDRONICUS" target="MUTIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="LAVINIA" target="MUTIUS">
-  <data key="d4">1</data>
+<edge source="MARCUS ANDRONICUS" target="TITUS ANDRONICUS">
+  <data key="d4">8</data>
 </edge>
-<edge source="LAVINIA" target="TITUS ANDRONICUS">
+<edge source="MARCUS ANDRONICUS" target="CHIRON">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARCUS ANDRONICUS" target="TAMORA">
   <data key="d4">3</data>
 </edge>
-<edge source="LAVINIA" target="Tribunes">
+<edge source="MARCUS ANDRONICUS" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="Messenger" target="MARCUS ANDRONICUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="TITUS ANDRONICUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="AARON">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="LUCIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARTIUS" target="AARON">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARTIUS" target="CHIRON">
+<edge source="MARCUS ANDRONICUS" target="LAVINIA">
   <data key="d4">2</data>
 </edge>
-<edge source="MARTIUS" target="MARCUS ANDRONICUS">
+<edge source="MARCUS ANDRONICUS" target="MARTIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="MARTIUS" target="DEMETRIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="MARTIUS" target="LUCIUS">
+<edge source="MARCUS ANDRONICUS" target="FIRST GOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="MARTIUS" target="TAMORA">
+<edge source="MARCUS ANDRONICUS" target="ALL">
   <data key="d4">2</data>
 </edge>
-<edge source="MARTIUS" target="QUINTUS">
+<edge source="MARCUS ANDRONICUS" target="PUBLIUS">
   <data key="d4">2</data>
 </edge>
-<edge source="MARTIUS" target="SATURNINUS">
-  <data key="d4">2</data>
+<edge source="MARCUS ANDRONICUS" target="DEMETRIUS">
+  <data key="d4">3</data>
 </edge>
-<edge source="MARTIUS" target="All">
+<edge source="PUBLIUS" target="TAMORA">
   <data key="d4">1</data>
 </edge>
-<edge source="MARTIUS" target="Captain">
+<edge source="PUBLIUS" target="CLOWN">
   <data key="d4">1</data>
 </edge>
-<edge source="MARTIUS" target="MUTIUS">
+<edge source="PUBLIUS" target="DEMETRIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="MARTIUS" target="TITUS ANDRONICUS">
+<edge source="PUBLIUS" target="TITUS ANDRONICUS">
   <data key="d4">2</data>
 </edge>
-<edge source="MARTIUS" target="Tribunes">
+<edge source="PUBLIUS" target="CHIRON">
+  <data key="d4">1</data>
+</edge>
+<edge source="YOUNG LUCIUS" target="TAMORA">
+  <data key="d4">1</data>
+</edge>
+<edge source="YOUNG LUCIUS" target="NURSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="YOUNG LUCIUS" target="AEMILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="YOUNG LUCIUS" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="YOUNG LUCIUS" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="YOUNG LUCIUS" target="FIRST GOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="YOUNG LUCIUS" target="AARON">
+  <data key="d4">2</data>
+</edge>
+<edge source="YOUNG LUCIUS" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="YOUNG LUCIUS" target="TITUS ANDRONICUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="YOUNG LUCIUS" target="CHIRON">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="TAMORA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="AEMILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="TITUS ANDRONICUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TAMORA" target="AEMILIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="TAMORA" target="LUCIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="TAMORA" target="BASSIANUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="TAMORA" target="TRIBUNES">
+  <data key="d4">1</data>
+</edge>
+<edge source="TAMORA" target="AARON">
+  <data key="d4">2</data>
+</edge>
+<edge source="TAMORA" target="QUINTUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="TAMORA" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="TAMORA" target="MUTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TAMORA" target="TITUS ANDRONICUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="TAMORA" target="CHIRON">
+  <data key="d4">3</data>
+</edge>
+<edge source="TAMORA" target="LAVINIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="TAMORA" target="MARTIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="TAMORA" target="FIRST GOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="TAMORA" target="ALL">
+  <data key="d4">2</data>
+</edge>
+<edge source="TAMORA" target="DEMETRIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="ALL" target="AEMILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="LUCIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="BASSIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="TRIBUNES">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="AARON">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="QUINTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="MUTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="TITUS ANDRONICUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="CHIRON">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="LAVINIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="MARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="FIRST GOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHIRON" target="NURSE">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHIRON" target="LUCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHIRON" target="BASSIANUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CHIRON" target="MARCUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHIRON" target="TRIBUNES">
   <data key="d4">1</data>
 </edge>
 <edge source="CHIRON" target="AARON">
   <data key="d4">3</data>
 </edge>
-<edge source="CHIRON" target="MARCUS ANDRONICUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="CHIRON" target="DEMETRIUS">
-  <data key="d4">6</data>
-</edge>
-<edge source="CHIRON" target="PUBLIUS">
+<edge source="CHIRON" target="CAPTAIN">
   <data key="d4">1</data>
-</edge>
-<edge source="CHIRON" target="TAMORA">
-  <data key="d4">3</data>
-</edge>
-<edge source="CHIRON" target="LUCIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHIRON" target="SATURNINUS">
-  <data key="d4">2</data>
 </edge>
 <edge source="CHIRON" target="QUINTUS">
   <data key="d4">2</data>
 </edge>
-<edge source="CHIRON" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHIRON" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHIRON" target="Young LUCIUS">
-  <data key="d4">1</data>
-</edge>
 <edge source="CHIRON" target="MUTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHIRON" target="MARCUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHIRON" target="Nurse">
   <data key="d4">1</data>
 </edge>
 <edge source="CHIRON" target="TITUS ANDRONICUS">
   <data key="d4">3</data>
 </edge>
-<edge source="CHIRON" target="Tribunes">
+<edge source="CHIRON" target="LAVINIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="CHIRON" target="MARTIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CHIRON" target="DEMETRIUS">
+  <data key="d4">6</data>
+</edge>
+<edge source="NURSE" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="NURSE" target="AARON">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARCUS" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIUS" target="AEMILIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="LUCIUS" target="ALL THE GOTHS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIUS" target="BASSIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIUS" target="TRIBUNES">
   <data key="d4">1</data>
 </edge>
 <edge source="LUCIUS" target="AARON">
   <data key="d4">3</data>
 </edge>
-<edge source="LUCIUS" target="MARCUS ANDRONICUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="LUCIUS" target="All the Goths">
-  <data key="d4">1</data>
-</edge>
-<edge source="LUCIUS" target="Third Goth">
-  <data key="d4">1</data>
-</edge>
-<edge source="LUCIUS" target="First Goth">
-  <data key="d4">2</data>
-</edge>
-<edge source="LUCIUS" target="DEMETRIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="LUCIUS" target="TAMORA">
-  <data key="d4">2</data>
-</edge>
-<edge source="LUCIUS" target="SATURNINUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="LUCIUS" target="AEMILIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="LUCIUS" target="Second Goth">
-  <data key="d4">1</data>
-</edge>
 <edge source="LUCIUS" target="QUINTUS">
   <data key="d4">1</data>
 </edge>
-<edge source="LUCIUS" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="LUCIUS" target="All">
-  <data key="d4">2</data>
-</edge>
-<edge source="LUCIUS" target="Young LUCIUS">
+<edge source="LUCIUS" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
 <edge source="LUCIUS" target="MUTIUS">
@@ -269,307 +368,208 @@
 <edge source="LUCIUS" target="TITUS ANDRONICUS">
   <data key="d4">3</data>
 </edge>
-<edge source="LUCIUS" target="Tribunes">
+<edge source="LUCIUS" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="Young LUCIUS" target="SATURNINUS">
+<edge source="LUCIUS" target="LAVINIA">
   <data key="d4">1</data>
 </edge>
-<edge source="Young LUCIUS" target="AEMILIUS">
+<edge source="LUCIUS" target="DEMETRIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="Young LUCIUS" target="AARON">
+<edge source="LUCIUS" target="MARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIUS" target="THIRD GOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="LUCIUS" target="FIRST GOTH">
   <data key="d4">2</data>
 </edge>
-<edge source="Young LUCIUS" target="All">
+<edge source="LUCIUS" target="SECOND GOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="Young LUCIUS" target="MARCUS ANDRONICUS">
+<edge source="TITUS ANDRONICUS" target="AEMILIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITUS ANDRONICUS" target="BASSIANUS">
   <data key="d4">3</data>
 </edge>
-<edge source="Young LUCIUS" target="Nurse">
-  <data key="d4">1</data>
-</edge>
-<edge source="Young LUCIUS" target="First Goth">
-  <data key="d4">1</data>
-</edge>
-<edge source="Young LUCIUS" target="DEMETRIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Young LUCIUS" target="TAMORA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Young LUCIUS" target="TITUS ANDRONICUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="MUTIUS" target="QUINTUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUTIUS" target="SATURNINUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUTIUS" target="TAMORA">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUTIUS" target="MARCUS ANDRONICUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUTIUS" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUTIUS" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUTIUS" target="DEMETRIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUTIUS" target="TITUS ANDRONICUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MUTIUS" target="Tribunes">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="AARON">
-  <data key="d4">2</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="First Goth">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="DEMETRIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="PUBLIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="TAMORA">
-  <data key="d4">3</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="SATURNINUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="AEMILIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="QUINTUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="All">
-  <data key="d4">2</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="TITUS ANDRONICUS">
-  <data key="d4">8</data>
-</edge>
-<edge source="MARCUS ANDRONICUS" target="Tribunes">
-  <data key="d4">1</data>
-</edge>
-<edge source="TAMORA" target="AARON">
-  <data key="d4">2</data>
-</edge>
-<edge source="TAMORA" target="First Goth">
-  <data key="d4">1</data>
-</edge>
-<edge source="TAMORA" target="DEMETRIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="TAMORA" target="PUBLIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="TAMORA" target="SATURNINUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="TAMORA" target="AEMILIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="TAMORA" target="QUINTUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="TAMORA" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="TAMORA" target="All">
-  <data key="d4">2</data>
-</edge>
-<edge source="TAMORA" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="TAMORA" target="TITUS ANDRONICUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="TAMORA" target="Tribunes">
+<edge source="TITUS ANDRONICUS" target="TRIBUNES">
   <data key="d4">1</data>
 </edge>
 <edge source="TITUS ANDRONICUS" target="AARON">
   <data key="d4">3</data>
 </edge>
-<edge source="TITUS ANDRONICUS" target="First Goth">
+<edge source="TITUS ANDRONICUS" target="QUINTUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="TITUS ANDRONICUS" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITUS ANDRONICUS" target="MUTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITUS ANDRONICUS" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="TITUS ANDRONICUS" target="LAVINIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="TITUS ANDRONICUS" target="MARTIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="TITUS ANDRONICUS" target="FIRST GOTH">
   <data key="d4">1</data>
 </edge>
 <edge source="TITUS ANDRONICUS" target="DEMETRIUS">
   <data key="d4">4</data>
 </edge>
-<edge source="TITUS ANDRONICUS" target="PUBLIUS">
+<edge source="FIRST GOTH" target="AEMILIUS">
   <data key="d4">2</data>
 </edge>
-<edge source="TITUS ANDRONICUS" target="SATURNINUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="TITUS ANDRONICUS" target="AEMILIUS">
+<edge source="FIRST GOTH" target="ALL THE GOTHS">
   <data key="d4">1</data>
 </edge>
-<edge source="TITUS ANDRONICUS" target="QUINTUS">
+<edge source="FIRST GOTH" target="THIRD GOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GOTH" target="AARON">
   <data key="d4">2</data>
 </edge>
-<edge source="TITUS ANDRONICUS" target="Captain">
+<edge source="FIRST GOTH" target="SECOND GOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="TITUS ANDRONICUS" target="All">
+<edge source="LAVINIA" target="BASSIANUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="LAVINIA" target="TRIBUNES">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAVINIA" target="AARON">
+  <data key="d4">1</data>
+</edge>
+<edge source="LAVINIA" target="QUINTUS">
   <data key="d4">2</data>
 </edge>
-<edge source="TITUS ANDRONICUS" target="Clown">
+<edge source="LAVINIA" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="TITUS ANDRONICUS" target="Tribunes">
+<edge source="LAVINIA" target="MUTIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="AEMILIUS" target="SATURNINUS">
+<edge source="LAVINIA" target="MARTIUS">
   <data key="d4">2</data>
 </edge>
-<edge source="AEMILIUS" target="Second Goth">
+<edge source="LAVINIA" target="DEMETRIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="MARTIUS" target="BASSIANUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARTIUS" target="TRIBUNES">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARTIUS" target="AARON">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARTIUS" target="QUINTUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARTIUS" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARTIUS" target="MUTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARTIUS" target="DEMETRIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="TRIBUNES" target="BASSIANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRIBUNES" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRIBUNES" target="QUINTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRIBUNES" target="MUTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="TRIBUNES" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEMILIUS" target="ALL THE GOTHS">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEMILIUS" target="THIRD GOTH">
   <data key="d4">1</data>
 </edge>
 <edge source="AEMILIUS" target="AARON">
   <data key="d4">2</data>
 </edge>
-<edge source="AEMILIUS" target="All">
+<edge source="AEMILIUS" target="SECOND GOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="AEMILIUS" target="All the Goths">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEMILIUS" target="Third Goth">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEMILIUS" target="First Goth">
-  <data key="d4">2</data>
-</edge>
-<edge source="AEMILIUS" target="Clown">
-  <data key="d4">1</data>
+<edge source="DEMETRIUS" target="BASSIANUS">
+  <data key="d4">3</data>
 </edge>
 <edge source="DEMETRIUS" target="AARON">
   <data key="d4">3</data>
 </edge>
-<edge source="DEMETRIUS" target="PUBLIUS">
+<edge source="DEMETRIUS" target="CAPTAIN">
   <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="SATURNINUS">
-  <data key="d4">3</data>
 </edge>
 <edge source="DEMETRIUS" target="QUINTUS">
   <data key="d4">2</data>
 </edge>
-<edge source="DEMETRIUS" target="Captain">
+<edge source="DEMETRIUS" target="MUTIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="DEMETRIUS" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="MARCUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="Nurse">
-  <data key="d4">1</data>
-</edge>
-<edge source="DEMETRIUS" target="Tribunes">
-  <data key="d4">1</data>
-</edge>
-<edge source="PUBLIUS" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="AARON" target="All the Goths">
-  <data key="d4">1</data>
-</edge>
-<edge source="AARON" target="Third Goth">
-  <data key="d4">1</data>
-</edge>
-<edge source="AARON" target="First Goth">
+<edge source="QUINTUS" target="BASSIANUS">
   <data key="d4">2</data>
 </edge>
-<edge source="AARON" target="SATURNINUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="AARON" target="Second Goth">
+<edge source="QUINTUS" target="AARON">
   <data key="d4">1</data>
 </edge>
-<edge source="AARON" target="QUINTUS">
+<edge source="QUINTUS" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="AARON" target="All">
+<edge source="QUINTUS" target="MUTIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="AARON" target="Nurse">
+<edge source="AARON" target="ALL THE GOTHS">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Goth" target="Second Goth">
+<edge source="AARON" target="BASSIANUS">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Goth" target="All the Goths">
+<edge source="AARON" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Goth" target="First Goth">
+<edge source="AARON" target="THIRD GOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="Tribunes" target="QUINTUS">
+<edge source="AARON" target="SECOND GOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="Tribunes" target="SATURNINUS">
+<edge source="MUTIUS" target="BASSIANUS">
   <data key="d4">1</data>
 </edge>
-<edge source="Tribunes" target="All">
+<edge source="MUTIUS" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="Tribunes" target="Captain">
+<edge source="BASSIANUS" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="All" target="First Goth">
+<edge source="SECOND GOTH" target="ALL THE GOTHS">
   <data key="d4">1</data>
 </edge>
-<edge source="All" target="SATURNINUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="All" target="QUINTUS">
+<edge source="SECOND GOTH" target="THIRD GOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="All" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="SATURNINUS" target="First Goth">
-  <data key="d4">1</data>
-</edge>
-<edge source="SATURNINUS" target="QUINTUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="SATURNINUS" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="SATURNINUS" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="All the Goths" target="Second Goth">
-  <data key="d4">1</data>
-</edge>
-<edge source="All the Goths" target="First Goth">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Goth" target="Second Goth">
-  <data key="d4">1</data>
-</edge>
-<edge source="QUINTUS" target="Captain">
+<edge source="THIRD GOTH" target="ALL THE GOTHS">
   <data key="d4">1</data>
 </edge>
 </graph></graphml>

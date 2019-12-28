@@ -9,382 +9,358 @@
 <data key="d2">othello</data>
 <data key="d3">tragedy</data>
 <node id="IAGO"/>
-<node id="CASSIO"/>
-<node id="EMILIA"/>
-<node id="Second Gentleman"/>
 <node id="OTHELLO"/>
-<node id="Second Senator"/>
-<node id="DESDEMONA"/>
-<node id="LODOVICO"/>
-<node id="Clown"/>
-<node id="MONTANO"/>
-<node id="Third Gentleman"/>
+<node id="FIRST GENTLEMAN"/>
+<node id="CASSIO"/>
+<node id="CLOWN"/>
 <node id="RODERIGO"/>
-<node id="Gentleman"/>
-<node id="First Musician"/>
-<node id="First Gentleman"/>
+<node id="MONTANO"/>
+<node id="LODOVICO"/>
+<node id="SECOND SENATOR"/>
+<node id="EMILIA"/>
 <node id="BIANCA"/>
-<node id="Fourth Gentleman"/>
-<node id="First Officer"/>
+<node id="DESDEMONA"/>
 <node id="BRABANTIO"/>
-<node id="All"/>
-<node id="DUKE OF VENICE"/>
 <node id="GRATIANO"/>
-<node id="Sailor"/>
-<node id="First Senator"/>
-<node id="Messenger"/>
-<node id="Senator"/>
-<node id="Herald"/>
-<node id="Second Gentlemen"/>
-<edge source="IAGO" target="MONTANO">
-  <data key="d4">3</data>
+<node id="SAILOR"/>
+<node id="DUKE OF VENICE"/>
+<node id="ALL"/>
+<node id="SECOND GENTLEMEN"/>
+<node id="MESSENGER"/>
+<node id="HERALD"/>
+<node id="FIRST OFFICER"/>
+<node id="THIRD GENTLEMAN"/>
+<node id="GENTLEMAN"/>
+<node id="SECOND GENTLEMAN"/>
+<node id="SENATOR"/>
+<node id="FIRST MUSICIAN"/>
+<node id="FOURTH GENTLEMAN"/>
+<node id="FIRST SENATOR"/>
+<edge source="IAGO" target="FIRST SENATOR">
+  <data key="d4">1</data>
 </edge>
 <edge source="IAGO" target="DUKE OF VENICE">
   <data key="d4">1</data>
 </edge>
-<edge source="IAGO" target="Gentleman">
+<edge source="IAGO" target="THIRD GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="IAGO" target="Messenger">
+<edge source="IAGO" target="SECOND GENTLEMEN">
   <data key="d4">1</data>
 </edge>
-<edge source="IAGO" target="First Gentleman">
+<edge source="IAGO" target="FIRST GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="IAGO" target="BIANCA">
-  <data key="d4">3</data>
-</edge>
-<edge source="IAGO" target="LODOVICO">
-  <data key="d4">3</data>
-</edge>
-<edge source="IAGO" target="EMILIA">
-  <data key="d4">7</data>
-</edge>
-<edge source="IAGO" target="Second Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="IAGO" target="First Senator">
+<edge source="IAGO" target="GENTLEMAN">
   <data key="d4">1</data>
 </edge>
 <edge source="IAGO" target="BRABANTIO">
   <data key="d4">3</data>
 </edge>
-<edge source="IAGO" target="First Officer">
-  <data key="d4">2</data>
-</edge>
-<edge source="IAGO" target="All">
-  <data key="d4">2</data>
-</edge>
-<edge source="IAGO" target="OTHELLO">
-  <data key="d4">11</data>
-</edge>
-<edge source="IAGO" target="Sailor">
-  <data key="d4">1</data>
-</edge>
-<edge source="IAGO" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="IAGO" target="Second Gentlemen">
-  <data key="d4">1</data>
-</edge>
-<edge source="IAGO" target="First Musician">
-  <data key="d4">1</data>
-</edge>
-<edge source="IAGO" target="CASSIO">
-  <data key="d4">9</data>
-</edge>
-<edge source="IAGO" target="Clown">
-  <data key="d4">2</data>
-</edge>
-<edge source="IAGO" target="DESDEMONA">
-  <data key="d4">8</data>
-</edge>
-<edge source="IAGO" target="GRATIANO">
-  <data key="d4">2</data>
-</edge>
-<edge source="IAGO" target="Senator">
+<edge source="IAGO" target="FIRST MUSICIAN">
   <data key="d4">1</data>
 </edge>
 <edge source="IAGO" target="RODERIGO">
   <data key="d4">7</data>
 </edge>
-<edge source="IAGO" target="Fourth Gentleman">
-  <data key="d4">1</data>
+<edge source="IAGO" target="CLOWN">
+  <data key="d4">2</data>
 </edge>
-<edge source="IAGO" target="Third Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="CASSIO" target="MONTANO">
+<edge source="IAGO" target="LODOVICO">
   <data key="d4">3</data>
 </edge>
-<edge source="CASSIO" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="CASSIO" target="BIANCA">
+<edge source="IAGO" target="MONTANO">
   <data key="d4">3</data>
 </edge>
-<edge source="CASSIO" target="LODOVICO">
-  <data key="d4">3</data>
-</edge>
-<edge source="CASSIO" target="EMILIA">
-  <data key="d4">6</data>
-</edge>
-<edge source="CASSIO" target="Second Gentleman">
+<edge source="IAGO" target="SENATOR">
   <data key="d4">1</data>
 </edge>
-<edge source="CASSIO" target="BRABANTIO">
+<edge source="IAGO" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="CASSIO" target="First Officer">
+<edge source="IAGO" target="SECOND GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="CASSIO" target="All">
-  <data key="d4">2</data>
-</edge>
-<edge source="CASSIO" target="OTHELLO">
-  <data key="d4">8</data>
-</edge>
-<edge source="CASSIO" target="Second Gentlemen">
-  <data key="d4">1</data>
-</edge>
-<edge source="CASSIO" target="First Musician">
-  <data key="d4">1</data>
-</edge>
-<edge source="CASSIO" target="Clown">
-  <data key="d4">2</data>
-</edge>
-<edge source="CASSIO" target="DESDEMONA">
-  <data key="d4">6</data>
-</edge>
-<edge source="CASSIO" target="GRATIANO">
-  <data key="d4">2</data>
-</edge>
-<edge source="CASSIO" target="Fourth Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="CASSIO" target="RODERIGO">
-  <data key="d4">4</data>
-</edge>
-<edge source="CASSIO" target="Third Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="EMILIA" target="MONTANO">
-  <data key="d4">2</data>
-</edge>
-<edge source="EMILIA" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="EMILIA" target="LODOVICO">
-  <data key="d4">3</data>
-</edge>
-<edge source="EMILIA" target="BIANCA">
-  <data key="d4">2</data>
-</edge>
-<edge source="EMILIA" target="Second Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="EMILIA" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="EMILIA" target="OTHELLO">
+<edge source="IAGO" target="EMILIA">
   <data key="d4">7</data>
 </edge>
-<edge source="EMILIA" target="Second Gentlemen">
+<edge source="IAGO" target="SAILOR">
   <data key="d4">1</data>
 </edge>
-<edge source="EMILIA" target="First Musician">
+<edge source="IAGO" target="FOURTH GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="EMILIA" target="Clown">
-  <data key="d4">2</data>
+<edge source="IAGO" target="DESDEMONA">
+  <data key="d4">8</data>
 </edge>
-<edge source="EMILIA" target="DESDEMONA">
-  <data key="d4">6</data>
-</edge>
-<edge source="EMILIA" target="GRATIANO">
-  <data key="d4">2</data>
-</edge>
-<edge source="EMILIA" target="Fourth Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="EMILIA" target="RODERIGO">
+<edge source="IAGO" target="BIANCA">
   <data key="d4">3</data>
 </edge>
-<edge source="EMILIA" target="Third Gentleman">
+<edge source="IAGO" target="OTHELLO">
+  <data key="d4">11</data>
+</edge>
+<edge source="IAGO" target="ALL">
+  <data key="d4">2</data>
+</edge>
+<edge source="IAGO" target="FIRST OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="IAGO" target="GRATIANO">
+  <data key="d4">2</data>
+</edge>
+<edge source="IAGO" target="CASSIO">
+  <data key="d4">9</data>
+</edge>
+<edge source="IAGO" target="SECOND SENATOR">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Gentleman" target="MONTANO">
+<edge source="OTHELLO" target="FIRST SENATOR">
   <data key="d4">1</data>
-</edge>
-<edge source="Second Gentleman" target="OTHELLO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gentleman" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gentleman" target="Second Gentlemen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gentleman" target="DESDEMONA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gentleman" target="Fourth Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gentleman" target="RODERIGO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Gentleman" target="Third Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="OTHELLO" target="MONTANO">
-  <data key="d4">3</data>
 </edge>
 <edge source="OTHELLO" target="DUKE OF VENICE">
   <data key="d4">1</data>
 </edge>
-<edge source="OTHELLO" target="Gentleman">
+<edge source="OTHELLO" target="THIRD GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="OTHELLO" target="Messenger">
+<edge source="OTHELLO" target="SECOND GENTLEMEN">
   <data key="d4">1</data>
 </edge>
-<edge source="OTHELLO" target="First Gentleman">
+<edge source="OTHELLO" target="FIRST GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="OTHELLO" target="BIANCA">
-  <data key="d4">3</data>
-</edge>
-<edge source="OTHELLO" target="LODOVICO">
-  <data key="d4">4</data>
-</edge>
-<edge source="OTHELLO" target="First Senator">
+<edge source="OTHELLO" target="GENTLEMAN">
   <data key="d4">1</data>
 </edge>
 <edge source="OTHELLO" target="BRABANTIO">
   <data key="d4">2</data>
 </edge>
-<edge source="OTHELLO" target="First Officer">
-  <data key="d4">2</data>
-</edge>
-<edge source="OTHELLO" target="All">
-  <data key="d4">2</data>
-</edge>
-<edge source="OTHELLO" target="Sailor">
-  <data key="d4">1</data>
-</edge>
-<edge source="OTHELLO" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="OTHELLO" target="Second Gentlemen">
-  <data key="d4">1</data>
-</edge>
-<edge source="OTHELLO" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="OTHELLO" target="DESDEMONA">
-  <data key="d4">9</data>
-</edge>
-<edge source="OTHELLO" target="GRATIANO">
-  <data key="d4">2</data>
-</edge>
-<edge source="OTHELLO" target="Senator">
+<edge source="OTHELLO" target="CLOWN">
   <data key="d4">1</data>
 </edge>
 <edge source="OTHELLO" target="RODERIGO">
   <data key="d4">6</data>
 </edge>
-<edge source="OTHELLO" target="Fourth Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="OTHELLO" target="Third Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Senator" target="DUKE OF VENICE">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Senator" target="Sailor">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Senator" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Senator" target="RODERIGO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Senator" target="DESDEMONA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Senator" target="Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Senator" target="BRABANTIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Senator" target="First Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Senator" target="First Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="MONTANO">
-  <data key="d4">3</data>
-</edge>
-<edge source="DESDEMONA" target="DUKE OF VENICE">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="BIANCA">
-  <data key="d4">2</data>
-</edge>
-<edge source="DESDEMONA" target="LODOVICO">
-  <data key="d4">3</data>
-</edge>
-<edge source="DESDEMONA" target="First Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="BRABANTIO">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="First Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="All">
-  <data key="d4">2</data>
-</edge>
-<edge source="DESDEMONA" target="Sailor">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="Second Gentlemen">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="GRATIANO">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="DESDEMONA" target="RODERIGO">
+<edge source="OTHELLO" target="LODOVICO">
   <data key="d4">4</data>
 </edge>
-<edge source="DESDEMONA" target="Fourth Gentleman">
+<edge source="OTHELLO" target="MONTANO">
+  <data key="d4">3</data>
+</edge>
+<edge source="OTHELLO" target="SENATOR">
   <data key="d4">1</data>
 </edge>
-<edge source="DESDEMONA" target="Third Gentleman">
+<edge source="OTHELLO" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="LODOVICO" target="MONTANO">
+<edge source="OTHELLO" target="SECOND GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="LODOVICO" target="All">
+<edge source="OTHELLO" target="EMILIA">
+  <data key="d4">7</data>
+</edge>
+<edge source="OTHELLO" target="SAILOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="OTHELLO" target="FOURTH GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="OTHELLO" target="DESDEMONA">
+  <data key="d4">9</data>
+</edge>
+<edge source="OTHELLO" target="BIANCA">
+  <data key="d4">3</data>
+</edge>
+<edge source="OTHELLO" target="ALL">
+  <data key="d4">2</data>
+</edge>
+<edge source="OTHELLO" target="FIRST OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="OTHELLO" target="GRATIANO">
+  <data key="d4">2</data>
+</edge>
+<edge source="OTHELLO" target="CASSIO">
+  <data key="d4">8</data>
+</edge>
+<edge source="OTHELLO" target="SECOND SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GENTLEMAN" target="THIRD GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GENTLEMAN" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GENTLEMAN" target="EMILIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GENTLEMAN" target="FOURTH GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GENTLEMAN" target="DESDEMONA">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GENTLEMAN" target="RODERIGO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GENTLEMAN" target="MONTANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GENTLEMAN" target="CASSIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST GENTLEMAN" target="SECOND GENTLEMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIO" target="THIRD GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIO" target="BRABANTIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIO" target="FIRST MUSICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIO" target="RODERIGO">
+  <data key="d4">4</data>
+</edge>
+<edge source="CASSIO" target="CLOWN">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASSIO" target="LODOVICO">
+  <data key="d4">3</data>
+</edge>
+<edge source="CASSIO" target="MONTANO">
+  <data key="d4">3</data>
+</edge>
+<edge source="CASSIO" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIO" target="EMILIA">
+  <data key="d4">6</data>
+</edge>
+<edge source="CASSIO" target="FOURTH GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIO" target="DESDEMONA">
+  <data key="d4">6</data>
+</edge>
+<edge source="CASSIO" target="BIANCA">
+  <data key="d4">3</data>
+</edge>
+<edge source="CASSIO" target="ALL">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASSIO" target="GRATIANO">
+  <data key="d4">2</data>
+</edge>
+<edge source="CASSIO" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CASSIO" target="SECOND GENTLEMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="EMILIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="CLOWN" target="DESDEMONA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="BIANCA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLOWN" target="FIRST MUSICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="FIRST SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="DUKE OF VENICE">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="THIRD GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="SECOND GENTLEMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="BRABANTIO">
+  <data key="d4">3</data>
+</edge>
+<edge source="RODERIGO" target="LODOVICO">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="MONTANO">
+  <data key="d4">2</data>
+</edge>
+<edge source="RODERIGO" target="SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="EMILIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="RODERIGO" target="SAILOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="FOURTH GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="DESDEMONA">
+  <data key="d4">4</data>
+</edge>
+<edge source="RODERIGO" target="BIANCA">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="FIRST OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="RODERIGO" target="GRATIANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="RODERIGO" target="SECOND SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="MONTANO" target="THIRD GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MONTANO" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MONTANO" target="EMILIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="MONTANO" target="FOURTH GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MONTANO" target="ALL">
+  <data key="d4">2</data>
+</edge>
+<edge source="MONTANO" target="DESDEMONA">
+  <data key="d4">3</data>
+</edge>
+<edge source="MONTANO" target="GRATIANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MONTANO" target="LODOVICO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MONTANO" target="SECOND GENTLEMEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="LODOVICO" target="EMILIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="LODOVICO" target="ALL">
   <data key="d4">1</data>
 </edge>
 <edge source="LODOVICO" target="BIANCA">
@@ -393,163 +369,187 @@
 <edge source="LODOVICO" target="GRATIANO">
   <data key="d4">2</data>
 </edge>
-<edge source="LODOVICO" target="RODERIGO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="BIANCA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Clown" target="First Musician">
-  <data key="d4">1</data>
-</edge>
-<edge source="MONTANO" target="All">
-  <data key="d4">2</data>
-</edge>
-<edge source="MONTANO" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="MONTANO" target="Second Gentlemen">
-  <data key="d4">1</data>
-</edge>
-<edge source="MONTANO" target="GRATIANO">
-  <data key="d4">1</data>
-</edge>
-<edge source="MONTANO" target="RODERIGO">
-  <data key="d4">2</data>
-</edge>
-<edge source="MONTANO" target="Fourth Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="MONTANO" target="Third Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Gentleman" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Gentleman" target="Second Gentlemen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Gentleman" target="Fourth Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Gentleman" target="RODERIGO">
-  <data key="d4">1</data>
-</edge>
-<edge source="RODERIGO" target="DUKE OF VENICE">
-  <data key="d4">1</data>
-</edge>
-<edge source="RODERIGO" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="RODERIGO" target="First Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="RODERIGO" target="BIANCA">
-  <data key="d4">1</data>
-</edge>
-<edge source="RODERIGO" target="First Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="RODERIGO" target="BRABANTIO">
+<edge source="LODOVICO" target="DESDEMONA">
   <data key="d4">3</data>
 </edge>
-<edge source="RODERIGO" target="First Officer">
+<edge source="SECOND SENATOR" target="FIRST SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="DUKE OF VENICE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="SAILOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="BRABANTIO">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="DESDEMONA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="EMILIA" target="THIRD GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="EMILIA" target="FIRST MUSICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="EMILIA" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="EMILIA" target="FOURTH GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="EMILIA" target="DESDEMONA">
+  <data key="d4">6</data>
+</edge>
+<edge source="EMILIA" target="BIANCA">
   <data key="d4">2</data>
 </edge>
-<edge source="RODERIGO" target="All">
+<edge source="EMILIA" target="ALL">
   <data key="d4">1</data>
 </edge>
-<edge source="RODERIGO" target="Sailor">
+<edge source="EMILIA" target="GRATIANO">
+  <data key="d4">2</data>
+</edge>
+<edge source="EMILIA" target="SECOND GENTLEMEN">
   <data key="d4">1</data>
 </edge>
-<edge source="RODERIGO" target="Second Gentlemen">
-  <data key="d4">1</data>
-</edge>
-<edge source="RODERIGO" target="GRATIANO">
-  <data key="d4">1</data>
-</edge>
-<edge source="RODERIGO" target="Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="RODERIGO" target="Fourth Gentleman">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Gentleman" target="Second Gentlemen">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Gentleman" target="Fourth Gentleman">
-  <data key="d4">1</data>
+<edge source="BIANCA" target="DESDEMONA">
+  <data key="d4">2</data>
 </edge>
 <edge source="BIANCA" target="GRATIANO">
   <data key="d4">1</data>
 </edge>
-<edge source="Fourth Gentleman" target="Second Gentlemen">
+<edge source="DESDEMONA" target="FIRST SENATOR">
   <data key="d4">1</data>
 </edge>
-<edge source="First Officer" target="DUKE OF VENICE">
+<edge source="DESDEMONA" target="DUKE OF VENICE">
   <data key="d4">1</data>
 </edge>
-<edge source="First Officer" target="Sailor">
+<edge source="DESDEMONA" target="THIRD GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Officer" target="Messenger">
+<edge source="DESDEMONA" target="SECOND GENTLEMEN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Officer" target="Senator">
+<edge source="DESDEMONA" target="BRABANTIO">
   <data key="d4">1</data>
 </edge>
-<edge source="First Officer" target="First Senator">
+<edge source="DESDEMONA" target="SENATOR">
   <data key="d4">1</data>
 </edge>
-<edge source="First Officer" target="BRABANTIO">
+<edge source="DESDEMONA" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="DESDEMONA" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="DESDEMONA" target="SAILOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="DESDEMONA" target="FOURTH GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="DESDEMONA" target="ALL">
   <data key="d4">2</data>
+</edge>
+<edge source="DESDEMONA" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="DESDEMONA" target="GRATIANO">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRABANTIO" target="FIRST SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRABANTIO" target="SENATOR">
+  <data key="d4">1</data>
 </edge>
 <edge source="BRABANTIO" target="DUKE OF VENICE">
   <data key="d4">1</data>
 </edge>
-<edge source="BRABANTIO" target="Sailor">
+<edge source="BRABANTIO" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="BRABANTIO" target="Messenger">
+<edge source="BRABANTIO" target="SAILOR">
   <data key="d4">1</data>
 </edge>
-<edge source="BRABANTIO" target="Senator">
+<edge source="BRABANTIO" target="FIRST OFFICER">
+  <data key="d4">2</data>
+</edge>
+<edge source="GRATIANO" target="ALL">
   <data key="d4">1</data>
 </edge>
-<edge source="BRABANTIO" target="First Senator">
+<edge source="SAILOR" target="FIRST SENATOR">
   <data key="d4">1</data>
 </edge>
-<edge source="All" target="GRATIANO">
+<edge source="SAILOR" target="SENATOR">
   <data key="d4">1</data>
 </edge>
-<edge source="DUKE OF VENICE" target="Sailor">
+<edge source="SAILOR" target="DUKE OF VENICE">
   <data key="d4">1</data>
 </edge>
-<edge source="DUKE OF VENICE" target="Messenger">
+<edge source="SAILOR" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="DUKE OF VENICE" target="Senator">
+<edge source="SAILOR" target="FIRST OFFICER">
   <data key="d4">1</data>
 </edge>
-<edge source="DUKE OF VENICE" target="First Senator">
+<edge source="DUKE OF VENICE" target="FIRST SENATOR">
   <data key="d4">1</data>
 </edge>
-<edge source="Sailor" target="Messenger">
+<edge source="DUKE OF VENICE" target="SENATOR">
   <data key="d4">1</data>
 </edge>
-<edge source="Sailor" target="Senator">
+<edge source="DUKE OF VENICE" target="MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="Sailor" target="First Senator">
+<edge source="DUKE OF VENICE" target="FIRST OFFICER">
   <data key="d4">1</data>
 </edge>
-<edge source="First Senator" target="Messenger">
+<edge source="SECOND GENTLEMEN" target="THIRD GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Senator" target="Senator">
+<edge source="SECOND GENTLEMEN" target="SECOND GENTLEMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Messenger" target="Senator">
+<edge source="SECOND GENTLEMEN" target="FOURTH GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="FIRST SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST OFFICER" target="FIRST SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST OFFICER" target="SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD GENTLEMAN" target="SECOND GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD GENTLEMAN" target="FOURTH GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GENTLEMAN" target="FOURTH GENTLEMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SENATOR" target="FIRST SENATOR">
   <data key="d4">1</data>
 </edge>
 </graph></graphml>

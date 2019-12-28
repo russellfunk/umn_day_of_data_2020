@@ -8,263 +8,1256 @@
 <data key="d1">Coriolanus</data>
 <data key="d2">coriolanus</data>
 <data key="d3">tragedy</data>
-<node id="First Senator"/>
-<node id="SICINIUS"/>
-<node id="MARCIUS"/>
-<node id="CORIOLANUS"/>
-<node id="AEdile"/>
-<node id="COMINIUS"/>
-<node id="TITUS"/>
-<node id="Second Roman"/>
-<node id="VOLUMNIA"/>
-<node id="Officer"/>
-<node id="Both Citizens"/>
-<node id="Second Messenger"/>
-<node id="First Conspirator"/>
-<node id="AUFIDIUS"/>
-<node id="Both Tribunes"/>
-<node id="First Citizen"/>
-<node id="Citizens"/>
-<node id="Second Officer"/>
-<node id="Citizen"/>
-<node id="BRUTUS"/>
-<node id="VIRGILIA"/>
-<node id="All"/>
-<node id="All The People"/>
-<node id="Third Roman"/>
-<node id="Second Lord"/>
-<node id="A Patrician"/>
-<node id="First Servingman"/>
-<node id="Third Lord"/>
+<node id="CITIZENS"/>
+<node id="SECOND SOLDIER"/>
+<node id="FIRST SERVINGMAN"/>
+<node id="VOLSCE"/>
+<node id="THIRD ROMAN"/>
+<node id="SECOND SENATOR"/>
 <node id="MENENIUS"/>
-<node id="Lieutenant"/>
-<node id="Messenger"/>
-<node id="Gentlewoman"/>
-<node id="LARTIUS"/>
-<node id="Second Soldier"/>
-<node id="Third Conspirator"/>
-<node id="Volsce"/>
-<node id="First Soldier"/>
-<node id="Third Servingman"/>
-<node id="Both"/>
-<node id="Third Citizen"/>
-<node id="First Officer"/>
-<node id="Second Citizen"/>
-<node id="First Roman"/>
+<node id="ALL CONSPIRATORS"/>
+<node id="AUFIDIUS"/>
+<node id="SECOND PATRICIAN"/>
+<node id="ALL THE LORDS"/>
+<node id="COMINIUS"/>
+<node id="ALL"/>
+<node id="SECOND LORD"/>
 <node id="VALERIA"/>
-<node id="Second Senator"/>
-<node id="Roman"/>
-<node id="Sixth Citizen"/>
-<node id="Fourth Citizen"/>
-<node id="Senators"/>
-<node id="Young MARCIUS"/>
-<node id="Seventh Citizen"/>
-<node id="First Lord"/>
-<node id="Fifth Citizen"/>
-<node id="All The Lords"/>
-<node id="All Citizens"/>
-<node id="Second Patrician"/>
-<node id="Herald"/>
-<node id="All Conspirators"/>
-<node id="Second Servingman"/>
-<node id="Second Conspirator"/>
-<node id="Lords"/>
-<edge source="First Senator" target="Second Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Senator" target="First Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Senator" target="AUFIDIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Senator" target="Messenger">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Senator" target="COMINIUS">
-  <data key="d4">5</data>
-</edge>
-<edge source="First Senator" target="BRUTUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="First Senator" target="LARTIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Senator" target="TITUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Senator" target="AEdile">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Senator" target="First Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Senator" target="Senators">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Senator" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Senator" target="All">
-  <data key="d4">4</data>
-</edge>
-<edge source="First Senator" target="First Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Senator" target="A Patrician">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Senator" target="SICINIUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="First Senator" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Senator" target="Second Senator">
+<node id="SICINIUS"/>
+<node id="FIRST CITIZEN"/>
+<node id="CORIOLANUS"/>
+<node id="SECOND MESSENGER"/>
+<node id="FIRST SENATOR"/>
+<node id="LORDS"/>
+<node id="THIRD CONSPIRATOR"/>
+<node id="AEDILE"/>
+<node id="FIRST OFFICER"/>
+<node id="MESSENGER"/>
+<node id="FIRST LORD"/>
+<node id="BOTH TRIBUNES"/>
+<node id="VIRGILIA"/>
+<node id="THIRD LORD"/>
+<node id="VOLUMNIA"/>
+<node id="OFFICER"/>
+<node id="YOUNG MARCIUS"/>
+<node id="FIRST CONSPIRATOR"/>
+<node id="BRUTUS"/>
+<node id="THIRD CITIZEN"/>
+<node id="FIFTH CITIZEN"/>
+<node id="GENTLEWOMAN"/>
+<node id="ROMAN"/>
+<node id="MARCIUS"/>
+<node id="FIRST ROMAN"/>
+<node id="LARTIUS"/>
+<node id="TITUS"/>
+<node id="ALL THE PEOPLE"/>
+<node id="SECOND SERVINGMAN"/>
+<node id="ALL CITIZENS"/>
+<node id="A PATRICIAN"/>
+<node id="BOTH CITIZENS"/>
+<node id="SECOND CITIZEN"/>
+<node id="LIEUTENANT"/>
+<node id="SECOND ROMAN"/>
+<node id="BOTH"/>
+<node id="SECOND OFFICER"/>
+<node id="FIRST SOLDIER"/>
+<node id="HERALD"/>
+<node id="SIXTH CITIZEN"/>
+<node id="SECOND CONSPIRATOR"/>
+<node id="FOURTH CITIZEN"/>
+<node id="SENATORS"/>
+<node id="SEVENTH CITIZEN"/>
+<node id="CITIZEN"/>
+<node id="THIRD SERVINGMAN"/>
+<edge source="CITIZENS" target="CORIOLANUS">
   <data key="d4">3</data>
 </edge>
-<edge source="First Senator" target="VOLUMNIA">
+<edge source="CITIZENS" target="FIRST SENATOR">
+  <data key="d4">2</data>
+</edge>
+<edge source="CITIZENS" target="SIXTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Senator" target="MENENIUS">
+<edge source="CITIZENS" target="BRUTUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="CITIZENS" target="SICINIUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="CITIZENS" target="FIFTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="FOURTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="ALL CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="FIRST CITIZEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="CITIZENS" target="LARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="SECOND PATRICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="SEVENTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="SECOND CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="CITIZENS" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="A PATRICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="MENENIUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="CITIZENS" target="BOTH CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="COMINIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="CITIZENS" target="SECOND MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="AEDILE">
+  <data key="d4">3</data>
+</edge>
+<edge source="CITIZENS" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="CITIZENS" target="THIRD CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="CITIZENS" target="BOTH TRIBUNES">
+  <data key="d4">2</data>
+</edge>
+<edge source="CITIZENS" target="SECOND SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SOLDIER" target="FIRST SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SOLDIER" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SOLDIER" target="FIRST SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SOLDIER" target="MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SOLDIER" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SOLDIER" target="LARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SERVINGMAN" target="CORIOLANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SERVINGMAN" target="SECOND SERVINGMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SERVINGMAN" target="AUFIDIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SERVINGMAN" target="THIRD SERVINGMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SERVINGMAN" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLSCE" target="ROMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD ROMAN" target="MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD ROMAN" target="SECOND ROMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD ROMAN" target="FIRST ROMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD ROMAN" target="LARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="FIRST SENATOR">
+  <data key="d4">3</data>
+</edge>
+<edge source="SECOND SENATOR" target="CORIOLANUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="SECOND SENATOR" target="AUFIDIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="SECOND SENATOR" target="A PATRICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="BRUTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="MENENIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="SECOND SENATOR" target="SICINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="COMINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="FIRST CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="AEDILE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="LARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SENATOR" target="SECOND PATRICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="CORIOLANUS">
+  <data key="d4">8</data>
+</edge>
+<edge source="MENENIUS" target="BRUTUS">
+  <data key="d4">9</data>
+</edge>
+<edge source="MENENIUS" target="SICINIUS">
+  <data key="d4">10</data>
+</edge>
+<edge source="MENENIUS" target="FIFTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="VOLUMNIA">
+  <data key="d4">4</data>
+</edge>
+<edge source="MENENIUS" target="ALL CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="HERALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="SECOND PATRICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="SEVENTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="SECOND CITIZEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="MENENIUS" target="TITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="VALERIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="BOTH CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="COMINIUS">
+  <data key="d4">9</data>
+</edge>
+<edge source="MENENIUS" target="SECOND MESSENGER">
+  <data key="d4">2</data>
+</edge>
+<edge source="MENENIUS" target="AEDILE">
+  <data key="d4">3</data>
+</edge>
+<edge source="MENENIUS" target="ALL">
+  <data key="d4">3</data>
+</edge>
+<edge source="MENENIUS" target="THIRD CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="MENENIUS" target="BOTH TRIBUNES">
+  <data key="d4">2</data>
+</edge>
+<edge source="MENENIUS" target="FIRST SENATOR">
   <data key="d4">6</data>
 </edge>
-<edge source="First Senator" target="Second Citizen">
+<edge source="MENENIUS" target="SIXTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Senator" target="Both Tribunes">
+<edge source="MENENIUS" target="AUFIDIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="First Senator" target="CORIOLANUS">
+<edge source="MENENIUS" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="VIRGILIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="MENENIUS" target="MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="FOURTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="FIRST CITIZEN">
+  <data key="d4">4</data>
+</edge>
+<edge source="MENENIUS" target="LARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="MESSENGER">
+  <data key="d4">4</data>
+</edge>
+<edge source="MENENIUS" target="A PATRICIAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="MENENIUS" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENENIUS" target="SENATORS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="CORIOLANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="ALL THE PEOPLE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="FIRST LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="SECOND LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="AUFIDIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="FIRST CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="ALL THE LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="THIRD CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="SECOND CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL CONSPIRATORS" target="THIRD LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="CORIOLANUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="AUFIDIUS" target="FIRST SENATOR">
+  <data key="d4">2</data>
+</edge>
+<edge source="AUFIDIUS" target="FIRST SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="VIRGILIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="THIRD CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="SECOND CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="VOLUMNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="ALL THE PEOPLE">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="FIRST LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="SECOND SERVINGMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="SECOND LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="THIRD SERVINGMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="FIRST CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="ALL THE LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="YOUNG MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="ALL">
+  <data key="d4">2</data>
+</edge>
+<edge source="AUFIDIUS" target="LIEUTENANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="AUFIDIUS" target="THIRD LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND PATRICIAN" target="FIRST SENATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND PATRICIAN" target="CORIOLANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND PATRICIAN" target="A PATRICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND PATRICIAN" target="BRUTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND PATRICIAN" target="SICINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND PATRICIAN" target="COMINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND PATRICIAN" target="AEDILE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND PATRICIAN" target="FIRST CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND PATRICIAN" target="LARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL THE LORDS" target="CORIOLANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL THE LORDS" target="ALL THE PEOPLE">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL THE LORDS" target="FIRST LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL THE LORDS" target="SECOND LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL THE LORDS" target="FIRST CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL THE LORDS" target="THIRD CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL THE LORDS" target="SECOND CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL THE LORDS" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL THE LORDS" target="THIRD LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="COMINIUS" target="CORIOLANUS">
+  <data key="d4">7</data>
+</edge>
+<edge source="COMINIUS" target="FIRST SENATOR">
   <data key="d4">5</data>
 </edge>
-<edge source="First Senator" target="Second Soldier">
+<edge source="COMINIUS" target="BOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="First Senator" target="MARCIUS">
+<edge source="COMINIUS" target="BRUTUS">
+  <data key="d4">7</data>
+</edge>
+<edge source="COMINIUS" target="VIRGILIA">
   <data key="d4">2</data>
 </edge>
-<edge source="First Senator" target="Citizens">
+<edge source="COMINIUS" target="SICINIUS">
+  <data key="d4">7</data>
+</edge>
+<edge source="COMINIUS" target="MARCIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="COMINIUS" target="VOLUMNIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="COMINIUS" target="LARTIUS">
   <data key="d4">2</data>
 </edge>
-<edge source="SICINIUS" target="Sixth Citizen">
+<edge source="COMINIUS" target="FIRST CITIZEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="COMINIUS" target="HERALD">
   <data key="d4">1</data>
 </edge>
-<edge source="SICINIUS" target="Messenger">
+<edge source="COMINIUS" target="SECOND CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="COMINIUS" target="TITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="COMINIUS" target="MESSENGER">
   <data key="d4">4</data>
+</edge>
+<edge source="COMINIUS" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="COMINIUS" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="COMINIUS" target="VALERIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="COMINIUS" target="A PATRICIAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="COMINIUS" target="SECOND MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="COMINIUS" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="COMINIUS" target="AEDILE">
+  <data key="d4">3</data>
+</edge>
+<edge source="COMINIUS" target="ALL">
+  <data key="d4">3</data>
+</edge>
+<edge source="COMINIUS" target="THIRD CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="COMINIUS" target="SENATORS">
+  <data key="d4">1</data>
+</edge>
+<edge source="COMINIUS" target="BOTH TRIBUNES">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="CORIOLANUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="ALL" target="BRUTUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="ALL" target="FIRST SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SICINIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="ALL" target="FIFTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="VOLUMNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="ALL CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="HERALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SEVENTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="TITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SECOND CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="SECOND SERVINGMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="VALERIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="THIRD SERVINGMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="BOTH CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="THIRD CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="FIRST SENATOR">
+  <data key="d4">4</data>
+</edge>
+<edge source="ALL" target="SIXTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="VIRGILIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="MARCIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="ALL" target="FOURTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="LARTIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="FIRST CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="MESSENGER">
+  <data key="d4">3</data>
+</edge>
+<edge source="SECOND LORD" target="CORIOLANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="ALL THE PEOPLE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="FIRST LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="FIRST CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="THIRD CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="SECOND CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND LORD" target="THIRD LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALERIA" target="CORIOLANUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALERIA" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALERIA" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALERIA" target="BRUTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALERIA" target="VIRGILIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="VALERIA" target="SICINIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALERIA" target="VOLUMNIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="VALERIA" target="HERALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="VALERIA" target="GENTLEWOMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICINIUS" target="CORIOLANUS">
+  <data key="d4">5</data>
 </edge>
 <edge source="SICINIUS" target="BRUTUS">
   <data key="d4">9</data>
 </edge>
-<edge source="SICINIUS" target="Third Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="SICINIUS" target="Seventh Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="SICINIUS" target="All Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="SICINIUS" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="SICINIUS" target="A Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="SICINIUS" target="Second Senator">
+<edge source="SICINIUS" target="FIFTH CITIZEN">
   <data key="d4">1</data>
 </edge>
 <edge source="SICINIUS" target="VOLUMNIA">
   <data key="d4">2</data>
 </edge>
-<edge source="SICINIUS" target="MENENIUS">
-  <data key="d4">10</data>
+<edge source="SICINIUS" target="ALL CITIZENS">
+  <data key="d4">1</data>
 </edge>
-<edge source="SICINIUS" target="Second Citizen">
+<edge source="SICINIUS" target="HERALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICINIUS" target="SEVENTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICINIUS" target="SECOND CITIZEN">
   <data key="d4">3</data>
-</edge>
-<edge source="SICINIUS" target="VIRGILIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="SICINIUS" target="Both Tribunes">
-  <data key="d4">2</data>
-</edge>
-<edge source="SICINIUS" target="CORIOLANUS">
-  <data key="d4">5</data>
-</edge>
-<edge source="SICINIUS" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="SICINIUS" target="MARCIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="SICINIUS" target="Citizens">
-  <data key="d4">4</data>
-</edge>
-<edge source="SICINIUS" target="VALERIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="SICINIUS" target="Second Messenger">
-  <data key="d4">2</data>
-</edge>
-<edge source="SICINIUS" target="Fifth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="SICINIUS" target="First Citizen">
-  <data key="d4">4</data>
-</edge>
-<edge source="SICINIUS" target="Second Patrician">
-  <data key="d4">1</data>
 </edge>
 <edge source="SICINIUS" target="TITUS">
   <data key="d4">1</data>
 </edge>
-<edge source="SICINIUS" target="AEdile">
+<edge source="SICINIUS" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICINIUS" target="BOTH CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICINIUS" target="SECOND MESSENGER">
+  <data key="d4">2</data>
+</edge>
+<edge source="SICINIUS" target="AEDILE">
   <data key="d4">3</data>
 </edge>
-<edge source="SICINIUS" target="Fourth Citizen">
+<edge source="SICINIUS" target="THIRD CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="SICINIUS" target="BOTH TRIBUNES">
+  <data key="d4">2</data>
+</edge>
+<edge source="SICINIUS" target="FIRST SENATOR">
+  <data key="d4">4</data>
+</edge>
+<edge source="SICINIUS" target="SIXTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="SICINIUS" target="Both Citizens">
+<edge source="SICINIUS" target="BOTH">
   <data key="d4">1</data>
 </edge>
-<edge source="SICINIUS" target="First Officer">
+<edge source="SICINIUS" target="VIRGILIA">
+  <data key="d4">2</data>
+</edge>
+<edge source="SICINIUS" target="MARCIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="SICINIUS" target="Both">
+<edge source="SICINIUS" target="FOURTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="SICINIUS" target="Senators">
+<edge source="SICINIUS" target="FIRST CITIZEN">
+  <data key="d4">4</data>
+</edge>
+<edge source="SICINIUS" target="LARTIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="SICINIUS" target="All">
+<edge source="SICINIUS" target="MESSENGER">
+  <data key="d4">4</data>
+</edge>
+<edge source="SICINIUS" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICINIUS" target="A PATRICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICINIUS" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SICINIUS" target="SENATORS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CITIZEN" target="CORIOLANUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST CITIZEN" target="FIRST SENATOR">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST CITIZEN" target="SIXTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CITIZEN" target="BRUTUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="FIRST CITIZEN" target="FIFTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CITIZEN" target="MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CITIZEN" target="FOURTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CITIZEN" target="ALL CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CITIZEN" target="LARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CITIZEN" target="SEVENTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CITIZEN" target="SECOND CITIZEN">
   <data key="d4">3</data>
 </edge>
-<edge source="SICINIUS" target="Herald">
+<edge source="FIRST CITIZEN" target="TITUS">
   <data key="d4">1</data>
 </edge>
-<edge source="SICINIUS" target="Second Officer">
+<edge source="FIRST CITIZEN" target="MESSENGER">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST CITIZEN" target="A PATRICIAN">
   <data key="d4">1</data>
 </edge>
-<edge source="SICINIUS" target="COMINIUS">
-  <data key="d4">7</data>
-</edge>
-<edge source="MARCIUS" target="Third Roman">
+<edge source="FIRST CITIZEN" target="BOTH CITIZENS">
   <data key="d4">1</data>
 </edge>
-<edge source="MARCIUS" target="First Citizen">
+<edge source="FIRST CITIZEN" target="SECOND MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="MARCIUS" target="AUFIDIUS">
+<edge source="FIRST CITIZEN" target="AEDILE">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST CITIZEN" target="THIRD CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST CITIZEN" target="BOTH TRIBUNES">
   <data key="d4">1</data>
 </edge>
-<edge source="MARCIUS" target="Messenger">
+<edge source="CORIOLANUS" target="BRUTUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="CORIOLANUS" target="FIFTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="VOLUMNIA">
+  <data key="d4">4</data>
+</edge>
+<edge source="CORIOLANUS" target="ALL CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="LORDS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="HERALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="SEVENTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="ALL THE PEOPLE">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="SECOND CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="SECOND SERVINGMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="THIRD SERVINGMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="BOTH CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="AEDILE">
+  <data key="d4">2</data>
+</edge>
+<edge source="CORIOLANUS" target="THIRD CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="THIRD LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="BOTH TRIBUNES">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="FIRST SENATOR">
+  <data key="d4">5</data>
+</edge>
+<edge source="CORIOLANUS" target="SIXTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="VIRGILIA">
   <data key="d4">3</data>
 </edge>
-<edge source="MARCIUS" target="COMINIUS">
+<edge source="CORIOLANUS" target="THIRD CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="SECOND CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="FOURTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="LARTIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CORIOLANUS" target="CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="FIRST LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="A PATRICIAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="CORIOLANUS" target="FIRST CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="YOUNG MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CORIOLANUS" target="SENATORS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MESSENGER" target="SECOND CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MESSENGER" target="MESSENGER">
+  <data key="d4">2</data>
+</edge>
+<edge source="SECOND MESSENGER" target="BRUTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MESSENGER" target="AEDILE">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MESSENGER" target="THIRD CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND MESSENGER" target="BOTH TRIBUNES">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="BRUTUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="FIRST SENATOR" target="FIRST SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="MARCIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST SENATOR" target="VOLUMNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="LARTIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST SENATOR" target="TITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="SECOND CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="MESSENGER">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST SENATOR" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="A PATRICIAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST SENATOR" target="FIRST OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="AEDILE">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST SENATOR" target="SENATORS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SENATOR" target="BOTH TRIBUNES">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORDS" target="ALL THE PEOPLE">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORDS" target="FIRST LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORDS" target="FIRST CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORDS" target="THIRD CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORDS" target="SECOND CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="LORDS" target="THIRD LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CONSPIRATOR" target="ALL THE PEOPLE">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CONSPIRATOR" target="FIRST LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CONSPIRATOR" target="FIRST CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CONSPIRATOR" target="SECOND CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CONSPIRATOR" target="THIRD LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEDILE" target="BRUTUS">
   <data key="d4">3</data>
 </edge>
-<edge source="MARCIUS" target="BRUTUS">
+<edge source="AEDILE" target="LARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEDILE" target="SECOND CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEDILE" target="MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEDILE" target="A PATRICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEDILE" target="THIRD CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="AEDILE" target="BOTH TRIBUNES">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST OFFICER" target="OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST OFFICER" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST OFFICER" target="BRUTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST OFFICER" target="SENATORS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="BRUTUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="MESSENGER" target="FIRST SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="VIRGILIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="MARCIUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="MESSENGER" target="VOLUMNIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="LARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="HERALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="SECOND CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="MESSENGER" target="TITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="THIRD CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="BOTH TRIBUNES">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="ALL THE PEOPLE">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="FIRST CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="SECOND CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST LORD" target="THIRD LORD">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTH TRIBUNES" target="SECOND CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="BOTH TRIBUNES" target="BRUTUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="BOTH TRIBUNES" target="THIRD CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="VIRGILIA" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="VIRGILIA" target="BRUTUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="VIRGILIA" target="YOUNG MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="VIRGILIA" target="VOLUMNIA">
+  <data key="d4">5</data>
+</edge>
+<edge source="VIRGILIA" target="HERALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="VIRGILIA" target="GENTLEWOMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD LORD" target="ALL THE PEOPLE">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD LORD" target="FIRST CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD LORD" target="SECOND CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLUMNIA" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLUMNIA" target="BRUTUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="VOLUMNIA" target="HERALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLUMNIA" target="A PATRICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLUMNIA" target="YOUNG MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="VOLUMNIA" target="GENTLEWOMAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="OFFICER" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="OFFICER" target="BRUTUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="OFFICER" target="SENATORS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CONSPIRATOR" target="ALL THE PEOPLE">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST CONSPIRATOR" target="SECOND CONSPIRATOR">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="FIFTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="ALL CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="HERALD">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="SEVENTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="SECOND CITIZEN">
+  <data key="d4">3</data>
+</edge>
+<edge source="BRUTUS" target="TITUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="BOTH CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="THIRD CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="BRUTUS" target="SIXTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="BOTH">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="MARCIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="FOURTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="LARTIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="SECOND OFFICER">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="A PATRICIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="BRUTUS" target="SENATORS">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CITIZEN" target="SIXTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CITIZEN" target="FIFTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CITIZEN" target="FOURTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CITIZEN" target="ALL CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CITIZEN" target="SEVENTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="THIRD CITIZEN" target="SECOND CITIZEN">
+  <data key="d4">2</data>
+</edge>
+<edge source="THIRD CITIZEN" target="BOTH CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIFTH CITIZEN" target="SECOND CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIFTH CITIZEN" target="SEVENTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIFTH CITIZEN" target="SIXTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIFTH CITIZEN" target="BOTH CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIFTH CITIZEN" target="FOURTH CITIZEN">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIFTH CITIZEN" target="ALL CITIZENS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARCIUS" target="FIRST SOLDIER">
   <data key="d4">1</data>
 </edge>
 <edge source="MARCIUS" target="LARTIUS">
@@ -273,1084 +1266,91 @@
 <edge source="MARCIUS" target="TITUS">
   <data key="d4">1</data>
 </edge>
-<edge source="MARCIUS" target="All">
-  <data key="d4">3</data>
-</edge>
-<edge source="MARCIUS" target="First Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCIUS" target="Second Roman">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCIUS" target="First Roman">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCIUS" target="MENENIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCIUS" target="Second Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCIUS" target="CORIOLANUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARCIUS" target="Second Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Third Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Sixth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Third Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="First Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Second Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="BRUTUS">
-  <data key="d4">5</data>
-</edge>
-<edge source="CORIOLANUS" target="Third Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Seventh Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="All Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Second Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="A Patrician">
-  <data key="d4">2</data>
-</edge>
-<edge source="CORIOLANUS" target="All The Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="VOLUMNIA">
-  <data key="d4">4</data>
-</edge>
-<edge source="CORIOLANUS" target="Second Senator">
-  <data key="d4">2</data>
-</edge>
-<edge source="CORIOLANUS" target="Second Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Third Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="MENENIUS">
-  <data key="d4">8</data>
-</edge>
-<edge source="CORIOLANUS" target="VIRGILIA">
-  <data key="d4">3</data>
-</edge>
-<edge source="CORIOLANUS" target="Second Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Both Tribunes">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="LARTIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="CORIOLANUS" target="Citizens">
-  <data key="d4">3</data>
-</edge>
-<edge source="CORIOLANUS" target="Young MARCIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="VALERIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="All Conspirators">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Fifth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="First Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="CORIOLANUS" target="Second Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="AUFIDIUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="CORIOLANUS" target="First Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="AEdile">
-  <data key="d4">2</data>
-</edge>
-<edge source="CORIOLANUS" target="Fourth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Both Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="First Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Both">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="All The People">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Senators">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="All">
-  <data key="d4">4</data>
-</edge>
-<edge source="CORIOLANUS" target="Herald">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="CORIOLANUS" target="COMINIUS">
-  <data key="d4">7</data>
-</edge>
-<edge source="AEdile" target="Second Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEdile" target="Second Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEdile" target="First Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="AEdile" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEdile" target="BRUTUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="AEdile" target="Third Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEdile" target="A Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEdile" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEdile" target="MENENIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="AEdile" target="Second Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEdile" target="Both Tribunes">
-  <data key="d4">2</data>
-</edge>
-<edge source="AEdile" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="AEdile" target="COMINIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="AEdile" target="Citizens">
-  <data key="d4">3</data>
-</edge>
-<edge source="COMINIUS" target="VALERIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="Second Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="Second Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="First Citizen">
-  <data key="d4">3</data>
-</edge>
-<edge source="COMINIUS" target="Messenger">
-  <data key="d4">4</data>
-</edge>
-<edge source="COMINIUS" target="BRUTUS">
-  <data key="d4">7</data>
-</edge>
-<edge source="COMINIUS" target="LARTIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="COMINIUS" target="Third Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="TITUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="First Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="Both">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="Senators">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="All">
-  <data key="d4">3</data>
-</edge>
-<edge source="COMINIUS" target="Herald">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="A Patrician">
-  <data key="d4">2</data>
-</edge>
-<edge source="COMINIUS" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="VOLUMNIA">
-  <data key="d4">3</data>
-</edge>
-<edge source="COMINIUS" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="COMINIUS" target="MENENIUS">
-  <data key="d4">9</data>
-</edge>
-<edge source="COMINIUS" target="VIRGILIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="COMINIUS" target="Second Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="COMINIUS" target="Both Tribunes">
-  <data key="d4">2</data>
-</edge>
-<edge source="COMINIUS" target="Citizens">
-  <data key="d4">3</data>
-</edge>
-<edge source="TITUS" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITUS" target="First Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITUS" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITUS" target="MENENIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITUS" target="BRUTUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="TITUS" target="Second Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Roman" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Roman" target="First Roman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Roman" target="Third Roman">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLUMNIA" target="Young MARCIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLUMNIA" target="Gentlewoman">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLUMNIA" target="VALERIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="VOLUMNIA" target="AUFIDIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLUMNIA" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLUMNIA" target="BRUTUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="VOLUMNIA" target="Both">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLUMNIA" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLUMNIA" target="Herald">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLUMNIA" target="A Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="VOLUMNIA" target="MENENIUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="VOLUMNIA" target="VIRGILIA">
-  <data key="d4">5</data>
-</edge>
-<edge source="Officer" target="Senators">
-  <data key="d4">1</data>
-</edge>
-<edge source="Officer" target="Second Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="Officer" target="BRUTUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Officer" target="MENENIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Officer" target="First Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="Sixth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="Fifth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="First Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="BRUTUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="Second Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="MENENIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="Third Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="Seventh Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="All Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="Fourth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Citizens" target="Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Messenger" target="First Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Messenger" target="Messenger">
-  <data key="d4">2</data>
-</edge>
-<edge source="Second Messenger" target="MENENIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="Second Messenger" target="BRUTUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Messenger" target="Second Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Messenger" target="Both Tribunes">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Messenger" target="Third Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Messenger" target="Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Conspirator" target="Third Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Conspirator" target="All The People">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Conspirator" target="Third Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Conspirator" target="All Conspirators">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Conspirator" target="All The Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Conspirator" target="AUFIDIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Conspirator" target="Second Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Conspirator" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Conspirator" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Conspirator" target="Second Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="Third Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="Young MARCIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="Third Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="Lieutenant">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="All Conspirators">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="Second Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="First Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="Second Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="All The People">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="First Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="All">
-  <data key="d4">2</data>
-</edge>
-<edge source="AUFIDIUS" target="All The Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="Second Senator">
-  <data key="d4">2</data>
-</edge>
-<edge source="AUFIDIUS" target="Second Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="Third Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="MENENIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="VIRGILIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="AUFIDIUS" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Tribunes" target="First Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Tribunes" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Tribunes" target="BRUTUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="Both Tribunes" target="MENENIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="Both Tribunes" target="Second Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Tribunes" target="Third Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both Tribunes" target="Citizens">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Citizen" target="Sixth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Citizen" target="Second Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Citizen" target="Fifth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Citizen" target="Messenger">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Citizen" target="BRUTUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="First Citizen" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Citizen" target="Third Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Citizen" target="Seventh Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Citizen" target="All Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Citizen" target="Fourth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Citizen" target="All">
-  <data key="d4">2</data>
-</edge>
-<edge source="First Citizen" target="A Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Citizen" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Citizen" target="MENENIUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="First Citizen" target="Second Citizen">
-  <data key="d4">3</data>
-</edge>
-<edge source="First Citizen" target="Citizens">
-  <data key="d4">3</data>
-</edge>
-<edge source="Citizens" target="Sixth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Citizens" target="Second Patrician">
+<edge source="MARCIUS" target="SECOND CITIZEN">
   <data key="d4">1</data>
-</edge>
-<edge source="Citizens" target="Fifth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Citizens" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Citizens" target="BRUTUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="Citizens" target="Third Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="Citizens" target="Seventh Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Citizens" target="All Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="Citizens" target="Fourth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Citizens" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="Citizens" target="A Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="Citizens" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="Citizens" target="MENENIUS">
-  <data key="d4">4</data>
-</edge>
-<edge source="Citizens" target="Second Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="Citizens" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Officer" target="Senators">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Officer" target="BRUTUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Officer" target="MENENIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Officer" target="First Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="Sixth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="Messenger">
-  <data key="d4">3</data>
-</edge>
-<edge source="BRUTUS" target="Third Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="BRUTUS" target="Seventh Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="All Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="A Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="MENENIUS">
-  <data key="d4">9</data>
-</edge>
-<edge source="BRUTUS" target="Second Citizen">
-  <data key="d4">3</data>
-</edge>
-<edge source="BRUTUS" target="VIRGILIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="BRUTUS" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="VALERIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="Fifth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="Second Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="Fourth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="First Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="Both">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="Senators">
-  <data key="d4">1</data>
-</edge>
-<edge source="BRUTUS" target="All">
-  <data key="d4">3</data>
-</edge>
-<edge source="BRUTUS" target="Herald">
-  <data key="d4">1</data>
-</edge>
-<edge source="VIRGILIA" target="Both">
-  <data key="d4">1</data>
-</edge>
-<edge source="VIRGILIA" target="Young MARCIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="VIRGILIA" target="Gentlewoman">
-  <data key="d4">1</data>
-</edge>
-<edge source="VIRGILIA" target="VALERIA">
-  <data key="d4">2</data>
-</edge>
-<edge source="VIRGILIA" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="VIRGILIA" target="Herald">
-  <data key="d4">1</data>
-</edge>
-<edge source="VIRGILIA" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="VIRGILIA" target="MENENIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="All" target="Sixth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Messenger">
-  <data key="d4">3</data>
-</edge>
-<edge source="All" target="Second Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Third Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Seventh Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="All Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Third Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="MENENIUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="All" target="Second Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="All" target="LARTIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="All" target="Second Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="VALERIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Fifth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="First Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Fourth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Both">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Herald">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="First Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="All The People" target="Third Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="All The People" target="Third Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="All The People" target="All Conspirators">
-  <data key="d4">1</data>
-</edge>
-<edge source="All The People" target="All The Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="All The People" target="Second Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="All The People" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="All The People" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="All The People" target="Second Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Roman" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Roman" target="First Roman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Lord" target="Third Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Lord" target="Third Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Lord" target="All Conspirators">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Lord" target="All The Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Lord" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Lord" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Lord" target="Second Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="A Patrician" target="Second Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="A Patrician" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="A Patrician" target="MENENIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="A Patrician" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Servingman" target="Second Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="First Servingman" target="Third Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Lord" target="Third Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Lord" target="All Conspirators">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Lord" target="All The Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Lord" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Lord" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Lord" target="Second Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="Sixth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="Messenger">
-  <data key="d4">4</data>
-</edge>
-<edge source="MENENIUS" target="Third Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="MENENIUS" target="Seventh Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="All Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="Second Senator">
-  <data key="d4">2</data>
-</edge>
-<edge source="MENENIUS" target="Second Citizen">
-  <data key="d4">3</data>
-</edge>
-<edge source="MENENIUS" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="VALERIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="Fifth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="Second Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="Fourth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="First Officer">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="Both">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="Senators">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENENIUS" target="Herald">
-  <data key="d4">1</data>
-</edge>
-<edge source="Lieutenant" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="VALERIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="LARTIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="Third Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="Both">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="Herald">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="First Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="Second Citizen">
-  <data key="d4">2</data>
-</edge>
-<edge source="Messenger" target="Second Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="Gentlewoman" target="VALERIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="LARTIUS" target="Second Patrician">
-  <data key="d4">1</data>
-</edge>
-<edge source="LARTIUS" target="First Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="LARTIUS" target="First Roman">
-  <data key="d4">1</data>
-</edge>
-<edge source="LARTIUS" target="Second Senator">
-  <data key="d4">1</data>
-</edge>
-<edge source="LARTIUS" target="Second Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Soldier" target="First Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Conspirator" target="All Conspirators">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Conspirator" target="All The Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Conspirator" target="Lords">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Conspirator" target="First Lord">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Conspirator" target="Second Conspirator">
-  <data key="d4">1</data>
-</edge>
-<edge source="Volsce" target="Roman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Servingman" target="Second Servingman">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both" target="VALERIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Both" target="Herald">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Citizen" target="Sixth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Citizen" target="Fifth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Citizen" target="Seventh Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Citizen" target="All Citizens">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Citizen" target="Fourth Citizen">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Citizen" target="Second Citizen">
-  <data key="d4">2</data>
 </edge>
-<edge source="First Officer" target="Senators">
+<edge source="MARCIUS" target="FIRST ROMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Citizen" target="Sixth Citizen">
+<edge source="MARCIUS" target="SECOND ROMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Citizen" target="Fifth Citizen">
+<edge source="FIRST ROMAN" target="SECOND ROMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Citizen" target="Seventh Citizen">
+<edge source="FIRST ROMAN" target="LARTIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Citizen" target="All Citizens">
+<edge source="LARTIUS" target="FIRST SOLDIER">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Citizen" target="Fourth Citizen">
+<edge source="LARTIUS" target="A PATRICIAN">
   <data key="d4">1</data>
 </edge>
-<edge source="VALERIA" target="Herald">
+<edge source="LARTIUS" target="SECOND ROMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Senator" target="Second Patrician">
+<edge source="LARTIUS" target="LIEUTENANT">
   <data key="d4">1</data>
 </edge>
-<edge source="Sixth Citizen" target="Fifth Citizen">
+<edge source="TITUS" target="SECOND CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="Sixth Citizen" target="Seventh Citizen">
+<edge source="ALL THE PEOPLE" target="SECOND CONSPIRATOR">
   <data key="d4">1</data>
 </edge>
-<edge source="Sixth Citizen" target="All Citizens">
+<edge source="SECOND SERVINGMAN" target="THIRD SERVINGMAN">
   <data key="d4">1</data>
 </edge>
-<edge source="Sixth Citizen" target="Fourth Citizen">
+<edge source="ALL CITIZENS" target="SECOND CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="Fourth Citizen" target="Fifth Citizen">
+<edge source="ALL CITIZENS" target="SEVENTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="Fourth Citizen" target="Seventh Citizen">
+<edge source="ALL CITIZENS" target="SIXTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="Fourth Citizen" target="All Citizens">
+<edge source="ALL CITIZENS" target="BOTH CITIZENS">
   <data key="d4">1</data>
 </edge>
-<edge source="Seventh Citizen" target="Fifth Citizen">
+<edge source="ALL CITIZENS" target="FOURTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="Seventh Citizen" target="All Citizens">
+<edge source="BOTH CITIZENS" target="SECOND CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Lord" target="All Conspirators">
+<edge source="BOTH CITIZENS" target="SEVENTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Lord" target="All The Lords">
+<edge source="BOTH CITIZENS" target="SIXTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Lord" target="Lords">
+<edge source="BOTH CITIZENS" target="FOURTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Lord" target="Second Conspirator">
+<edge source="SECOND CITIZEN" target="SIXTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="Fifth Citizen" target="All Citizens">
+<edge source="SECOND CITIZEN" target="FOURTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="All The Lords" target="All Conspirators">
+<edge source="SECOND CITIZEN" target="SEVENTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="All The Lords" target="Lords">
+<edge source="BOTH" target="HERALD">
   <data key="d4">1</data>
 </edge>
-<edge source="All The Lords" target="Second Conspirator">
+<edge source="SECOND OFFICER" target="SENATORS">
   <data key="d4">1</data>
 </edge>
-<edge source="All Conspirators" target="Lords">
+<edge source="SIXTH CITIZEN" target="SEVENTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="All Conspirators" target="Second Conspirator">
+<edge source="SIXTH CITIZEN" target="FOURTH CITIZEN">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Conspirator" target="Lords">
+<edge source="FOURTH CITIZEN" target="SEVENTH CITIZEN">
   <data key="d4">1</data>
 </edge>
 </graph></graphml>

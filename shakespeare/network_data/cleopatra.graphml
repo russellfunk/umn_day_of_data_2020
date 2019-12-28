@@ -8,359 +8,131 @@
 <data key="d1">Antony and Cleopatra</data>
 <data key="d2">cleopatra</data>
 <data key="d3">tragedy</data>
-<node id="VARRIUS"/>
-<node id="DOMITIUS ENOBARBUS"/>
-<node id="Soldier"/>
-<node id="LEPIDUS"/>
-<node id="OCTAVIUS CAESAR"/>
-<node id="PROCULEIUS"/>
+<node id="MESSENGER"/>
 <node id="CLEOPATRA"/>
-<node id="MARDIAN"/>
-<node id="EROS"/>
-<node id="Attendant"/>
-<node id="Messenger"/>
-<node id="CHARMIAN"/>
-<node id="OCTAVIA"/>
-<node id="MARK ANTONY"/>
-<node id="Third Soldier"/>
 <node id="MENECRATES"/>
-<node id="Fourth Soldier"/>
-<node id="Attendants"/>
+<node id="OCTAVIUS CAESAR"/>
 <node id="IRAS"/>
-<node id="Clown"/>
-<node id="POMPEY"/>
-<node id="DOLABELLA"/>
-<node id="THYREUS"/>
-<node id="Second Servant"/>
-<node id="All"/>
-<node id="SCARUS"/>
-<node id="MENAS"/>
-<node id="Soothsayer"/>
-<node id="Second Soldier"/>
-<node id="MECAENAS"/>
-<node id="DIOMEDES"/>
-<node id="AGRIPPA"/>
-<node id="TAURUS"/>
-<node id="Captain"/>
-<node id="CANIDIUS"/>
-<node id="ALEXAS"/>
-<node id="Egyptian"/>
-<node id="First Servant"/>
-<node id="First Soldier"/>
-<node id="Third Guard"/>
-<node id="First Guard"/>
-<node id="SELEUCUS"/>
-<node id="Second Messenger"/>
-<node id="PHILO"/>
-<node id="First Attendant"/>
 <node id="VENTIDIUS"/>
-<node id="Second Guard"/>
-<node id="EUPHRONIUS"/>
-<node id="DERCETAS"/>
-<node id="GALLUS"/>
-<node id="Second Attendant"/>
-<node id="Guard"/>
-<node id="DEMETRIUS"/>
+<node id="ALEXAS"/>
+<node id="LEPIDUS"/>
+<node id="CHARMIAN"/>
+<node id="FIRST SOLDIER"/>
+<node id="MARK ANTONY"/>
+<node id="EROS"/>
+<node id="MECAENAS"/>
+<node id="SCARUS"/>
+<node id="THYREUS"/>
+<node id="DIOMEDES"/>
+<node id="CANIDIUS"/>
+<node id="MARDIAN"/>
+<node id="DOMITIUS ENOBARBUS"/>
+<node id="ALL"/>
+<node id="ATTENDANTS"/>
+<node id="OCTAVIA"/>
+<node id="PROCULEIUS"/>
+<node id="ATTENDANT"/>
+<node id="SECOND GUARD"/>
+<node id="SOOTHSAYER"/>
+<node id="SELEUCUS"/>
+<node id="SECOND SOLDIER"/>
+<node id="MENAS"/>
+<node id="THIRD SOLDIER"/>
+<node id="DOLABELLA"/>
+<node id="AGRIPPA"/>
 <node id="SILIUS"/>
-<edge source="VARRIUS" target="MENAS">
+<node id="SOLDIER"/>
+<node id="FIRST SERVANT"/>
+<node id="TAURUS"/>
+<node id="GALLUS"/>
+<node id="VARRIUS"/>
+<node id="DERCETAS"/>
+<node id="EUPHRONIUS"/>
+<node id="POMPEY"/>
+<node id="SECOND SERVANT"/>
+<node id="FIRST GUARD"/>
+<node id="GUARD"/>
+<node id="SECOND MESSENGER"/>
+<node id="CAPTAIN"/>
+<node id="FIRST ATTENDANT"/>
+<node id="THIRD GUARD"/>
+<node id="DEMETRIUS"/>
+<node id="EGYPTIAN"/>
+<node id="SECOND ATTENDANT"/>
+<node id="PHILO"/>
+<node id="FOURTH SOLDIER"/>
+<node id="CLOWN"/>
+<edge source="MESSENGER" target="SOOTHSAYER">
   <data key="d4">1</data>
 </edge>
-<edge source="VARRIUS" target="MENECRATES">
+<edge source="MESSENGER" target="MARDIAN">
   <data key="d4">1</data>
 </edge>
-<edge source="VARRIUS" target="POMPEY">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="Second Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="Second Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="SCARUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="MARK ANTONY">
-  <data key="d4">8</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="Messenger">
-  <data key="d4">3</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="CHARMIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="MECAENAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="THYREUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="ALEXAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="IRAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="First Attendant">
+<edge source="MESSENGER" target="SOLDIER">
   <data key="d4">2</data>
 </edge>
-<edge source="DOMITIUS ENOBARBUS" target="CANIDIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="POMPEY">
-  <data key="d4">2</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="Third Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="Second Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="AGRIPPA">
-  <data key="d4">3</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="First Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="OCTAVIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="Soothsayer">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="Second Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="First Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="LEPIDUS">
+<edge source="MESSENGER" target="CLEOPATRA">
   <data key="d4">4</data>
 </edge>
-<edge source="DOMITIUS ENOBARBUS" target="MENAS">
+<edge source="MESSENGER" target="LEPIDUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="SECOND ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="IRAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="MARK ANTONY">
   <data key="d4">2</data>
 </edge>
-<edge source="DOMITIUS ENOBARBUS" target="OCTAVIUS CAESAR">
-  <data key="d4">5</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="CLEOPATRA">
-  <data key="d4">4</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="EUPHRONIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="EROS">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOMITIUS ENOBARBUS" target="Soldier">
+<edge source="MESSENGER" target="ALEXAS">
   <data key="d4">2</data>
 </edge>
-<edge source="Soldier" target="AGRIPPA">
+<edge source="MESSENGER" target="AGRIPPA">
   <data key="d4">1</data>
 </edge>
-<edge source="Soldier" target="All">
+<edge source="MESSENGER" target="FIRST ATTENDANT">
   <data key="d4">1</data>
 </edge>
-<edge source="Soldier" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="Soldier" target="MARK ANTONY">
+<edge source="MESSENGER" target="DOMITIUS ENOBARBUS">
   <data key="d4">3</data>
 </edge>
-<edge source="Soldier" target="Messenger">
+<edge source="MESSENGER" target="CANIDIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="SECOND MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MESSENGER" target="OCTAVIUS CAESAR">
   <data key="d4">2</data>
 </edge>
-<edge source="Soldier" target="CHARMIAN">
+<edge source="MESSENGER" target="ATTENDANTS">
   <data key="d4">1</data>
 </edge>
-<edge source="Soldier" target="CANIDIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Soldier" target="OCTAVIUS CAESAR">
-  <data key="d4">1</data>
-</edge>
-<edge source="Soldier" target="CLEOPATRA">
-  <data key="d4">2</data>
-</edge>
-<edge source="Soldier" target="EROS">
-  <data key="d4">2</data>
-</edge>
-<edge source="LEPIDUS" target="Second Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="LEPIDUS" target="AGRIPPA">
+<edge source="MESSENGER" target="CHARMIAN">
   <data key="d4">3</data>
 </edge>
-<edge source="LEPIDUS" target="MARK ANTONY">
-  <data key="d4">4</data>
+<edge source="CLEOPATRA" target="PHILO">
+  <data key="d4">1</data>
 </edge>
-<edge source="LEPIDUS" target="MECAENAS">
+<edge source="CLEOPATRA" target="MARDIAN">
   <data key="d4">2</data>
 </edge>
-<edge source="LEPIDUS" target="OCTAVIA">
-  <data key="d4">1</data>
-</edge>
-<edge source="LEPIDUS" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="LEPIDUS" target="MENAS">
+<edge source="CLEOPATRA" target="SOLDIER">
   <data key="d4">2</data>
 </edge>
-<edge source="LEPIDUS" target="First Servant">
+<edge source="CLEOPATRA" target="GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="LEPIDUS" target="OCTAVIUS CAESAR">
-  <data key="d4">5</data>
-</edge>
-<edge source="LEPIDUS" target="POMPEY">
-  <data key="d4">2</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="DOLABELLA">
-  <data key="d4">3</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="Second Servant">
+<edge source="CLEOPATRA" target="DOLABELLA">
   <data key="d4">1</data>
 </edge>
-<edge source="OCTAVIUS CAESAR" target="DERCETAS">
+<edge source="CLEOPATRA" target="THYREUS">
   <data key="d4">1</data>
 </edge>
-<edge source="OCTAVIUS CAESAR" target="GALLUS">
+<edge source="CLEOPATRA" target="SECOND ATTENDANT">
   <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="MARK ANTONY">
-  <data key="d4">5</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="Messenger">
-  <data key="d4">2</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="CHARMIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="MECAENAS">
-  <data key="d4">4</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="SELEUCUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="TAURUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="THYREUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="First Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="IRAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="POMPEY">
-  <data key="d4">2</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="AGRIPPA">
-  <data key="d4">5</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="OCTAVIA">
-  <data key="d4">3</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="Soothsayer">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="Egyptian">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="First Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="MENAS">
-  <data key="d4">2</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="Second Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="CLEOPATRA">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="EUPHRONIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIUS CAESAR" target="PROCULEIUS">
-  <data key="d4">2</data>
-</edge>
-<edge source="PROCULEIUS" target="DOLABELLA">
-  <data key="d4">2</data>
-</edge>
-<edge source="PROCULEIUS" target="DERCETAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="GALLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="MECAENAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="CHARMIAN">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="SELEUCUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="First Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="IRAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="AGRIPPA">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="Egyptian">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="Second Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="PROCULEIUS" target="CLEOPATRA">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOPATRA" target="GALLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOPATRA" target="MARK ANTONY">
-  <data key="d4">11</data>
-</edge>
-<edge source="CLEOPATRA" target="Messenger">
-  <data key="d4">4</data>
-</edge>
-<edge source="CLEOPATRA" target="CHARMIAN">
-  <data key="d4">10</data>
-</edge>
-<edge source="CLEOPATRA" target="Attendant">
-  <data key="d4">2</data>
 </edge>
 <edge source="CLEOPATRA" target="SELEUCUS">
   <data key="d4">1</data>
@@ -368,347 +140,77 @@
 <edge source="CLEOPATRA" target="IRAS">
   <data key="d4">4</data>
 </edge>
-<edge source="CLEOPATRA" target="DEMETRIUS">
+<edge source="CLEOPATRA" target="GALLUS">
   <data key="d4">1</data>
 </edge>
-<edge source="CLEOPATRA" target="CANIDIUS">
+<edge source="CLEOPATRA" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="CLEOPATRA" target="Attendants">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOPATRA" target="Captain">
-  <data key="d4">1</data>
+<edge source="CLEOPATRA" target="FIRST ATTENDANT">
+  <data key="d4">2</data>
 </edge>
 <edge source="CLEOPATRA" target="EROS">
   <data key="d4">2</data>
 </edge>
-<edge source="CLEOPATRA" target="EUPHRONIUS">
+<edge source="CLEOPATRA" target="DOMITIUS ENOBARBUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="CLEOPATRA" target="CANIDIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOPATRA" target="SECOND MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOPATRA" target="OCTAVIUS CAESAR">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOPATRA" target="ALL">
+  <data key="d4">4</data>
+</edge>
+<edge source="CLEOPATRA" target="CHARMIAN">
+  <data key="d4">10</data>
+</edge>
+<edge source="CLEOPATRA" target="SOOTHSAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOPATRA" target="FIRST GUARD">
   <data key="d4">1</data>
 </edge>
 <edge source="CLEOPATRA" target="DIOMEDES">
   <data key="d4">1</data>
 </edge>
-<edge source="CLEOPATRA" target="DOLABELLA">
+<edge source="CLEOPATRA" target="CLOWN">
   <data key="d4">1</data>
 </edge>
-<edge source="CLEOPATRA" target="Second Messenger">
+<edge source="CLEOPATRA" target="MARK ANTONY">
+  <data key="d4">11</data>
+</edge>
+<edge source="CLEOPATRA" target="ALEXAS">
+  <data key="d4">3</data>
+</edge>
+<edge source="CLEOPATRA" target="PROCULEIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOPATRA" target="EUPHRONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOPATRA" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOPATRA" target="ATTENDANT">
+  <data key="d4">2</data>
+</edge>
+<edge source="CLEOPATRA" target="ATTENDANTS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CLEOPATRA" target="SECOND GUARD">
   <data key="d4">1</data>
 </edge>
 <edge source="CLEOPATRA" target="SCARUS">
   <data key="d4">1</data>
 </edge>
-<edge source="CLEOPATRA" target="THYREUS">
+<edge source="MENECRATES" target="VARRIUS">
   <data key="d4">1</data>
-</edge>
-<edge source="CLEOPATRA" target="ALEXAS">
-  <data key="d4">3</data>
-</edge>
-<edge source="CLEOPATRA" target="First Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOPATRA" target="First Attendant">
-  <data key="d4">2</data>
-</edge>
-<edge source="CLEOPATRA" target="Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOPATRA" target="All">
-  <data key="d4">4</data>
-</edge>
-<edge source="CLEOPATRA" target="Soothsayer">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOPATRA" target="Second Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOPATRA" target="MARDIAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="CLEOPATRA" target="Second Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOPATRA" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="CLEOPATRA" target="PHILO">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="DERCETAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="Third Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="MARK ANTONY">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="CHARMIAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="MARDIAN" target="Second Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="ALEXAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="First Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="EROS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="Attendants">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARDIAN" target="DIOMEDES">
-  <data key="d4">1</data>
-</edge>
-<edge source="EROS" target="DERCETAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="EROS" target="SCARUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="EROS" target="MARK ANTONY">
-  <data key="d4">5</data>
-</edge>
-<edge source="EROS" target="CHARMIAN">
-  <data key="d4">2</data>
-</edge>
-<edge source="EROS" target="First Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="EROS" target="IRAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="EROS" target="AGRIPPA">
-  <data key="d4">1</data>
-</edge>
-<edge source="EROS" target="All">
-  <data key="d4">3</data>
-</edge>
-<edge source="EROS" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="EROS" target="Third Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="EROS" target="Second Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="EROS" target="DIOMEDES">
-  <data key="d4">1</data>
-</edge>
-<edge source="Attendant" target="MARK ANTONY">
-  <data key="d4">2</data>
-</edge>
-<edge source="Attendant" target="THYREUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Attendant" target="DEMETRIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Attendant" target="First Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="Attendant" target="EUPHRONIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Attendant" target="PHILO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="Second Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="MARK ANTONY">
-  <data key="d4">2</data>
-</edge>
-<edge source="Messenger" target="CHARMIAN">
-  <data key="d4">3</data>
-</edge>
-<edge source="Messenger" target="ALEXAS">
-  <data key="d4">2</data>
-</edge>
-<edge source="Messenger" target="IRAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="First Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="CANIDIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="Attendants">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="AGRIPPA">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="Soothsayer">
-  <data key="d4">1</data>
-</edge>
-<edge source="Messenger" target="Second Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="DOLABELLA">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="Second Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="GALLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="MARK ANTONY">
-  <data key="d4">5</data>
-</edge>
-<edge source="CHARMIAN" target="SELEUCUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="ALEXAS">
-  <data key="d4">3</data>
-</edge>
-<edge source="CHARMIAN" target="First Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="IRAS">
-  <data key="d4">4</data>
-</edge>
-<edge source="CHARMIAN" target="First Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="Attendants">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="All">
-  <data key="d4">3</data>
-</edge>
-<edge source="CHARMIAN" target="Soothsayer">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="Second Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="Second Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="Clown">
-  <data key="d4">1</data>
-</edge>
-<edge source="CHARMIAN" target="DIOMEDES">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIA" target="AGRIPPA">
-  <data key="d4">2</data>
-</edge>
-<edge source="OCTAVIA" target="MARK ANTONY">
-  <data key="d4">3</data>
-</edge>
-<edge source="OCTAVIA" target="MECAENAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="OCTAVIA" target="Soothsayer">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="DERCETAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="IRAS">
-  <data key="d4">3</data>
-</edge>
-<edge source="MARK ANTONY" target="DEMETRIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="CANIDIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="First Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="EUPHRONIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="DIOMEDES">
-  <data key="d4">2</data>
-</edge>
-<edge source="MARK ANTONY" target="Second Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="Second Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="SCARUS">
-  <data key="d4">3</data>
-</edge>
-<edge source="MARK ANTONY" target="THYREUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="MECAENAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="ALEXAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="First Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="First Attendant">
-  <data key="d4">2</data>
-</edge>
-<edge source="MARK ANTONY" target="POMPEY">
-  <data key="d4">2</data>
-</edge>
-<edge source="MARK ANTONY" target="AGRIPPA">
-  <data key="d4">3</data>
-</edge>
-<edge source="MARK ANTONY" target="All">
-  <data key="d4">5</data>
-</edge>
-<edge source="MARK ANTONY" target="Third Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="Soothsayer">
-  <data key="d4">2</data>
-</edge>
-<edge source="MARK ANTONY" target="Second Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="Second Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="MARK ANTONY" target="MENAS">
-  <data key="d4">2</data>
-</edge>
-<edge source="MARK ANTONY" target="PHILO">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Soldier" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Soldier" target="First Soldier">
-  <data key="d4">2</data>
-</edge>
-<edge source="Third Soldier" target="Fourth Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="Third Soldier" target="Second Soldier">
-  <data key="d4">2</data>
 </edge>
 <edge source="MENECRATES" target="MENAS">
   <data key="d4">1</data>
@@ -716,188 +218,419 @@
 <edge source="MENECRATES" target="POMPEY">
   <data key="d4">1</data>
 </edge>
-<edge source="Fourth Soldier" target="All">
+<edge source="OCTAVIUS CAESAR" target="SOOTHSAYER">
   <data key="d4">1</data>
 </edge>
-<edge source="Fourth Soldier" target="Second Soldier">
+<edge source="OCTAVIUS CAESAR" target="SECOND SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="Fourth Soldier" target="First Soldier">
+<edge source="OCTAVIUS CAESAR" target="FIRST GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="DOLABELLA">
+<edge source="OCTAVIUS CAESAR" target="TAURUS">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="Second Messenger">
+<edge source="OCTAVIUS CAESAR" target="SECOND GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="GALLUS">
+<edge source="OCTAVIUS CAESAR" target="SOLDIER">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="SELEUCUS">
+<edge source="OCTAVIUS CAESAR" target="GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="ALEXAS">
+<edge source="OCTAVIUS CAESAR" target="EGYPTIAN">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="First Guard">
+<edge source="OCTAVIUS CAESAR" target="DOLABELLA">
+  <data key="d4">3</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="THYREUS">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="First Attendant">
+<edge source="OCTAVIUS CAESAR" target="LEPIDUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="FIRST SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="Guard">
+<edge source="OCTAVIUS CAESAR" target="DERCETAS">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="All">
+<edge source="OCTAVIUS CAESAR" target="MECAENAS">
+  <data key="d4">4</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="SELEUCUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="IRAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="MARK ANTONY">
+  <data key="d4">5</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="GALLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="AGRIPPA">
+  <data key="d4">5</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="PROCULEIUS">
   <data key="d4">2</data>
 </edge>
-<edge source="IRAS" target="Soothsayer">
+<edge source="OCTAVIUS CAESAR" target="DOMITIUS ENOBARBUS">
+  <data key="d4">5</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="EUPHRONIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="Second Attendant">
+<edge source="OCTAVIUS CAESAR" target="OCTAVIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="ALL">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="Second Guard">
+<edge source="OCTAVIUS CAESAR" target="CHARMIAN">
   <data key="d4">1</data>
 </edge>
-<edge source="IRAS" target="Clown">
+<edge source="OCTAVIUS CAESAR" target="MENAS">
+  <data key="d4">2</data>
+</edge>
+<edge source="OCTAVIUS CAESAR" target="POMPEY">
+  <data key="d4">2</data>
+</edge>
+<edge source="IRAS" target="SOOTHSAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="IRAS" target="FIRST GUARD">
   <data key="d4">1</data>
 </edge>
 <edge source="IRAS" target="DIOMEDES">
   <data key="d4">1</data>
 </edge>
-<edge source="Clown" target="DOLABELLA">
+<edge source="IRAS" target="GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="Clown" target="GALLUS">
+<edge source="IRAS" target="DOLABELLA">
   <data key="d4">1</data>
 </edge>
-<edge source="Clown" target="SELEUCUS">
+<edge source="IRAS" target="SECOND ATTENDANT">
   <data key="d4">1</data>
 </edge>
-<edge source="Clown" target="Second Guard">
+<edge source="IRAS" target="CLOWN">
   <data key="d4">1</data>
 </edge>
-<edge source="Clown" target="First Guard">
+<edge source="IRAS" target="SELEUCUS">
   <data key="d4">1</data>
 </edge>
-<edge source="Clown" target="Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="POMPEY" target="Second Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="POMPEY" target="MENAS">
+<edge source="IRAS" target="MARK ANTONY">
   <data key="d4">3</data>
 </edge>
-<edge source="POMPEY" target="First Servant">
+<edge source="IRAS" target="GALLUS">
   <data key="d4">1</data>
 </edge>
-<edge source="DOLABELLA" target="DERCETAS">
+<edge source="IRAS" target="ALEXAS">
   <data key="d4">1</data>
 </edge>
-<edge source="DOLABELLA" target="GALLUS">
+<edge source="IRAS" target="FIRST ATTENDANT">
   <data key="d4">1</data>
 </edge>
-<edge source="DOLABELLA" target="THYREUS">
+<edge source="IRAS" target="EROS">
   <data key="d4">1</data>
 </edge>
-<edge source="DOLABELLA" target="MECAENAS">
+<edge source="IRAS" target="PROCULEIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="DOLABELLA" target="SELEUCUS">
+<edge source="IRAS" target="DOMITIUS ENOBARBUS">
   <data key="d4">1</data>
 </edge>
-<edge source="DOLABELLA" target="First Guard">
+<edge source="IRAS" target="SECOND MESSENGER">
   <data key="d4">1</data>
 </edge>
-<edge source="DOLABELLA" target="Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOLABELLA" target="AGRIPPA">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOLABELLA" target="All">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOLABELLA" target="Egyptian">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOLABELLA" target="Second Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="DOLABELLA" target="EUPHRONIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="THYREUS" target="First Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="THYREUS" target="EUPHRONIUS">
+<edge source="IRAS" target="ALL">
   <data key="d4">2</data>
 </edge>
-<edge source="Second Servant" target="MENAS">
+<edge source="IRAS" target="CHARMIAN">
+  <data key="d4">4</data>
+</edge>
+<edge source="IRAS" target="SECOND GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Servant" target="First Servant">
+<edge source="VENTIDIUS" target="SILIUS">
   <data key="d4">1</data>
 </edge>
-<edge source="All" target="DERCETAS">
+<edge source="ALEXAS" target="SOOTHSAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALEXAS" target="FIRST ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALEXAS" target="MARDIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALEXAS" target="DOMITIUS ENOBARBUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALEXAS" target="SECOND MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALEXAS" target="SECOND ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALEXAS" target="MARK ANTONY">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALEXAS" target="CHARMIAN">
+  <data key="d4">3</data>
+</edge>
+<edge source="LEPIDUS" target="SECOND SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEPIDUS" target="DOMITIUS ENOBARBUS">
+  <data key="d4">4</data>
+</edge>
+<edge source="LEPIDUS" target="OCTAVIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEPIDUS" target="FIRST SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="LEPIDUS" target="MECAENAS">
   <data key="d4">2</data>
 </edge>
-<edge source="All" target="MECAENAS">
-  <data key="d4">1</data>
+<edge source="LEPIDUS" target="MARK ANTONY">
+  <data key="d4">4</data>
 </edge>
-<edge source="All" target="First Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="AGRIPPA">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Captain">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="First Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Third Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Egyptian">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Second Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="Second Soldier">
-  <data key="d4">1</data>
-</edge>
-<edge source="All" target="DIOMEDES">
+<edge source="LEPIDUS" target="MENAS">
   <data key="d4">2</data>
 </edge>
-<edge source="SCARUS" target="AGRIPPA">
-  <data key="d4">1</data>
-</edge>
-<edge source="SCARUS" target="CANIDIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="MENAS" target="First Servant">
-  <data key="d4">1</data>
-</edge>
-<edge source="Soothsayer" target="Second Messenger">
-  <data key="d4">1</data>
-</edge>
-<edge source="Soothsayer" target="Second Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="Soothsayer" target="ALEXAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Soothsayer" target="First Attendant">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Soldier" target="First Soldier">
+<edge source="LEPIDUS" target="POMPEY">
   <data key="d4">2</data>
+</edge>
+<edge source="LEPIDUS" target="AGRIPPA">
+  <data key="d4">3</data>
+</edge>
+<edge source="CHARMIAN" target="SOOTHSAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="FIRST GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="MARDIAN">
+  <data key="d4">2</data>
+</edge>
+<edge source="CHARMIAN" target="DIOMEDES">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="DOLABELLA">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="SECOND ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="SELEUCUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="MARK ANTONY">
+  <data key="d4">5</data>
+</edge>
+<edge source="CHARMIAN" target="GALLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="EROS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CHARMIAN" target="FIRST ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="PROCULEIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="DOMITIUS ENOBARBUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="SECOND MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="ALL">
+  <data key="d4">3</data>
+</edge>
+<edge source="CHARMIAN" target="ATTENDANTS">
+  <data key="d4">1</data>
+</edge>
+<edge source="CHARMIAN" target="SECOND GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SOLDIER" target="DOMITIUS ENOBARBUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SOLDIER" target="THIRD SOLDIER">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST SOLDIER" target="SECOND SOLDIER">
+  <data key="d4">2</data>
+</edge>
+<edge source="FIRST SOLDIER" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="FIRST SOLDIER" target="FOURTH SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="PHILO">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="MARDIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="SOLDIER">
+  <data key="d4">3</data>
+</edge>
+<edge source="MARK ANTONY" target="THYREUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="SECOND ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="FIRST SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="MECAENAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="THIRD GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="EROS">
+  <data key="d4">5</data>
+</edge>
+<edge source="MARK ANTONY" target="FIRST ATTENDANT">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARK ANTONY" target="DOMITIUS ENOBARBUS">
+  <data key="d4">8</data>
+</edge>
+<edge source="MARK ANTONY" target="OCTAVIA">
+  <data key="d4">3</data>
+</edge>
+<edge source="MARK ANTONY" target="CANIDIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="SECOND MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="ALL">
+  <data key="d4">5</data>
+</edge>
+<edge source="MARK ANTONY" target="MENAS">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARK ANTONY" target="POMPEY">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARK ANTONY" target="SOOTHSAYER">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARK ANTONY" target="SECOND SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="FIRST GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="DIOMEDES">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARK ANTONY" target="DERCETAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="AGRIPPA">
+  <data key="d4">3</data>
+</edge>
+<edge source="MARK ANTONY" target="EUPHRONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="ATTENDANT">
+  <data key="d4">2</data>
+</edge>
+<edge source="MARK ANTONY" target="SECOND GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARK ANTONY" target="SCARUS">
+  <data key="d4">3</data>
+</edge>
+<edge source="EROS" target="FIRST GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="EROS" target="MARDIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="EROS" target="DIOMEDES">
+  <data key="d4">1</data>
+</edge>
+<edge source="EROS" target="SOLDIER">
+  <data key="d4">2</data>
+</edge>
+<edge source="EROS" target="DERCETAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="EROS" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="EROS" target="AGRIPPA">
+  <data key="d4">1</data>
+</edge>
+<edge source="EROS" target="THIRD GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="EROS" target="DOMITIUS ENOBARBUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="EROS" target="ALL">
+  <data key="d4">3</data>
+</edge>
+<edge source="EROS" target="SECOND GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="EROS" target="SCARUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MECAENAS" target="PROCULEIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MECAENAS" target="DOMITIUS ENOBARBUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MECAENAS" target="EGYPTIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="MECAENAS" target="DOLABELLA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MECAENAS" target="OCTAVIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="MECAENAS" target="ALL">
+  <data key="d4">1</data>
 </edge>
 <edge source="MECAENAS" target="DERCETAS">
   <data key="d4">1</data>
@@ -905,100 +638,367 @@
 <edge source="MECAENAS" target="AGRIPPA">
   <data key="d4">4</data>
 </edge>
-<edge source="MECAENAS" target="Egyptian">
+<edge source="SCARUS" target="DOMITIUS ENOBARBUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SCARUS" target="CANIDIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SCARUS" target="AGRIPPA">
+  <data key="d4">1</data>
+</edge>
+<edge source="THYREUS" target="FIRST ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="THYREUS" target="DOMITIUS ENOBARBUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="THYREUS" target="EUPHRONIUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="THYREUS" target="DOLABELLA">
+  <data key="d4">1</data>
+</edge>
+<edge source="THYREUS" target="ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIOMEDES" target="THIRD GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIOMEDES" target="FIRST GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="DIOMEDES" target="MARDIAN">
   <data key="d4">1</data>
 </edge>
 <edge source="DIOMEDES" target="DERCETAS">
   <data key="d4">1</data>
 </edge>
-<edge source="DIOMEDES" target="Third Guard">
+<edge source="DIOMEDES" target="ALL">
+  <data key="d4">2</data>
+</edge>
+<edge source="DIOMEDES" target="SECOND GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="DIOMEDES" target="Second Guard">
+<edge source="CANIDIUS" target="DOMITIUS ENOBARBUS">
+  <data key="d4">2</data>
+</edge>
+<edge source="CANIDIUS" target="SOLDIER">
   <data key="d4">1</data>
 </edge>
-<edge source="DIOMEDES" target="First Guard">
+<edge source="MARDIAN" target="THIRD GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARDIAN" target="FIRST GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARDIAN" target="DERCETAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARDIAN" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARDIAN" target="ATTENDANTS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MARDIAN" target="SECOND GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="SOOTHSAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="SECOND SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="SOLDIER">
+  <data key="d4">2</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="FIRST SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="SECOND ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="AGRIPPA">
+  <data key="d4">3</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="FIRST ATTENDANT">
+  <data key="d4">2</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="EUPHRONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="OCTAVIA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="SECOND MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="THIRD SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="SECOND SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="ALL">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="MENAS">
+  <data key="d4">2</data>
+</edge>
+<edge source="DOMITIUS ENOBARBUS" target="POMPEY">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="FIRST GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="EGYPTIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="DOLABELLA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="DERCETAS">
+  <data key="d4">2</data>
+</edge>
+<edge source="ALL" target="FOURTH SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="CAPTAIN">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="AGRIPPA">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="THIRD GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="PROCULEIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="THIRD SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SECOND SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="ALL" target="SECOND GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIA" target="SOOTHSAYER">
+  <data key="d4">1</data>
+</edge>
+<edge source="OCTAVIA" target="AGRIPPA">
+  <data key="d4">2</data>
+</edge>
+<edge source="PROCULEIUS" target="FIRST GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROCULEIUS" target="EGYPTIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROCULEIUS" target="GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROCULEIUS" target="DOLABELLA">
+  <data key="d4">2</data>
+</edge>
+<edge source="PROCULEIUS" target="DERCETAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROCULEIUS" target="CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROCULEIUS" target="SELEUCUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROCULEIUS" target="GALLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROCULEIUS" target="AGRIPPA">
+  <data key="d4">1</data>
+</edge>
+<edge source="PROCULEIUS" target="SECOND GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="ATTENDANT" target="FIRST ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="ATTENDANT" target="PHILO">
+  <data key="d4">1</data>
+</edge>
+<edge source="ATTENDANT" target="EUPHRONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="ATTENDANT" target="DEMETRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GUARD" target="FIRST GUARD">
+  <data key="d4">2</data>
+</edge>
+<edge source="SECOND GUARD" target="GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GUARD" target="DOLABELLA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GUARD" target="DERCETAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GUARD" target="CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GUARD" target="SELEUCUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GUARD" target="GALLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND GUARD" target="THIRD GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="SOOTHSAYER" target="FIRST ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SOOTHSAYER" target="SECOND MESSENGER">
+  <data key="d4">1</data>
+</edge>
+<edge source="SOOTHSAYER" target="SECOND ATTENDANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="SELEUCUS" target="FIRST GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="SELEUCUS" target="GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="SELEUCUS" target="DOLABELLA">
+  <data key="d4">1</data>
+</edge>
+<edge source="SELEUCUS" target="CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="SELEUCUS" target="GALLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="SECOND SOLDIER" target="THIRD SOLDIER">
+  <data key="d4">2</data>
+</edge>
+<edge source="SECOND SOLDIER" target="FOURTH SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENAS" target="VARRIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENAS" target="SECOND SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENAS" target="FIRST SERVANT">
+  <data key="d4">1</data>
+</edge>
+<edge source="MENAS" target="POMPEY">
+  <data key="d4">3</data>
+</edge>
+<edge source="THIRD SOLDIER" target="FOURTH SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOLABELLA" target="FIRST GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOLABELLA" target="GUARD">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOLABELLA" target="EGYPTIAN">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOLABELLA" target="DERCETAS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOLABELLA" target="CLOWN">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOLABELLA" target="GALLUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOLABELLA" target="AGRIPPA">
+  <data key="d4">1</data>
+</edge>
+<edge source="DOLABELLA" target="EUPHRONIUS">
+  <data key="d4">1</data>
+</edge>
+<edge source="AGRIPPA" target="SOLDIER">
+  <data key="d4">1</data>
+</edge>
+<edge source="AGRIPPA" target="EGYPTIAN">
   <data key="d4">1</data>
 </edge>
 <edge source="AGRIPPA" target="DERCETAS">
   <data key="d4">1</data>
 </edge>
-<edge source="AGRIPPA" target="Egyptian">
+<edge source="SOLDIER" target="CAPTAIN">
   <data key="d4">1</data>
 </edge>
-<edge source="ALEXAS" target="Second Messenger">
+<edge source="FIRST SERVANT" target="SECOND SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="ALEXAS" target="Second Attendant">
+<edge source="FIRST SERVANT" target="POMPEY">
   <data key="d4">1</data>
 </edge>
-<edge source="ALEXAS" target="First Attendant">
+<edge source="GALLUS" target="FIRST GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="Egyptian" target="DERCETAS">
+<edge source="GALLUS" target="GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Guard" target="DERCETAS">
+<edge source="GALLUS" target="CLOWN">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Guard" target="Second Guard">
+<edge source="VARRIUS" target="POMPEY">
   <data key="d4">1</data>
 </edge>
-<edge source="Third Guard" target="First Guard">
+<edge source="DERCETAS" target="THIRD GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="First Guard" target="DERCETAS">
+<edge source="DERCETAS" target="FIRST GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="First Guard" target="GALLUS">
+<edge source="DERCETAS" target="EGYPTIAN">
   <data key="d4">1</data>
 </edge>
-<edge source="First Guard" target="SELEUCUS">
+<edge source="EUPHRONIUS" target="FIRST ATTENDANT">
   <data key="d4">1</data>
 </edge>
-<edge source="First Guard" target="Guard">
+<edge source="POMPEY" target="SECOND SERVANT">
   <data key="d4">1</data>
 </edge>
-<edge source="First Guard" target="Second Guard">
-  <data key="d4">2</data>
-</edge>
-<edge source="SELEUCUS" target="GALLUS">
+<edge source="FIRST GUARD" target="GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="SELEUCUS" target="Second Guard">
+<edge source="FIRST GUARD" target="CLOWN">
   <data key="d4">1</data>
 </edge>
-<edge source="SELEUCUS" target="Guard">
+<edge source="FIRST GUARD" target="THIRD GUARD">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Messenger" target="Second Attendant">
+<edge source="GUARD" target="CLOWN">
   <data key="d4">1</data>
 </edge>
-<edge source="Second Messenger" target="First Attendant">
+<edge source="SECOND MESSENGER" target="FIRST ATTENDANT">
   <data key="d4">1</data>
 </edge>
-<edge source="PHILO" target="DEMETRIUS">
+<edge source="SECOND MESSENGER" target="SECOND ATTENDANT">
   <data key="d4">1</data>
 </edge>
-<edge source="First Attendant" target="Second Attendant">
+<edge source="FIRST ATTENDANT" target="SECOND ATTENDANT">
   <data key="d4">1</data>
 </edge>
-<edge source="First Attendant" target="EUPHRONIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="VENTIDIUS" target="SILIUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Guard" target="DERCETAS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Guard" target="GALLUS">
-  <data key="d4">1</data>
-</edge>
-<edge source="Second Guard" target="Guard">
-  <data key="d4">1</data>
-</edge>
-<edge source="GALLUS" target="Guard">
+<edge source="DEMETRIUS" target="PHILO">
   <data key="d4">1</data>
 </edge>
 </graph></graphml>
