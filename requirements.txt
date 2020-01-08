@@ -2,4 +2,3 @@ networkx
 matplotlib
 seaborn
 pandas
-pygraphviz
